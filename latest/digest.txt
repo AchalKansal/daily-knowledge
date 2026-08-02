@@ -1,5 +1,29 @@
-📚 Technology
+📚 Daily Knowledge — Aug 2, 2026
 
-The word "bug" in computing predates electronics: in 1947, engineers at Harvard found a literal moth jammed in a relay of the Mark II computer, causing a malfunction. They taped it into the logbook with the note "first actual case of bug being found." The term already existed in engineering slang, but this is the most famous literal instance.
+🔬 Science: LHC experiments found new signals in oxygen-neon collisions, and physicists built the first all-optical photonic time crystal capable of reshaping terahertz light at extraordinary speeds.
 
-Over 95% of intercontinental internet traffic — video calls, financial transfers, everything — travels through undersea fiber-optic cables, not satellites. There are only a few hundred of these cables total, and some are armored specifically because sharks have been recorded biting them.
+📜 History: On this day in 1776, most members of the Continental Congress signed the engrossed copy of the Declaration of Independence.
+
+🤔 Philosophy: Ethics is dominating 2026 philosophical debate — algorithmic bias, responsibility for autonomous systems, and the limits of AI intervention are now central questions in the field.
+
+💻 Technology: Alphabet, Amazon and Microsoft added nearly $1.5T in combined market value this week, while Google abruptly shut down an AI satellite-image-editing feature in Google Earth just days after launch.
+
+🌍 Geography: Scientists discovered a giant fan-shaped network of hidden basins beneath East Antarctica, revealing that several known subglacial features are actually one massive connected structure.
+
+💰 Economics: Six major tech hyperscalers issued roughly $250B in new bonds in H1 2026, even as CEO confidence turned negative amid a darkening 6-month economic outlook.
+
+🧠 Psychology: New research finds raw processing speed peaks in your 20s, but overall psychological functioning peaks around 55-60 — emotional intelligence peaks in the mid-40s, financial literacy in the late 60s.
+
+🎨 Art & Literature: Julia Elliott's "Hellions" won the 2026 Carol Shields Prize, and the PEN America Literary Awards distributed nearly $350,000 to writers and translators this year.
+
+🔭 Astronomy & Space: August 12 brings a rare triple event — a six-planet alignment, a total solar eclipse crossing Greenland, Iceland, Spain and Portugal, and the peak of the Perseid meteor shower, all on the same day.
+
+🧬 Biology & Evolution: A major DNA study rewrote the koala's evolutionary history, revealing a dramatic population collapse roughly 100,000 years ago — long before humans reached Australia.
+
+🗺️ World Cultures & Languages: Nearly 40% of the world's ~7,000 living languages are now endangered; UNESCO and IBBY just launched a global call for children's books in Indigenous and endangered languages.
+
+➗ Mathematics: An AI model helped disprove the Jacobian conjecture above two dimensions, part of a wave of AI-assisted proofs this year — including one that overturned a 150-year-old rule in geometry.
+
+⚖️ Politics & Law: The Supreme Court's term closed with a 6-3 ruling upholding a president's power to remove an FTC commissioner without cause, among other high-profile rulings on federal agency independence.
+
+🎵 Music: The Waterperry Opera Festival opens this week under a new artistic director, and Munich's ARD International Music Competition — one of classical music's most prestigious contests — begins August 30.
