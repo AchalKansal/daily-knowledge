@@ -1,0 +1,3 @@
+📚 Daily Knowledge
+
+This is a placeholder. The Claude routine overwrites this file each day and pushes it, which triggers the delivery workflow.

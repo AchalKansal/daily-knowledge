@@ -1,0 +1,25 @@
+name: Deliver Daily Knowledge
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'latest/digest.txt'
+
+jobs:
+  deliver:
+    runs-on: ubuntu-latest
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send digest to Telegram and ntfy
+        run: |
+          DIGEST=$(cat latest/digest.txt)
+          curl -sf -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode chat_id="${TELEGRAM_CHAT_ID}" \
+            --data-urlencode text="${DIGEST}"
+          curl -sf --data-binary "${DIGEST}" "https://ntfy.sh/${NTFY_TOPIC}"
