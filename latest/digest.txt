@@ -1,3 +1,5 @@
-📚 Daily Knowledge
+📚 Technology
 
-This is a placeholder. The Claude routine overwrites this file each day and pushes it, which triggers the delivery workflow.
+The word "bug" in computing predates electronics: in 1947, engineers at Harvard found a literal moth jammed in a relay of the Mark II computer, causing a malfunction. They taped it into the logbook with the note "first actual case of bug being found." The term already existed in engineering slang, but this is the most famous literal instance.
+
+Over 95% of intercontinental internet traffic — video calls, financial transfers, everything — travels through undersea fiber-optic cables, not satellites. There are only a few hundred of these cables total, and some are armored specifically because sharks have been recorded biting them.
