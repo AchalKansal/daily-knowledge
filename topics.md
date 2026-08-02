@@ -1,18 +1,19 @@
-# Topic rotation
+# Topic categories
 
-Index = `day_of_year % 14`. One topic per day, cycling every 2 weeks.
+All 14 categories are covered every day, each with one real, recent
+news item/development (not evergreen trivia):
 
-0. Science
-1. History
-2. Philosophy
-3. Technology
-4. Geography
-5. Economics
-6. Psychology
-7. Art & Literature
-8. Astronomy & Space
-9. Biology & Evolution
-10. World Cultures & Languages
-11. Mathematics
-12. Politics & Law (historical/conceptual, not current events)
-13. Music
+1. Science
+2. History (notable "this day/week in history" event)
+3. Philosophy
+4. Technology
+5. Geography
+6. Economics
+7. Psychology
+8. Art & Literature
+9. Astronomy & Space
+10. Biology & Evolution
+11. World Cultures & Languages
+12. Mathematics
+13. Politics & Law
+14. Music

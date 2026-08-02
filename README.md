@@ -4,34 +4,36 @@ A daily general-knowledge digest delivered to Telegram and ntfy.
 
 ## How it works
 
-This isn't a script you run — it's a **Claude scheduled cloud routine**
-(see https://claude.ai/code/routines). Once a day, at a fixed time, a cloud
-agent wakes up, picks the day's topic (deterministic rotation, see below),
-writes 1-2 concise, non-obvious facts or ideas about it, and sends the
-result to both:
+This is a **Claude scheduled cloud routine** (see
+https://claude.ai/code/routines) paired with a GitHub Actions delivery
+pipeline, because the routine's cloud sandbox blocks outbound requests to
+arbitrary hosts (confirmed: `api.telegram.org` and `ntfy.sh` both 403 at
+the sandbox's network egress proxy).
 
-- **Telegram** — via the Bot API (`sendMessage`)
-- **ntfy.sh** — via a plain HTTP POST to a private topic
+**How it actually runs:**
 
-The routine is self-contained (its prompt embeds the topic list and the
-rotation logic), since cloud agents don't have access to this machine, this
-folder, or any local files. This folder exists purely as a human-readable
-record of the setup and the topic list — it is not read by the routine.
+1. Once a day, the Claude routine wakes up, researches one real, recent
+   news item/development for each of the 14 categories in
+   [topics.md](topics.md) (via WebSearch), writes the formatted digest to
+   `latest/digest.txt`, and commits + pushes to this repo.
+2. That push triggers `.github/workflows/deliver.yml` on GitHub's own
+   runners (unrestricted network access), which reads `latest/digest.txt`
+   and delivers it to:
+   - **Telegram** — via the Bot API (`sendMessage`)
+   - **ntfy.sh** — via a plain HTTP POST to a private topic
 
-## Topic rotation
-
-14 topics, one per day, cycling on `day_of_year % 14`. See [topics.md](topics.md)
-for the list. Because the routine writes fresh content each run (not
-pulling from a fixed database), repeats of a topic later in the cycle
-surface different facts, not the same ones.
+The routine's prompt is self-contained (topic list embedded directly),
+since cloud agents don't have access to this machine or any local files.
 
 ## Delivery channels
 
-- **Telegram bot**: created via @BotFather. Token + chat ID are stored in
-  the routine config on claude.ai, not in this repo.
+- **Telegram bot**: created via @BotFather.
 - **ntfy topic**: a private, hard-to-guess topic name (ntfy has no auth on
   the free tier — anyone who knows the exact topic name can subscribe to
   it, so treat the topic name itself as a secret).
+- Both are stored as **GitHub Actions secrets** on this repo
+  (`TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`, `NTFY_TOPIC`) — not in the
+  routine config and not committed to this repo's code.
 
 ## Managing the routine
 
