@@ -1,12 +1,20 @@
 📚 Daily Knowledge — Aug 2, 2026
 
+🌐 Top World News
+• Trump's "Board of Peace" says it has reached a deal with Hamas for full disarmament, calling it a "historic breakthrough" — a senior Hamas official says an Israeli withdrawal must come first.
+• Spain's Ceuta border crisis with Morocco has killed at least 67 people, after a mass crossing attempt at a breakwater barrier turned into a stampede.
+• In southern Lebanon, the ancient town of Nabatiyeh is enduring its latest conflict with Israel, residents say testing the limits of endurance built up over generations of past wars.
+
+💻 Technology
+• A federal judge said the Trump administration hasn't shown enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's attempted ban on its AI technology.
+• Palo Alto Networks' Unit 42 exposed a Zhuhai-based actor who wired DeepSeek into an open-source agent framework and directed it via Telegram to attack 460+ internet-facing systems.
+• California's SB 942 became operative today, requiring major generative-AI providers (1M+ CA users) to embed C2PA-style provenance in AI images/video/audio and offer a free public detection tool.
+
 🔬 Science: LHC experiments found new signals in oxygen-neon collisions, and physicists built the first all-optical photonic time crystal capable of reshaping terahertz light at extraordinary speeds.
 
 📜 History: On this day in 1776, most members of the Continental Congress signed the engrossed copy of the Declaration of Independence.
 
 🤔 Philosophy: Ethics is dominating 2026 philosophical debate — algorithmic bias, responsibility for autonomous systems, and the limits of AI intervention are now central questions in the field.
-
-💻 Technology: Alphabet, Amazon and Microsoft added nearly $1.5T in combined market value this week, while Google abruptly shut down an AI satellite-image-editing feature in Google Earth just days after launch.
 
 🌍 Geography: Scientists discovered a giant fan-shaped network of hidden basins beneath East Antarctica, revealing that several known subglacial features are actually one massive connected structure.
 

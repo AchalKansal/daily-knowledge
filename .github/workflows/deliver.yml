@@ -19,7 +19,28 @@ jobs:
       - name: Send digest to Telegram and ntfy
         run: |
           DIGEST=$(cat latest/digest.txt)
+          TITLE=$(head -n 1 latest/digest.txt)
+          IMAGE_URL=""
+          if [ -f latest/image_url.txt ]; then
+            IMAGE_URL=$(head -n 1 latest/image_url.txt)
+          fi
+
+          if [ -n "$IMAGE_URL" ]; then
+            curl -sf -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto" \
+              --data-urlencode chat_id="${TELEGRAM_CHAT_ID}" \
+              --data-urlencode photo="${IMAGE_URL}" \
+              --data-urlencode caption="${TITLE}"
+          fi
+
           curl -sf -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             --data-urlencode chat_id="${TELEGRAM_CHAT_ID}" \
             --data-urlencode text="${DIGEST}"
-          curl -sf --data-binary "${DIGEST}" "https://ntfy.sh/${NTFY_TOPIC}"
+
+          if [ -n "$IMAGE_URL" ]; then
+            curl -sf --data-binary "${DIGEST}" \
+              -H "X-Attach: ${IMAGE_URL}" \
+              -H "X-Title: ${TITLE}" \
+              "https://ntfy.sh/${NTFY_TOPIC}"
+          else
+            curl -sf --data-binary "${DIGEST}" "https://ntfy.sh/${NTFY_TOPIC}"
+          fi
