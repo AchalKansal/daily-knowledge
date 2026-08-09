@@ -18,6 +18,7 @@ jobs:
 
       - name: Send digest to Telegram and ntfy
         run: |
+          set +e
           DIGEST=$(cat latest/digest.txt)
           TITLE=$(head -n 1 latest/digest.txt)
           IMAGE_URL=""
@@ -29,18 +30,58 @@ jobs:
             curl -sf -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto" \
               --data-urlencode chat_id="${TELEGRAM_CHAT_ID}" \
               --data-urlencode photo="${IMAGE_URL}" \
-              --data-urlencode caption="${TITLE}"
+              --data-urlencode caption="${TITLE}" \
+              || echo "::warning::Telegram sendPhoto failed"
           fi
 
-          curl -sf -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
-            --data-urlencode chat_id="${TELEGRAM_CHAT_ID}" \
-            --data-urlencode text="${DIGEST}"
+          # Telegram sendMessage caps text at 4096 chars. Split the digest into
+          # line-aligned chunks under that limit and send each as its own message,
+          # in order, rather than letting the whole delivery fail on long digests.
+          split_message() {
+            python3 - "$1" <<'PYEOF'
+import sys
+
+MAX = 4000
+text = sys.argv[1]
+lines = text.split("\n")
+chunks = []
+current = ""
+for line in lines:
+    candidate = current + ("\n" if current else "") + line
+    if len(candidate) > MAX and current:
+        chunks.append(current)
+        current = line
+    else:
+        current = candidate
+if current:
+    chunks.append(current)
+for c in chunks:
+    print(c, end="\x00")
+PYEOF
+          }
+
+          IFS=$'\0' read -r -d '' -a CHUNKS < <(split_message "$DIGEST" && printf '\0')
+
+          for CHUNK in "${CHUNKS[@]}"; do
+            curl -sf -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+              --data-urlencode chat_id="${TELEGRAM_CHAT_ID}" \
+              --data-urlencode text="${CHUNK}" \
+              || echo "::warning::Telegram sendMessage chunk failed"
+          done
+
+          # ntfy's hosted instance also caps message size around 4096 bytes.
+          NTFY_BODY="$DIGEST"
+          if [ "${#NTFY_BODY}" -gt 4000 ]; then
+            NTFY_BODY="${NTFY_BODY:0:4000}...(truncated, see Telegram for full digest)"
+          fi
 
           if [ -n "$IMAGE_URL" ]; then
-            curl -sf --data-binary "${DIGEST}" \
+            curl -sf --data-binary "${NTFY_BODY}" \
               -H "X-Attach: ${IMAGE_URL}" \
               -H "X-Title: ${TITLE}" \
-              "https://ntfy.sh/${NTFY_TOPIC}"
+              "https://ntfy.sh/${NTFY_TOPIC}" \
+              || echo "::warning::ntfy send with attachment failed"
           else
-            curl -sf --data-binary "${DIGEST}" "https://ntfy.sh/${NTFY_TOPIC}"
+            curl -sf --data-binary "${NTFY_BODY}" "https://ntfy.sh/${NTFY_TOPIC}" \
+              || echo "::warning::ntfy send failed"
           fi
