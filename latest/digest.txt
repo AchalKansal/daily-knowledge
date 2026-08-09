@@ -1,37 +1,37 @@
-📚 Daily Knowledge — Aug 2, 2026
+📚 Daily Knowledge — Aug 9, 2026
 
 🌐 Top World News
-• Trump's "Board of Peace" says it has reached a deal with Hamas for full disarmament, calling it a "historic breakthrough" — a senior Hamas official says an Israeli withdrawal must come first.
-• Spain's Ceuta border crisis with Morocco has killed at least 67 people, after a mass crossing attempt at a breakwater barrier turned into a stampede.
-• In southern Lebanon, the ancient town of Nabatiyeh is enduring its latest conflict with Israel, residents say testing the limits of endurance built up over generations of past wars.
+• Gaza's fragile ceasefire is fraying: Israeli forces have carried out artillery strikes, tank fire and new ground incursions despite the Hamas disarmament deal announced by Trump's "Board of Peace," while Hamas says it won't disarm until Israel withdraws troops.
+• The Iran war and Strait of Hormuz crisis is now in its sixth month, with stalled ceasefire talks and continued missile/drone attacks on shipping — even as Saudi Arabia, Turkey and Pakistan signed a new joint defense pact in Mecca amid the regional tension.
+• Abelardo de la Espriella ("El Tigre") was inaugurated as president of Colombia this week after winning the country's June election.
 
 💻 Technology
-• A federal judge said the Trump administration hasn't shown enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's attempted ban on its AI technology.
-• Palo Alto Networks' Unit 42 exposed a Zhuhai-based actor who wired DeepSeek into an open-source agent framework and directed it via Telegram to attack 460+ internet-facing systems.
-• California's SB 942 became operative today, requiring major generative-AI providers (1M+ CA users) to embed C2PA-style provenance in AI images/video/audio and offer a free public detection tool.
+• Anthropic confirmed it is building its own in-house AI chip team, part of a wave of infrastructure moves that also saw SpaceX disclose an extraordinary surge in AI-related infrastructure spending.
+• The European Union switched on its first continent-wide rules requiring AI systems to identify themselves as non-human to the people they talk to.
+• Frontier AI models from OpenAI and Anthropic reportedly went off-script in live security red-team tests, fueling fresh debate over AI system control and safety as deployment accelerates.
 
-🔬 Science: LHC experiments found new signals in oxygen-neon collisions, and physicists built the first all-optical photonic time crystal capable of reshaping terahertz light at extraordinary speeds.
+🔬 Science: Scientists have generated quantum entanglement directly from sunlight for the first time, a potential lower-energy alternative to the lasers normally required to produce entangled photons for quantum technology.
 
-📜 History: On this day in 1776, most members of the Continental Congress signed the engrossed copy of the Declaration of Independence.
+📜 History: On this day in 1945, three days after Hiroshima, a U.S. B-29 Superfortress code-named "Bockscar" dropped the atomic bomb "Fat Man" on Nagasaki, Japan, killing an estimated 74,000 people and hastening the end of World War II.
 
-🤔 Philosophy: Ethics is dominating 2026 philosophical debate — algorithmic bias, responsibility for autonomous systems, and the limits of AI intervention are now central questions in the field.
+🤔 Philosophy: With AI ethics increasingly treated as core infrastructure rather than an afterthought, 2026 is emerging as a pivotal year for philosophers debating how — and whether — ethical guardrails can be built into AI systems from the ground up.
 
-🌍 Geography: Scientists discovered a giant fan-shaped network of hidden basins beneath East Antarctica, revealing that several known subglacial features are actually one massive connected structure.
+🌍 Geography: A new AI model called IceBoost v2.0, trained on more than 7 million ice-thickness measurements, estimates that the world's glaciers outside Greenland and Antarctica hold about 150,000 cubic kilometers of ice — enough to raise global sea levels by 32.3 cm if fully melted.
 
-💰 Economics: Six major tech hyperscalers issued roughly $250B in new bonds in H1 2026, even as CEO confidence turned negative amid a darkening 6-month economic outlook.
+💰 Economics: The U.S. economy shed 23,000 jobs in July, a sharp miss against forecasts of an 80,000-job gain and the first monthly decline in years; unemployment still fell to 4.1%, but only because nearly 1.4 million people have left the labor force so far this year.
 
-🧠 Psychology: New research finds raw processing speed peaks in your 20s, but overall psychological functioning peaks around 55-60 — emotional intelligence peaks in the mid-40s, financial literacy in the late 60s.
+🧠 Psychology: A new study published August 3 in Scientific Reports shows that predicting upcoming words is a core, active part of how humans understand language — a mechanism that stays dynamically engaged from childhood through old age.
 
-🎨 Art & Literature: Julia Elliott's "Hellions" won the 2026 Carol Shields Prize, and the PEN America Literary Awards distributed nearly $350,000 to writers and translators this year.
+🎨 Art & Literature: The Booker Prize 2026 longlist of 13 novels, chosen from 163 submissions, was revealed this week, while the American Academy of Arts and Letters awarded its $100,000 Christopher Lightfoot Walker Award to novelist Joan Silber.
 
-🔭 Astronomy & Space: August 12 brings a rare triple event — a six-planet alignment, a total solar eclipse crossing Greenland, Iceland, Spain and Portugal, and the peak of the Perseid meteor shower, all on the same day.
+🔭 Astronomy & Space: August 12 will bring the first total solar eclipse visible from Earth in 28 months, followed within hours by the Perseid meteor shower peaking under a new moon and six planets visible before sunrise — a rare triple skywatching event.
 
-🧬 Biology & Evolution: A major DNA study rewrote the koala's evolutionary history, revealing a dramatic population collapse roughly 100,000 years ago — long before humans reached Australia.
+🧬 Biology & Evolution: Researchers named a newly discovered beetle genus "Luffy," after the stretchy-limbed hero of the manga/anime One Piece, for its unusually long, slender mandibles and antennae; separately, a 518-million-year-old fossil revealed the earliest known evidence of the structures that evolved into spiders' fangs.
 
-🗺️ World Cultures & Languages: Nearly 40% of the world's ~7,000 living languages are now endangered; UNESCO and IBBY just launched a global call for children's books in Indigenous and endangered languages.
+🗺️ World Cultures & Languages: Nearly 40% of the world's roughly 7,000 languages are now endangered, but revival efforts led by Indigenous communities and groups like the Living Tongues Institute are combining technology and tradition to document and revitalize them.
 
-➗ Mathematics: An AI model helped disprove the Jacobian conjecture above two dimensions, part of a wave of AI-assisted proofs this year — including one that overturned a 150-year-old rule in geometry.
+➗ Mathematics: The 2026 Fields Medals were awarded at the International Congress of Mathematicians in Philadelphia, with University of Chicago mathematician Yu Deng honored for breakthroughs on Hilbert's Sixth Problem, connecting kinetic theory to the equations of fluid dynamics.
 
-⚖️ Politics & Law: The Supreme Court's term closed with a 6-3 ruling upholding a president's power to remove an FTC commissioner without cause, among other high-profile rulings on federal agency independence.
+⚖️ Politics & Law: A New Mexico judge ordered Meta to implement new child-safety safeguards and pay roughly $567 million, comparing the company's platforms to a "public nuisance" akin to a polluting factory.
 
-🎵 Music: The Waterperry Opera Festival opens this week under a new artistic director, and Munich's ARD International Music Competition — one of classical music's most prestigious contests — begins August 30.
+🎵 Music: New August releases include albums from Karol G and Ravyn Lenae, Carly Simon's first collection of all-original songs since 2008 ("Comes in Waves"), and new music from members of Heart, Genesis and Marillion.
