@@ -35,37 +35,29 @@ jobs:
           fi
 
           # Telegram sendMessage caps text at 4096 chars. Split the digest into
-          # line-aligned chunks under that limit and send each as its own message,
-          # in order, rather than letting the whole delivery fail on long digests.
-          split_message() {
-            python3 - "$1" <<'PYEOF'
-import sys
+          # line-aligned chunks under that limit and send each as its own message
+          # rather than letting the whole delivery fail on long digests.
+          MAX=4000
+          CHUNK=""
+          CHUNKS=()
+          while IFS= read -r LINE; do
+            if [ -n "$CHUNK" ] && [ $(( ${#CHUNK} + ${#LINE} + 1 )) -gt $MAX ]; then
+              CHUNKS+=("$CHUNK")
+              CHUNK="$LINE"
+            elif [ -n "$CHUNK" ]; then
+              CHUNK="$CHUNK"$'\n'"$LINE"
+            else
+              CHUNK="$LINE"
+            fi
+          done <<< "$DIGEST"
+          if [ -n "$CHUNK" ]; then
+            CHUNKS+=("$CHUNK")
+          fi
 
-MAX = 4000
-text = sys.argv[1]
-lines = text.split("\n")
-chunks = []
-current = ""
-for line in lines:
-    candidate = current + ("\n" if current else "") + line
-    if len(candidate) > MAX and current:
-        chunks.append(current)
-        current = line
-    else:
-        current = candidate
-if current:
-    chunks.append(current)
-for c in chunks:
-    print(c, end="\x00")
-PYEOF
-          }
-
-          IFS=$'\0' read -r -d '' -a CHUNKS < <(split_message "$DIGEST" && printf '\0')
-
-          for CHUNK in "${CHUNKS[@]}"; do
+          for PART in "${CHUNKS[@]}"; do
             curl -sf -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
               --data-urlencode chat_id="${TELEGRAM_CHAT_ID}" \
-              --data-urlencode text="${CHUNK}" \
+              --data-urlencode text="${PART}" \
               || echo "::warning::Telegram sendMessage chunk failed"
           done
 
