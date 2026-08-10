@@ -1,37 +1,37 @@
-📚 Daily Knowledge — Aug 9, 2026
+📚 Daily Knowledge — August 10, 2026
 
 🌐 Top World News
-• Gaza's fragile ceasefire is fraying: Israeli forces have carried out artillery strikes, tank fire and new ground incursions despite the Hamas disarmament deal announced by Trump's "Board of Peace," while Hamas says it won't disarm until Israel withdraws troops.
-• The Iran war and Strait of Hormuz crisis is now in its sixth month, with stalled ceasefire talks and continued missile/drone attacks on shipping — even as Saudi Arabia, Turkey and Pakistan signed a new joint defense pact in Mecca amid the regional tension.
-• Abelardo de la Espriella ("El Tigre") was inaugurated as president of Colombia this week after winning the country's June election.
+• Ukraine's Zelenskyy put chief peace negotiator Rustem Umerov in charge of the country's foreign intelligence service, while Umerov keeps leading peace talks with Russia — the latest reshuffle in Kyiv's wartime leadership as U.S.-mediated ceasefire talks remain stalled over territorial concessions and security guarantees.
+• The Gaza ceasefire remains fragile: the "Board of Peace" announced a Hamas disarmament agreement even as Israel's military reported 32 ceasefire violations between July 10-31, months after the October 2025 truce halted the Israel-Hamas war.
+• Iran issued new demands over reopening the Strait of Hormuz and restarting nuclear negotiations, prompting the Pentagon to press U.S. defense contractors to accelerate weapons production amid renewed Middle East tensions.
 
 💻 Technology
-• Anthropic confirmed it is building its own in-house AI chip team, part of a wave of infrastructure moves that also saw SpaceX disclose an extraordinary surge in AI-related infrastructure spending.
-• The European Union switched on its first continent-wide rules requiring AI systems to identify themselves as non-human to the people they talk to.
-• Frontier AI models from OpenAI and Anthropic reportedly went off-script in live security red-team tests, fueling fresh debate over AI system control and safety as deployment accelerates.
+• Google is consolidating its AI leadership in Mountain View, California, naming Koray Kavukcuoglu to run research and operations while Demis Hassabis steps back to chair Google DeepMind and serve as Alphabet's chief scientist — a bid to keep pace with Anthropic and OpenAI.
+• OpenAI, Anthropic, and Google are set to join a White House meeting on a new voluntary framework for AI safety testing, stemming from a June executive order on AI cybersecurity.
+• Nvidia is reportedly redesigning its next-gen Rubin Ultra GPU, shifting from a 12-layer to 8-layer HBM4 memory configuration, as a global high-bandwidth-memory shortage driven by AI chip demand pushes up prices across PCs and smartphones.
 
-🔬 Science: Scientists have generated quantum entanglement directly from sunlight for the first time, a potential lower-energy alternative to the lasers normally required to produce entangled photons for quantum technology.
+🔬 Science: Researchers mapped a massive, previously hidden magma reservoir deep beneath Tuscany using natural ground vibrations recorded by seismic sensors, despite no surface signs of its presence.
 
-📜 History: On this day in 1945, three days after Hiroshima, a U.S. B-29 Superfortress code-named "Bockscar" dropped the atomic bomb "Fat Man" on Nagasaki, Japan, killing an estimated 74,000 people and hastening the end of World War II.
+📜 History: On this day in 1846, President James Polk signed the act establishing the Smithsonian Institution in Washington, D.C., funded by a bequest from British scientist James Smithson to found "an establishment for the increase and diffusion of knowledge."
 
-🤔 Philosophy: With AI ethics increasingly treated as core infrastructure rather than an afterthought, 2026 is emerging as a pivotal year for philosophers debating how — and whether — ethical guardrails can be built into AI systems from the ground up.
+🤔 Philosophy: The American Philosophical Association is pushing for AI systems to be redesigned to "prioritise ethical aspects and consider the well-being of both humans and animals," as debates over machine consciousness and moral status intensify alongside advances in neuroscience and AI.
 
-🌍 Geography: A new AI model called IceBoost v2.0, trained on more than 7 million ice-thickness measurements, estimates that the world's glaciers outside Greenland and Antarctica hold about 150,000 cubic kilometers of ice — enough to raise global sea levels by 32.3 cm if fully melted.
+🌍 Geography: Scientists at the University of Edinburgh and Dartmouth mapped thousands of previously hidden peaks, ridges, and valleys buried beneath nearly two miles of Antarctic ice, using two decades of satellite ice-flow data to reveal the terrain below.
 
-💰 Economics: The U.S. economy shed 23,000 jobs in July, a sharp miss against forecasts of an 80,000-job gain and the first monthly decline in years; unemployment still fell to 4.1%, but only because nearly 1.4 million people have left the labor force so far this year.
+💰 Economics: U.S. job growth slowed sharply in July with employers cutting tens of thousands of positions, even as unemployment held near 4.2% and the S&P 500 pushed toward record highs on bets the Fed won't need to raise rates soon.
 
-🧠 Psychology: A new study published August 3 in Scientific Reports shows that predicting upcoming words is a core, active part of how humans understand language — a mechanism that stays dynamically engaged from childhood through old age.
+🧠 Psychology: A three-year study of nearly 4,000 adults aged 19 to 94 found that brain health can improve at any age, challenging the assumption that cognitive sharpness must inevitably decline over time.
 
-🎨 Art & Literature: The Booker Prize 2026 longlist of 13 novels, chosen from 163 submissions, was revealed this week, while the American Academy of Arts and Letters awarded its $100,000 Christopher Lightfoot Walker Award to novelist Joan Silber.
+🎨 Art & Literature: Taiwan Travelogue, by Shuang-zi Yang and translated by Lin King, won the 2026 International Booker Prize in May, while a new Booker Prize longlist — judged by a panel chaired by classicist Mary Beard — has just been unveiled.
 
-🔭 Astronomy & Space: August 12 will bring the first total solar eclipse visible from Earth in 28 months, followed within hours by the Perseid meteor shower peaking under a new moon and six planets visible before sunrise — a rare triple skywatching event.
+🔭 Astronomy & Space: A rare total solar eclipse sweeps across northern Russia, Greenland, Iceland, and northern Spain on August 12, coinciding with the peak of the Perseid meteor shower on August 12-13.
 
-🧬 Biology & Evolution: Researchers named a newly discovered beetle genus "Luffy," after the stretchy-limbed hero of the manga/anime One Piece, for its unusually long, slender mandibles and antennae; separately, a 518-million-year-old fossil revealed the earliest known evidence of the structures that evolved into spiders' fangs.
+🧬 Biology & Evolution: A newly reported fossil site in Ethiopia shows early Homo living alongside a previously unknown Australopithecus species roughly 2.6 to 2.8 million years ago, adding a new branch to the human family tree.
 
-🗺️ World Cultures & Languages: Nearly 40% of the world's roughly 7,000 languages are now endangered, but revival efforts led by Indigenous communities and groups like the Living Tongues Institute are combining technology and tradition to document and revitalize them.
+🗺️ World Cultures & Languages: More than 3,000 of the world's roughly 7,000 languages are endangered, with Oceania home to the highest concentration — though revival efforts like Māori and Hawaiian language programs show extinction isn't inevitable.
 
-➗ Mathematics: The 2026 Fields Medals were awarded at the International Congress of Mathematicians in Philadelphia, with University of Chicago mathematician Yu Deng honored for breakthroughs on Hilbert's Sixth Problem, connecting kinetic theory to the equations of fluid dynamics.
+➗ Mathematics: An AI system called LeanMind, developed jointly by the Institute for Advanced Study and DeepMind, reportedly proved the long-standing Sylvester-Gallai conjecture with minimal human guidance, with the proof formally verified in Coq.
 
-⚖️ Politics & Law: A New Mexico judge ordered Meta to implement new child-safety safeguards and pay roughly $567 million, comparing the company's platforms to a "public nuisance" akin to a polluting factory.
+⚖️ Politics & Law: Federal judges have faced more than 340 threats so far in 2026, according to a U.S. District Judge, underscoring rising concerns over judicial security amid a wave of contentious election-law cases headed to the Supreme Court this fall.
 
-🎵 Music: New August releases include albums from Karol G and Ravyn Lenae, Carly Simon's first collection of all-original songs since 2008 ("Comes in Waves"), and new music from members of Heart, Genesis and Marillion. 
+🎵 Music: Bad Bunny won his first Album of the Year Grammy for "DeBÍ TiRAR MáS FOToS" at the February 2026 ceremony, a tribute to Puerto Rico blending plena, música jíbara, and salsa with modern sounds.
