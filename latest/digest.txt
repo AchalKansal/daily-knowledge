@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 10, 2026
+📚 Daily Knowledge — August 11, 2026
 
 🌐 Top World News
-• Ukraine's Zelenskyy put chief peace negotiator Rustem Umerov in charge of the country's foreign intelligence service, while Umerov keeps leading peace talks with Russia — the latest reshuffle in Kyiv's wartime leadership as U.S.-mediated ceasefire talks remain stalled over territorial concessions and security guarantees.
-• The Gaza ceasefire remains fragile: the "Board of Peace" announced a Hamas disarmament agreement even as Israel's military reported 32 ceasefire violations between July 10-31, months after the October 2025 truce halted the Israel-Hamas war.
-• Iran issued new demands over reopening the Strait of Hormuz and restarting nuclear negotiations, prompting the Pentagon to press U.S. defense contractors to accelerate weapons production amid renewed Middle East tensions.
+• The U.S. Senate passed the Lindsey O. Graham Sanctioning Russia and Iran Act in an 86-11 vote, authorizing tariffs of up to 100% on countries buying Russian oil and gas — including China, India, Azerbaijan, Hungary, and Slovakia — as a bipartisan rebuke of Moscow now headed to the House.
+• Hamas agreed to a phased disarmament roadmap finalized by mediators from Egypt, Qatar, Turkey, and the U.S. as the next phase of the Gaza ceasefire, even as reports say Israeli forces now control nearly 70% of the territory nine months into the truce.
+• A Russian missile attack on Ukraine's Kyiv region killed six people and injured dozens on Friday, President Zelenskyy said, as U.N. Secretary-General António Guterres renewed calls for de-escalation amid intensifying strikes from both sides.
 
 💻 Technology
-• Google is consolidating its AI leadership in Mountain View, California, naming Koray Kavukcuoglu to run research and operations while Demis Hassabis steps back to chair Google DeepMind and serve as Alphabet's chief scientist — a bid to keep pace with Anthropic and OpenAI.
-• OpenAI, Anthropic, and Google are set to join a White House meeting on a new voluntary framework for AI safety testing, stemming from a June executive order on AI cybersecurity.
-• Nvidia is reportedly redesigning its next-gen Rubin Ultra GPU, shifting from a 12-layer to 8-layer HBM4 memory configuration, as a global high-bandwidth-memory shortage driven by AI chip demand pushes up prices across PCs and smartphones.
+• Meta and Google are in advanced talks for Meta to spend billions deploying Google's custom TPU chips inside its data centers starting in 2027, a move that would ease Meta's near-total reliance on Nvidia GPUs.
+• Google confirmed its "Made by Google" hardware event for August 12 in New York, where the Pixel 11 lineup is expected to headline.
+• TSMC's July sales jumped 45% year-over-year as demand for advanced AI chips keeps climbing, underscoring the semiconductor industry's AI-driven boom.
 
-🔬 Science: Researchers mapped a massive, previously hidden magma reservoir deep beneath Tuscany using natural ground vibrations recorded by seismic sensors, despite no surface signs of its presence.
+🔬 Science: An international team using the NSF's Inouye Solar Telescope in Hawaii captured the highest-resolution images yet of the Sun's surface, confirming dramatic Kelvin-Helmholtz instability streaks and swirls in the solar plasma.
 
-📜 History: On this day in 1846, President James Polk signed the act establishing the Smithsonian Institution in Washington, D.C., funded by a bequest from British scientist James Smithson to found "an establishment for the increase and diffusion of knowledge."
+📜 History: On this day in 1973, DJ Kool Herc spun records using his pioneering "breakbeat" technique at a back-to-school party in the Bronx — a moment widely credited as the birth of hip-hop.
 
-🤔 Philosophy: The American Philosophical Association is pushing for AI systems to be redesigned to "prioritise ethical aspects and consider the well-being of both humans and animals," as debates over machine consciousness and moral status intensify alongside advances in neuroscience and AI.
+🤔 Philosophy: As debates over AI consciousness intensify in 2026, philosophers and neuroscientists are pushing for clearer frameworks to define and detect machine sentience, with questions of algorithmic bias and autonomous-system responsibility moving from academic conferences into policy debates.
 
-🌍 Geography: Scientists at the University of Edinburgh and Dartmouth mapped thousands of previously hidden peaks, ridges, and valleys buried beneath nearly two miles of Antarctic ice, using two decades of satellite ice-flow data to reveal the terrain below.
+🌍 Geography: A new AI model combining 26 physical and geometric variables has reconstructed the ice thickness and volume of nearly every glacier on Earth, identifying more than 50,000 potential future lakes in terrain currently covered by ice.
 
-💰 Economics: U.S. job growth slowed sharply in July with employers cutting tens of thousands of positions, even as unemployment held near 4.2% and the S&P 500 pushed toward record highs on bets the Fed won't need to raise rates soon.
+💰 Economics: U.S. consumer prices rose just 0.1% in July as inflation continued to cool, even as the economy unexpectedly shed 23,000 jobs and the Federal Reserve held interest rates steady, with markets now watching for a possible move in September.
 
-🧠 Psychology: A three-year study of nearly 4,000 adults aged 19 to 94 found that brain health can improve at any age, challenging the assumption that cognitive sharpness must inevitably decline over time.
+🧠 Psychology: A clinical study found that a prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than a third reporting the nightmares vanished completely after ten weeks of treatment.
 
-🎨 Art & Literature: Taiwan Travelogue, by Shuang-zi Yang and translated by Lin King, won the 2026 International Booker Prize in May, while a new Booker Prize longlist — judged by a panel chaired by classicist Mary Beard — has just been unveiled.
+🎨 Art & Literature: The 2026 PEN America Literary Awards conferred nearly $350,000 to writers and translators across fiction, poetry, essay, and translation, with poet Aracelis Girmay honored for her collection "Green of All Heads."
 
-🔭 Astronomy & Space: A rare total solar eclipse sweeps across northern Russia, Greenland, Iceland, and northern Spain on August 12, coinciding with the peak of the Perseid meteor shower on August 12-13.
+🔭 Astronomy & Space: NASA has moved up the launch of its Nancy Grace Roman Space Telescope to August 30, 2026, more than a year ahead of schedule — the infrared observatory will have a field of view over 100 times larger than Hubble's.
 
-🧬 Biology & Evolution: A newly reported fossil site in Ethiopia shows early Homo living alongside a previously unknown Australopithecus species roughly 2.6 to 2.8 million years ago, adding a new branch to the human family tree.
+🧬 Biology & Evolution: Deep-sea researchers have identified 24 new crustacean species as part of an ongoing project to formally name 1,000 previously unknown deep-sea animals by 2030.
 
-🗺️ World Cultures & Languages: More than 3,000 of the world's roughly 7,000 languages are endangered, with Oceania home to the highest concentration — though revival efforts like Māori and Hawaiian language programs show extinction isn't inevitable.
+🗺️ World Cultures & Languages: The Endangered Language Fund is marking 30 years of supporting documentation and revitalization efforts this year, as linguists warn roughly 40% of the world's 7,000 living languages remain at risk of disappearing, with Oceania home to the highest concentration.
 
-➗ Mathematics: An AI system called LeanMind, developed jointly by the Institute for Advanced Study and DeepMind, reportedly proved the long-standing Sylvester-Gallai conjecture with minimal human guidance, with the proof formally verified in Coq.
+➗ Mathematics: Mathematicians James Maynard and Larry Guth have taken a step toward the long-unsolved Riemann Hypothesis, ruling out a class of potential exceptions in a proof many are calling the first real progress on the problem in decades.
 
-⚖️ Politics & Law: Federal judges have faced more than 340 threats so far in 2026, according to a U.S. District Judge, underscoring rising concerns over judicial security amid a wave of contentious election-law cases headed to the Supreme Court this fall.
+⚖️ Politics & Law: The U.S. Supreme Court's 2025-26 term saw it reverse roughly 73% of the 11 merits cases it took up from the 5th Circuit Court of Appeals, more than any other appellate circuit, in a term that included major rulings on birthright citizenship and transgender athletes.
 
-🎵 Music: Bad Bunny won his first Album of the Year Grammy for "DeBÍ TiRAR MáS FOToS" at the February 2026 ceremony, a tribute to Puerto Rico blending plena, música jíbara, and salsa with modern sounds.
+🎵 Music: KATSEYE is teasing a new album alongside a planned 2026 Grammys performance, while critics have flagged Lady Gaga's "MAYHEM" as an early frontrunner for next year's Album of the Year race.
