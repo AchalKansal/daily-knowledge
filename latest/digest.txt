@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 11, 2026
+📚 Daily Knowledge — August 12, 2026
 
 🌐 Top World News
-• The U.S. Senate passed the Lindsey O. Graham Sanctioning Russia and Iran Act in an 86-11 vote, authorizing tariffs of up to 100% on countries buying Russian oil and gas — including China, India, Azerbaijan, Hungary, and Slovakia — as a bipartisan rebuke of Moscow now headed to the House.
-• Hamas agreed to a phased disarmament roadmap finalized by mediators from Egypt, Qatar, Turkey, and the U.S. as the next phase of the Gaza ceasefire, even as reports say Israeli forces now control nearly 70% of the territory nine months into the truce.
-• A Russian missile attack on Ukraine's Kyiv region killed six people and injured dozens on Friday, President Zelenskyy said, as U.N. Secretary-General António Guterres renewed calls for de-escalation amid intensifying strikes from both sides.
+• A total solar eclipse swept across Greenland, Iceland, and northern Spain today — the first total eclipse visible from mainland Europe since 1999, with totality lasting up to 2 minutes 18 seconds along a path passing near Bilbao, Zaragoza, and Valencia.
+• Russia escalated its war on Ukraine: President Zelenskyy said Zaporizhzhia was hit with North Korean ballistic missiles in an attack that killed civilians, and warned Putin is preparing further escalation rather than peace talks; a bipartisan US House bill was introduced to tighten sanctions on Russian energy and banks.
+• Tensions persist around the Gaza ceasefire, with reports that Israeli strikes have continued at a near-daily pace since the truce took effect in October 2025, even as the IDF scales back the frequency of its strikes under a new policy.
 
 💻 Technology
-• Meta and Google are in advanced talks for Meta to spend billions deploying Google's custom TPU chips inside its data centers starting in 2027, a move that would ease Meta's near-total reliance on Nvidia GPUs.
-• Google confirmed its "Made by Google" hardware event for August 12 in New York, where the Pixel 11 lineup is expected to headline.
-• TSMC's July sales jumped 45% year-over-year as demand for advanced AI chips keeps climbing, underscoring the semiconductor industry's AI-driven boom.
+• Nvidia locked in a $500 billion financing alliance with major Wall Street banks to fund AI infrastructure buildout, while Intel raised $15 billion to expand its own AI chip push.
+• Google is holding its "Made by Google" hardware event today in New York, where the Pixel 11 lineup is expected to take center stage.
+• Meta released a new 30-billion-parameter AI agent model designed to run on a single GPU, part of a broader industry shift toward smaller, locally-runnable AI systems.
 
-🔬 Science: An international team using the NSF's Inouye Solar Telescope in Hawaii captured the highest-resolution images yet of the Sun's surface, confirming dramatic Kelvin-Helmholtz instability streaks and swirls in the solar plasma.
+🔬 Science: Paleontologists in Brazil described a 240-million-year-old reptile fossil that offers a rare window into the evolutionary period just before dinosaurs and crocodiles rose to dominance.
 
-📜 History: On this day in 1973, DJ Kool Herc spun records using his pioneering "breakbeat" technique at a back-to-school party in the Bronx — a moment widely credited as the birth of hip-hop.
+📜 History: On this day in 1990, paleontologist Sue Hendrickson discovered the fossilized remains of "Sue," the largest and most complete Tyrannosaurus rex skeleton found to date, in South Dakota.
 
-🤔 Philosophy: As debates over AI consciousness intensify in 2026, philosophers and neuroscientists are pushing for clearer frameworks to define and detect machine sentience, with questions of algorithmic bias and autonomous-system responsibility moving from academic conferences into policy debates.
+🤔 Philosophy: Philosophers and ethicists are increasingly focused in 2026 on the risks of AI power concentration, debating what obligations the developers of dominant AI systems owe to the people those systems affect.
 
-🌍 Geography: A new AI model combining 26 physical and geometric variables has reconstructed the ice thickness and volume of nearly every glacier on Earth, identifying more than 50,000 potential future lakes in terrain currently covered by ice.
+🌍 Geography: Researchers mapping East Antarctica found that several subglacial basins once thought separate are actually part of one giant, fan-shaped geological structure hidden beneath the ice.
 
-💰 Economics: U.S. consumer prices rose just 0.1% in July as inflation continued to cool, even as the economy unexpectedly shed 23,000 jobs and the Federal Reserve held interest rates steady, with markets now watching for a possible move in September.
+💰 Economics: Markets are on edge ahead of this week's US CPI report, with Brent crude near $88/barrel and gold above $4,400/oz as investors trim their rate-cut bets amid renewed inflation worries.
 
-🧠 Psychology: A clinical study found that a prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than a third reporting the nightmares vanished completely after ten weeks of treatment.
+🧠 Psychology: New research suggests raw mental processing speed peaks in your twenties, but overall psychological functioning — weighing judgment and emotional intelligence — peaks around ages 55 to 60.
 
-🎨 Art & Literature: The 2026 PEN America Literary Awards conferred nearly $350,000 to writers and translators across fiction, poetry, essay, and translation, with poet Aracelis Girmay honored for her collection "Green of All Heads."
+🎨 Art & Literature: The American Academy of Arts and Letters named its 2026 literature honorees, including Jane Hirshfield and Madeleine Thien, while Shuang-zi Yang's "Taiwan Travelogue" (translated by Lin King) won the 2026 International Booker Prize.
 
-🔭 Astronomy & Space: NASA has moved up the launch of its Nancy Grace Roman Space Telescope to August 30, 2026, more than a year ahead of schedule — the infrared observatory will have a field of view over 100 times larger than Hubble's.
+🔭 Astronomy & Space: Today's total solar eclipse coincides with a new moon and the peak of the Perseid meteor shower overnight, giving skywatchers unusually dark skies for meteor viewing.
 
-🧬 Biology & Evolution: Deep-sea researchers have identified 24 new crustacean species as part of an ongoing project to formally name 1,000 previously unknown deep-sea animals by 2030.
+🧬 Biology & Evolution: A newly described 50-million-year-old primate species, unearthed from Wyoming sandstone, is helping scientists trace the earliest evolutionary branching of primates.
 
-🗺️ World Cultures & Languages: The Endangered Language Fund is marking 30 years of supporting documentation and revitalization efforts this year, as linguists warn roughly 40% of the world's 7,000 living languages remain at risk of disappearing, with Oceania home to the highest concentration.
+🗺️ World Cultures & Languages: Spain's Catalonia region now requires foreign residents to pass a Catalan-language test in order to renew their residence permits, tightening a longstanding regional-language policy.
 
-➗ Mathematics: Mathematicians James Maynard and Larry Guth have taken a step toward the long-unsolved Riemann Hypothesis, ruling out a class of potential exceptions in a proof many are calling the first real progress on the problem in decades.
+➗ Mathematics: Mathematicians overturned a 150-year-old geometric assumption by finding two differently shaped "doughnut" surfaces that look identical under local measurement but are globally distinct.
 
-⚖️ Politics & Law: The U.S. Supreme Court's 2025-26 term saw it reverse roughly 73% of the 11 merits cases it took up from the 5th Circuit Court of Appeals, more than any other appellate circuit, in a term that included major rulings on birthright citizenship and transgender athletes.
+⚖️ Politics & Law: The US Supreme Court's 2026 rulings — striking down limits on political-party spending and effectively invalidating majority-minority House districts — are reshaping the midterm election map ahead of November.
 
-🎵 Music: KATSEYE is teasing a new album alongside a planned 2026 Grammys performance, while critics have flagged Lady Gaga's "MAYHEM" as an early frontrunner for next year's Album of the Year race.
+🎵 Music: New August releases include FLO's "Therapy At the Club" and Overmono's "Pure Devotion," while Grammy buzz builds around 2026 Album of the Year contenders like Kendrick Lamar's "GNX" and Bad Bunny's "DeBÍ TiRAR MáS FOToS."
