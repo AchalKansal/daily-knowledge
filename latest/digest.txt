@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 13, 2026
+📚 Daily Knowledge — August 14, 2026
 
 🌐 Top World News
-• Israeli Prime Minister Netanyahu formally rejected Trump's US-backed 15-point Gaza peace plan, telling his Cabinet "Israel rejects the 15-point document" and insisting troops will not withdraw until Hamas fully disarms first — deepening a rift with Washington's Board of Peace roadmap that Hamas says it still supports.
-• Russia intensified its bombardment of Ukrainian cities, with strikes over a 24-hour period killing 13 people and wounding roughly 90 others, as the Kremlin escalates attacks even amid renewed diplomatic pressure.
-• Rescue and recovery efforts continue in Kumamoto, southern Japan, after last month's magnitude 7.1 earthquake — the deadliest to hit the region in years, with the confirmed death toll near 39, tens of thousands of homes still without power or running water, and thousands sheltering in evacuation centers.
+• A Syrian court sentenced deposed president Bashar al-Assad, his brother Maher, and cousin Atef Najib to death in absentia for crimes against humanity, including the 2011 Daraa crackdown that sparked the civil war — the first such sentences since the Assad family's five-decade rule ended 20 months ago.
+• Iran executed Marzieh Nieri, 23, at Qazvin Central Prison after a court rejected her account that she wounded a man attempting to assault her, bringing the number of women executed in Iran since the start of 2026 to at least 14.
+• Ukraine's president put his chief peace negotiator in charge of foreign intelligence as fighting grinds on despite the May 2026 truce, with Ukrainian strikes hitting warehouses near Moscow and St. Petersburg and both sides continuing to trade accusations of ceasefire violations.
 
 💻 Technology
-• A wave of AI infrastructure financing is reshaping the industry: roughly half a trillion dollars in new AI infrastructure deals is taking shape industry-wide even as frontier AI platforms cross the billion-user mark and open-weight agent models start running on a single GPU.
-• Security researchers disclosed the largest AI supply-chain breach of 2026 so far: a compromise of the widely used LiteLLM project (via tampered PyPI packages) potentially exposed more than 2,500 organizations — including Nvidia, AWS, Cisco, and Salesforce — and roughly 434,000 CI/CD pipelines.
-• Stockholm-based AI coding startup Lovable raised $400 million at a $13.3 billion valuation, underscoring investors' continued aggressive bets on "vibe coding" tools that let users build software from natural-language descriptions.
+• Anthropic is reportedly negotiating to acquire Israeli startup Decart AI — which specializes in real-time generative video, simulated "world models," and GPU optimization — in a deal valued around $6 billion.
+• Google launched its Pixel 11, Pixel 11 Pro, and Pixel 11 Pro XL smartphones on August 12, powered by a new Tensor G6 chip with major camera upgrades and thinner designs.
+• Microsoft is recalibrating its presence in China as AI leaders debate new oversight structures and cyberattacks increasingly spill from corporate networks into warehouses and global supply chains.
 
-🔬 Science: Boston College scientists dated a newly discovered Martian meteorite at 1.27 billion years old, tracing it to a previously unsampled, pristine region of the Red Planet's crust.
+🔬 Science: Researchers have found a new way to map part of Earth's upper atmosphere using orbital data gathered from roughly 1,200 Starlink satellites, opening a novel low-cost window into near-space conditions.
 
-📜 History: On August 13, 1961, East Germany sealed the border between East and West Berlin overnight, laying the barbed-wire groundwork for what would become the Berlin Wall.
+📜 History: On August 14, 1947, Pakistan became independent from British rule as the subcontinent was partitioned into India and Pakistan, marking the birth of the modern Pakistani state.
 
-🤔 Philosophy: Philosophy Now's August/September issue features Timothy Williamson on philosophical dialogue, while a new call for chapters on "The Ethics of Human-AI Relationships" reflects growing academic focus on AI companionship and friendship.
+🤔 Philosophy: Consciousness remains a central philosophical concern in 2026, as advances in AI and neuroscience intensify debate over whether machines can be conscious and whether subjective experience is reducible to neural processes.
 
-🌍 Geography: Scientists studying ancient seafloor sediments found a surprising twist in how the Atlantic Ocean's massive overturning circulation system has historically behaved, reshaping models of how it could shift under climate change.
+🌍 Geography: Scientists have discovered a giant, fan-shaped network of hidden basins buried beneath the ice of East Antarctica, reshaping understanding of the continent's ancient landscape and its ice sheet's stability.
 
-💰 Economics: July's US CPI report showed inflation running at a 3.4% annual rate with prices up just 0.1% for the month, easing immediate pressure for a Federal Reserve rate hike at September's meeting after a weak July jobs report.
+💰 Economics: US inflation is on track to ease for a second straight month to 3.4% annually in July, with cooler price data and strong earnings pushing stocks modestly higher even as new Fed Chairman Warsh weighs a possible September rate hike.
 
-🧠 Psychology: A new study finds cognitive processing speed peaks in your twenties, but overall psychological functioning — including emotional intelligence and moral reasoning — keeps improving for decades, peaking around ages 55 to 60.
+🧠 Psychology: Researchers have identified a specific brain network and its distinctive electrical rhythm that appears to drive the benefits of deep brain stimulation for Parkinson's disease, pointing toward more targeted treatments.
 
-🎨 Art & Literature: The Carol Shields Prize went to Julia Elliott's "Hellions," while the PEN/Faulkner Award for Fiction went to Mahreen Sohail's "Small Scale Sinners" — part of a wave of 2026 literary prizes announced this year ahead of October's Nobel Prize in Literature.
+🎨 Art & Literature: The Booker Prize announced its 2026 longlist on August 12, featuring 13 novels from authors including Marlon James, Elizabeth Strout, Emma Cline, and Douglas Stuart alongside newer voices.
 
-🔭 Astronomy & Space: The Perseid meteor shower is peaking this week under especially dark, favorable Northern Hemisphere skies, while the Inouye Solar Telescope has revealed tiny plasma "whirlpools," some just 20 km wide, swirling across the Sun's surface.
+🔭 Astronomy & Space: Skywatchers are riding the high of a total solar eclipse that swept across Greenland, Iceland, and Spain on August 12, with the Perseid meteor shower now peaking under a dark, moonless sky and NASA's Nancy Grace Roman Space Telescope on track to launch August 30.
 
-🧬 Biology & Evolution: Researchers studying Indigenous Peruvian DNA found that the ancient domestication of the potato in the Andes left a lasting genetic mark, with modern descendants carrying unusually high numbers of starch-digestion genes.
+🧬 Biology & Evolution: A 240-million-year-old reptile fossil unearthed in Brazil is offering fresh clues about what evolution looked like just before the rise of dinosaurs and crocodiles.
 
-🗺️ World Cultures & Languages: UNESCO and IBBY unveiled a collection of nearly 170 children's books spanning over 150 Indigenous and endangered languages at the IBBY World Congress in Ottawa, part of a push to use children's literature for language revitalization.
+🗺️ World Cultures & Languages: More than 3,000 of the world's roughly 7,000 languages — about 40% — are endangered, with UNESCO estimating that on average one disappears every two weeks, hitting Oceania hardest.
 
-➗ Mathematics: OpenAI's Astra system solved ten long-open, decades-old mathematical problems spanning group theory and high-dimensional geometry, publishing machine-checked proofs for roughly $2,000 per problem.
+➗ Mathematics: A collaboration between the Institute for Advanced Study and DeepMind reported that its AI system LeanMind proved the long-open Sylvester-Gallai conjecture largely without human guidance, with the proof formally verified and published in the Annals of Mathematics.
 
-⚖️ Politics & Law: Right-wing lawyer Abelardo de la Espriella was sworn in as Colombia's new president, while in the US the Supreme Court's National Republican Senatorial Committee v. FEC ruling, authored by Justice Kavanaugh, loosened limits on political-party campaign spending.
+⚖️ Politics & Law: Wisconsin's new justice Chris Taylor was sworn in on August 1, expanding the state supreme court's liberal majority to 5-2, while Washington and Kansas held August elections and constitutional votes affecting their own top courts.
 
-🎵 Music: August's major releases include DMA's fifth studio album, Ayra Starr's "Starr Girl," and highly anticipated new records from Phoebe Bridgers, Karol G, and Sam Smith.
+🎵 Music: Nigerian star Ayra Starr released her album "Starr Girl" today via Mavin Records, part of a packed August slate that also includes DMA's fifth studio album and Dead Tired's "Hornets of Fall."
