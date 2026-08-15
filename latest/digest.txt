@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 14, 2026
+📚 Daily Knowledge — August 15, 2026
 
 🌐 Top World News
-• A Syrian court sentenced deposed president Bashar al-Assad, his brother Maher, and cousin Atef Najib to death in absentia for crimes against humanity, including the 2011 Daraa crackdown that sparked the civil war — the first such sentences since the Assad family's five-decade rule ended 20 months ago.
-• Iran executed Marzieh Nieri, 23, at Qazvin Central Prison after a court rejected her account that she wounded a man attempting to assault her, bringing the number of women executed in Iran since the start of 2026 to at least 14.
-• Ukraine's president put his chief peace negotiator in charge of foreign intelligence as fighting grinds on despite the May 2026 truce, with Ukrainian strikes hitting warehouses near Moscow and St. Petersburg and both sides continuing to trade accusations of ceasefire violations.
+• Ukraine launched a heavy overnight drone and missile assault on Russia's Novorossiysk naval base and grain export terminals, killing at least three people including an eight-year-old child and forcing three of Russia's largest Black Sea grain terminals to halt operations — Chicago wheat futures jumped roughly 3% on the news given Russia's status as the world's top wheat exporter.
+• Israeli settlers have besieged two Palestinian families trapped inside their homes in the West Bank village of Qusra for days, throwing stones and wielding an axe, while Gaza's Health Ministry reports 45 people killed there since August 1 even as a US-backed truce push continues.
+• Iran and Oman are reportedly negotiating a deal requiring ships to pay new maritime service fees to transit the Strait of Hormuz, a marked shift from historic freedom of navigation as fallout from this year's Iran war continues to reshape Gulf shipping and global trade routes.
 
 💻 Technology
-• Anthropic is reportedly negotiating to acquire Israeli startup Decart AI — which specializes in real-time generative video, simulated "world models," and GPU optimization — in a deal valued around $6 billion.
-• Google launched its Pixel 11, Pixel 11 Pro, and Pixel 11 Pro XL smartphones on August 12, powered by a new Tensor G6 chip with major camera upgrades and thinner designs.
-• Microsoft is recalibrating its presence in China as AI leaders debate new oversight structures and cyberattacks increasingly spill from corporate networks into warehouses and global supply chains.
+• Apple has trained its own custom AI model for the Chinese market with help from Alibaba, reportedly making it the first foreign company Beijing has cleared to deploy a proprietary AI model in China, as Apple Intelligence prepares to roll out there via iOS following regulatory approval.
+• OpenAI lost revenue chief Denise Dresser, the company's second major executive departure in a matter of days, as competition intensifies with Anthropic and Google cutting prices while DeepSeek raises them and firms race to secure chips, data centers, and energy.
+• Uber and Pony.ai are preparing to put more than 2,000 robotaxis on European roads, part of a broader push by ride-hailing and AI firms to expand autonomous vehicle fleets beyond the US and China.
 
-🔬 Science: Researchers have found a new way to map part of Earth's upper atmosphere using orbital data gathered from roughly 1,200 Starlink satellites, opening a novel low-cost window into near-space conditions.
+🔬 Science: A large analysis of more than 480,000 people found regular stair climbers were 39% less likely to die from cardiovascular disease and 24% less likely to die from other causes, adding to evidence that small bursts of vigorous activity carry outsized health benefits.
 
-📜 History: On August 14, 1947, Pakistan became independent from British rule as the subcontinent was partitioned into India and Pakistan, marking the birth of the modern Pakistani state.
+📜 History: On August 15, 1945, Japan's Emperor Hirohito announced in a pre-recorded radio address that Japan had accepted the terms of surrender, effectively ending World War II.
 
-🤔 Philosophy: Consciousness remains a central philosophical concern in 2026, as advances in AI and neuroscience intensify debate over whether machines can be conscious and whether subjective experience is reducible to neural processes.
+🤔 Philosophy: Texas A&M is being sued by a group of professors and the ACLU of Texas over a policy that led to a professor being banned from teaching Plato's "Symposium" and the cancellation of an ethics course, reviving debate over academic freedom and the place of classical philosophy in public universities.
 
-🌍 Geography: Scientists have discovered a giant, fan-shaped network of hidden basins buried beneath the ice of East Antarctica, reshaping understanding of the continent's ancient landscape and its ice sheet's stability.
+🌍 Geography: Italy's Po River has fallen to historically low levels amid the country's fourth heatwave of the summer, exposing wide stretches of dry riverbed near Pavia and raising fresh concerns over water supplies and farming across northern Italy.
 
-💰 Economics: US inflation is on track to ease for a second straight month to 3.4% annually in July, with cooler price data and strong earnings pushing stocks modestly higher even as new Fed Chairman Warsh weighs a possible September rate hike.
+💰 Economics: US retail sales, industrial production, and consumer sentiment data are all due out today, arriving after July's CPI showed inflation easing to 3.4% annually for a second straight month, with markets no longer pricing in a September Fed rate hike following a weak jobs report.
 
-🧠 Psychology: Researchers have identified a specific brain network and its distinctive electrical rhythm that appears to drive the benefits of deep brain stimulation for Parkinson's disease, pointing toward more targeted treatments.
+🧠 Psychology: A small study of 28 participants found a new wearable ultrasound patch helped people reach REM sleep 43 minutes faster and stay in it about 16 minutes longer, without medication or surgery, pointing to a possible drug-free tool for sleep disorders.
 
-🎨 Art & Literature: The Booker Prize announced its 2026 longlist on August 12, featuring 13 novels from authors including Marlon James, Elizabeth Strout, Emma Cline, and Douglas Stuart alongside newer voices.
+🎨 Art & Literature: New releases this week include Pulitzer Prize winner Richard Russo's small-town literary thriller "Under the Falls" and Alice Hoffman's "The Witches of Cambridge," the start of a new series set at 1950s Radcliffe College.
 
-🔭 Astronomy & Space: Skywatchers are riding the high of a total solar eclipse that swept across Greenland, Iceland, and Spain on August 12, with the Perseid meteor shower now peaking under a dark, moonless sky and NASA's Nancy Grace Roman Space Telescope on track to launch August 30.
+🔭 Astronomy & Space: Venus reaches its greatest eastern elongation today, shining at its widest separation from the Sun in the evening sky, while Jupiter and Mercury pass within about half a degree of each other in the dawn twilight.
 
-🧬 Biology & Evolution: A 240-million-year-old reptile fossil unearthed in Brazil is offering fresh clues about what evolution looked like just before the rise of dinosaurs and crocodiles.
+🧬 Biology & Evolution: A 236-million-year-old fossilized cynodont found with a preserved neonatal growth line suggests a mammal ancestor may have given live birth far earlier than thought, potentially pushing back the evolutionary origin of live birth by up to 95 million years.
 
-🗺️ World Cultures & Languages: More than 3,000 of the world's roughly 7,000 languages — about 40% — are endangered, with UNESCO estimating that on average one disappears every two weeks, hitting Oceania hardest.
+🗺️ World Cultures & Languages: Foreign residents in Spain's Catalonia region must now pass a Catalan-language test to renew their residence permits, the latest move in the region's push to strengthen the language's everyday use.
 
-➗ Mathematics: A collaboration between the Institute for Advanced Study and DeepMind reported that its AI system LeanMind proved the long-open Sylvester-Gallai conjecture largely without human guidance, with the proof formally verified and published in the Annals of Mathematics.
+➗ Mathematics: A joint Oxford-MIT team reportedly resolved the century-old Hadamard conjecture, combining combinatorial design theory with quantum annealing to construct explicit Hadamard matrices for all orders, closing a problem that had resisted proof since the 1890s.
 
-⚖️ Politics & Law: Wisconsin's new justice Chris Taylor was sworn in on August 1, expanding the state supreme court's liberal majority to 5-2, while Washington and Kansas held August elections and constitutional votes affecting their own top courts.
+⚖️ Politics & Law: The US Supreme Court has agreed to hear a new case this term over whether states can require proof of citizenship to register to vote, adding it to a docket already shaped by fights over transgender military service and election administration ahead of the midterms.
 
-🎵 Music: Nigerian star Ayra Starr released her album "Starr Girl" today via Mavin Records, part of a packed August slate that also includes DMA's fifth studio album and Dead Tired's "Hornets of Fall."
+🎵 Music: The Stellar Gospel Music Awards, gospel music's top honors, were handed out today, while girl group KATSEYE marked the release of their new EP "WILD" with a live performance on NBC's "Today" show this week.
