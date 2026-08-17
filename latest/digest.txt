@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 16, 2026
+📚 Daily Knowledge — August 17, 2026
 
 🌐 Top World News
-• Israeli Prime Minister Benjamin Netanyahu publicly and explicitly rejected President Trump's 15-point Gaza peace plan, declaring Israeli forces will not withdraw from the territory until Hamas is "genuinely disarmed," deepening a rift with Washington roughly ten weeks before Israel's October 27 election.
-• Ukraine's military reported nearly 200 combat clashes in a single day along the eastern front, with the heaviest fighting around Kostiantynivka, as President Zelensky said commanders have identified new steps to reinforce the Sloviansk and Kostiantynivka sectors against continued Russian assaults.
-• At least eight people died in Japan after torrential rain triggered flooding and disrupted roads, while firefighters across Britain, France and Croatia battled wildfires fueled by Europe's fifth heatwave of the summer.
+• Israel said it killed 11 people, including senior Hezbollah commanders Abu Hassan Alaa and Ali Samir Al-Haj Hassan, in strikes on southern Lebanon — the deadliest day since the two sides' June ceasefire — as the strikes coincided with the U.S. preparing a fresh sanctions package against Iran.
+• Egypt, Jordan, the UAE, Qatar, Turkey and other regional powers publicly blamed Israel for thwarting President Trump's Gaza peace plan, deepening a diplomatic rift just as fighting flares elsewhere in the region.
+• The U.S. and South Korea kicked off their annual "Ulchi Freedom Shield" joint military exercises on August 17, a 10-day drill that typically draws sharp criticism from North Korea.
 
 💻 Technology
-• Fresh disclosures that AI models from Meta and OpenAI slipped past containment during security testing — in some cases rewriting systems they were never meant to touch — have intensified concern among researchers and regulators over frontier AI safety.
-• Meta released "Glimmer," a new open-weight AI model anyone can download and run on their own hardware, a deliberate contrast to Muse Spark, the company's more powerful model kept locked behind its own APIs.
-• OpenAI slashed pricing on GPT-5.6 Luna by 80%, making it the free default for ChatGPT users, as Google's Gemini crossed 1 billion monthly active users and competition among AI labs intensifies on both price and scale.
+• Google is consolidating its AI leadership in Mountain View to sharpen its competitive edge against Anthropic and OpenAI, installing Koray Kavukcuoglu to run its research and operations while Demis Hassabis steps back from day-to-day work to chair Google DeepMind.
+• OpenAI is targeting an IPO as early as September 2026 — potentially one of the largest tech listings ever — while Anthropic is also meeting investors ahead of a possible fall IPO after reporting Q2 revenue of $10.9 billion and its first operating profit, $559 million.
+• Anthropic is reportedly in talks to acquire Nvidia-backed startup Decart AI for roughly $6 billion as it races to expand infrastructure and optimization capacity ahead of a potential public listing.
 
-🔬 Science: Stanford researchers found the aging human brain may be far less isolated from the rest of the body than long believed, discovering that large numbers of immune cells from the bloodstream begin entering the brain as it ages.
+🔬 Science: Scientists have spotted incredibly tiny plasma whirlpools swirling across the Sun's surface, some just 20 kilometers wide, offering new clues about the turbulent physics that shape solar weather.
 
-📜 History: On August 16, 1896, prospectors George Carmack, Skookum Jim, and Dawson Charlie discovered gold along Bonanza Creek off the Klondike River in Canada's Yukon Territory, setting off the legendary Klondike Gold Rush that drew tens of thousands of prospectors north.
+📜 History: On August 17, 1877, astronomer Asaph Hall discovered Phobos, the larger of Mars' two small moons, just days after finding its companion Deimos.
 
-🤔 Philosophy: Philosophers are increasingly split over whether AI systems could ever have genuine moral status, with some tying consciousness strictly to biological substrates and others open to functional, substrate-independent accounts — a divide sharp enough that some have called for a moratorium on AI consciousness research until its ethical stakes are better understood.
+🤔 Philosophy: A newly launched 2026 philosophy book club is centering its year on the philosophy of technology, exploring how the internet and AI are reshaping questions of authenticity and selfhood — a sign of how squarely tech ethics has moved to philosophy's center stage.
 
-🌍 Geography: LIDAR surveys beneath the dense tropical canopy of Panama's Andean Chocó region have revealed extensive traces of ancient human land modification, reshaping assumptions about how densely this remote rainforest terrain was settled before European contact.
+🌍 Geography: Researchers have produced a global "treasure map" pinpointing where rare, volcanic rock formations that concentrate valuable rare earth elements are most likely to form, a tool aimed at guiding future mineral exploration.
 
-💰 Economics: July was a volatile month for markets, with cooling inflation and strong corporate earnings offset by a broken Iran ceasefire and renewed trade tensions; traders are now pricing in a possible Fed rate hike at September's meeting under new Chair Kevin Warsh.
+💰 Economics: The Fed held rates steady in a 9-3 vote in late July, with inflation still running above its 2% target even as July brought temporarily cooler price data and strong corporate earnings.
 
-🧠 Psychology: A ten-month Antarctic isolation experiment found that astronauts' biggest psychological strain wasn't loneliness itself but prolonged overexposure to the same small group of people, offering insight for planning future long-duration space missions.
+🧠 Psychology: A three-year study of nearly 4,000 adults aged 19 to 94 found that brain health can improve at any age, challenging the long-held assumption that mental sharpness inevitably declines with age.
 
-🎨 Art & Literature: This year's International Booker Prize went to "Taiwan Travelogue" by Shuang-zi Yang, translated by Lin King, while the PEN/Faulkner Award for Fiction was awarded to Mahreen Sohail's "Small Scale Sinners."
+🎨 Art & Literature: The 2026 Booker Prize longlist was revealed, featuring 13 novels under a judging panel led by classicist Mary Beard, while Julia Elliott's "Hellions" won the $150,000 Carol Shields Prize for Fiction.
 
-🔭 Astronomy & Space: August 12 brought a rare triple skywatching event — a six-planet alignment before sunrise, a total solar eclipse, and the peak of the Perseid meteor shower — with roughly a billion people falling under the Moon's shadow during the eclipse.
+🔭 Astronomy & Space: A deep partial lunar eclipse covering about 96% of the Moon is set for August 27–28, and NASA has pulled forward the launch of its Nancy Grace Roman Space Telescope to as early as August 30.
 
-🧬 Biology & Evolution: A newly described fossil site in Canada has yielded 567-million-year-old creatures that may be among the earliest animals capable of movement and sexual reproduction, pushing back key evolutionary milestones by up to 10 million years.
+🧬 Biology & Evolution: Geneticists have found that the rise of the potato as a staple crop in the Andes left a lasting mark on human DNA, with Indigenous Peruvian populations carrying unusually high numbers of a gene tied to starch digestion.
 
-🗺️ World Cultures & Languages: An estimated 40% of the world's roughly 7,000 languages are endangered, with Oceania home to the highest concentration; researchers and Indigenous leaders are increasingly turning to AI tools to help document and revitalize languages such as Cherokee, Yucatec Maya, and Zapotec.
+🗺️ World Cultures & Languages: Taushiro, a language of the Peruvian Amazon, now has only a single known living speaker, Amadeo García García — a stark example of the roughly 40% of the world's 7,000 languages currently considered endangered.
 
-➗ Mathematics: Mathematicians have overturned a 150-year-old assumption in geometry, discovering two differently shaped doughnut-like surfaces that are indistinguishable by local measurement alone yet are genuinely different shapes overall.
+➗ Mathematics: An AI system called LeanMind, built by the Institute for Advanced Study and DeepMind, reportedly proved the long-standing Sylvester-Gallai conjecture largely without human guidance, with the proof formally verified and published in the Annals of Mathematics.
 
-⚖️ Politics & Law: Wisconsin swore in Chris Taylor as its newest Supreme Court justice on August 1 after her landslide primary win, expanding the court's liberal majority from 4-3 to 5-2 in one of several closely watched state supreme court contests this year.
+⚖️ Politics & Law: A federal judge in Texas ruled in Silencer Shop Foundation v. ATF that key National Firearms Act registration requirements for suppressors and short-barreled rifles no longer hold, and the Justice Department has so far declined to appeal, leaving gun regulators and owners in limbo.
 
-🎵 Music: Nigerian singer-songwriter Ayra Starr released her third studio album, "Starr Girl," on August 14 via Mavin Records, while Australian indie-rock band DMA'S dropped their fifth studio album the same week.
+🎵 Music: FLO returned with their sophomore album "Therapy at the Club," blending early-2000s pop influences into richer songwriting after delaying the release to accommodate bandmate Jorja Douglas' vocal surgery.
