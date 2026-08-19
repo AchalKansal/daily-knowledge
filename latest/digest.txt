@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 18, 2026
+📚 Daily Knowledge — August 19, 2026
 
 🌐 Top World News
-• The death toll from Zimbabwe's Lake Kariba ferry disaster has risen to 72, including 18 children, after a vessel licensed for 90 passengers capsized while carrying an estimated 153 people — one of the country's worst maritime disasters in decades.
-• Jared Kushner held a rare, 90-minute meeting with Hamas political leader Khalil al-Hayya in Egypt on Sunday to push Hamas toward disarmament under Trump's Gaza roadmap, followed by a marathon session with Netanyahu that produced cautious optimism but no firm Israeli commitment.
-• A Russian court sentenced Yabloko party deputy chairman Lev Shlosberg to 11 years and a month in prison for "discrediting the military" over anti-war social media posts, in the latest Kremlin crackdown on dissent ahead of next month's parliamentary election.
+• The death toll from Colombia's August 10 magnitude-7.4 earthquake has climbed past 265 across Chocó, Pereira and Cali, with hundreds still missing as rescue crews and international aid continue racing through collapsed buildings more than a week after the quake.
+• Gulf tensions are escalating: President Trump ruled out extending Iran's ceasefire and called for Tehran's "surrender," while a sanctioned Russian shadow-fleet tanker grounded off Oman has spilled an oil slick now exceeding 2,000 square kilometers, fouling 40km of Omani coast and reaching Iran's protected Qeshm mangroves.
+• Two drones targeted the office of the Kurdistan Regional Government's prime minister and the home of its intelligence chief in northern Iraq, with KRG security officials saying the strike was launched from Iranian territory.
 
 💻 Technology
-• Stripe finalized a deal to acquire AI model marketplace OpenRouter — which offers access to 400+ models for 8 million users — for more than $7 billion, over five times its valuation just three months ago.
-• Anthropic's quarterly revenue reportedly jumped to more than $11.5 billion as OpenAI's CFO said the company's enterprise business has now overtaken consumer revenue, underscoring surging enterprise AI spend.
-• Meta released Glimmer, a new open-weight AI model anyone can download and run locally, with Mark Zuckerberg framing it as a counter to AI being "controlled by a handful of labs."
+• OpenAI rolled out a dedicated "ChatGPT for Teens" experience for ages 13–17, adding stricter content limits, age-prediction routing, optional parental controls and safeguards meant to discourage emotional dependency on the chatbot.
+• Meta is heading into a landmark 29-state trial over allegations that its platforms caused psychological harm to young users.
+• Google is reportedly targeting 2027 to move all Pixel smartphone production out of China, as tech supply chains continue shifting amid geopolitical pressure.
 
-🔬 Science: Researchers have spotted incredibly tiny plasma whirlpools swirling across the Sun's surface, some just 20 kilometers wide, offering new clues about the turbulent physics behind solar weather.
+🔬 Science: Researchers engineered a new corrosion-resistant stainless steel that could replace costly titanium in green-hydrogen production, while a separate team found that tiny, sharply curved wrinkles in graphene can dramatically alter its electrical behavior.
 
-📜 History: On August 18, 1920, Tennessee became the 36th state to ratify the 19th Amendment, securing the three-fourths majority needed to guarantee American women the constitutional right to vote.
+📜 History: On this day in 1812, the USS Constitution defeated the British frigate HMS Guerrière in a lopsided battle off Nova Scotia — witnesses said enemy cannonballs seemed to bounce off her oak hull, earning the ship its nickname "Old Ironsides."
 
-🤔 Philosophy: AI labs including Anthropic, Google DeepMind and OpenAI are increasingly employing philosophers, drawing on Socratic questioning, Kant and Locke to reduce hallucinations, improve transparency, and build "constitutional AI" safeguards into models.
+🤔 Philosophy: As AI systems grow more capable, philosophers are increasingly central to the industry, drawing on debates over consciousness and moral status to inform "constitutional AI" frameworks now used by labs including Anthropic, OpenAI and Google DeepMind.
 
-🌍 Geography: A magnitude 7.4 earthquake struck western Colombia on August 10, killing at least 224 people, while separately researchers mapped a vast hidden fungal network beneath the soil that helps sustain much of terrestrial life.
+🌍 Geography: Extreme heat and prolonged drought have pushed the Danube, Rhine, Po and Loire to record or near-record low levels across Europe this month, a decline severe enough to be visible from satellites and disruptive to shipping, hydropower and ecosystems.
 
-💰 Economics: The IMF projects global growth of 3.3% for 2026, but warns that G20 inflation is set to rise to 4.0% this year as energy prices and tariffs complicate central banks' path back to target.
+💰 Economics: ECB chief economist Philip Lane said eurozone inflation will likely hold "well above" 2% for the rest of 2026 due to Iran-war-driven energy costs, while the U.S. Federal Reserve now pencils in just one rate cut this year as growth and inflation forecasts both firm up.
 
-🧠 Psychology: A prescription form of THC helped many PTSD patients escape recurring trauma nightmares in a new trial, with more than a third reporting the nightmares disappeared entirely after ten weeks.
+🧠 Psychology: A three-year study of nearly 4,000 adults aged 19 to 94 found that brain health can improve at any age, challenging the assumption that cognitive sharpness must inevitably decline with age.
 
-🎨 Art & Literature: The 2026 Booker Prize longlist of 13 novels — chaired by classicist Mary Beard — was revealed, featuring past winners alongside three debut novelists selected from 163 submissions.
+🎨 Art & Literature: Nine writers — including Elaine Castillo, Karen Hao and Carvell Wallace — won 2026 Whiting Awards, each receiving $50,000 to support early-career poets, novelists and nonfiction writers.
 
-🔭 Astronomy & Space: Just days after the August 12 total solar eclipse and Perseids peak, NASA has pulled forward the launch of its Nancy Grace Roman Space Telescope to as early as August 30, 2026.
+🔭 Astronomy & Space: Astronomers witnessed a black hole violently shredding a massive star in one of the most energetic stellar explosions ever recorded, while JWST uncovered evidence that Neptune's oddly-behaved inner moons may be wreckage from an ancient cosmic collision.
 
-🧬 Biology & Evolution: Geneticists have found that the rise of the potato as an Andean staple crop left a lasting genetic mark on Indigenous Peruvian populations, who carry unusually high numbers of a starch-digestion gene.
+🧬 Biology & Evolution: New research suggests the first free-living cells may have emerged independently not once but twice in Earth's early history, reshaping long-standing ideas about how life first took hold on the planet.
 
-🗺️ World Cultures & Languages: UNESCO, Peru's Ministry of Culture and the AJE Group launched a joint effort this month to revitalize the language and culture of the Taushiro people, whose tongue now has only one known living speaker.
+🗺️ World Cultures & Languages: St. Louis's Festival of Nations returns August 29–30, drawing over 100,000 visitors to celebrate more than 80 countries' traditions, while Spain's tomato-fight tradition La Tomatina is set to draw crowds to Buñol on August 26.
 
-➗ Mathematics: OpenAI's Astra model generated machine-checkable Lean proofs solving ten decades-old open math problems spanning group theory and high-dimensional geometry, for roughly $2,000 in compute.
+➗ Mathematics: A mathematician at Anthropic used the AI model Claude Fable 5 to uncover a surprisingly simple counterexample to the long-unresolved Jacobian conjecture, part of a wave of AI-assisted breakthroughs cracking century-old math problems in 2026.
 
-⚖️ Politics & Law: The U.S. Supreme Court is weighing NRSC v. FEC, testing the constitutionality of federal limits on coordinated political party spending, with a ruling expected to reshape campaign finance ahead of the 2026 midterms.
+⚖️ Politics & Law: The Supreme Court's dismantling of Section 2 of the Voting Rights Act in Louisiana v. Callais continues to reshape redistricting battles ahead of the 2026 midterms, with majority-minority House districts now vulnerable to challenge as unconstitutional racial gerrymanders.
 
-🎵 Music: Nigerian singer-songwriter Ayra Starr released her third studio album, "Starr Girl," on August 14 through Mavin Records.
+🎵 Music: Prince's estate is preparing to release "Timeless," a collection of rare and previously unreleased recordings from the late artist's vault, among a wave of major August album releases.
