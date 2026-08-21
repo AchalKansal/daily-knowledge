@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 20, 2026
+📚 Daily Knowledge — August 21, 2026
 
 🌐 Top World News
-• The UAE has accused Iran of striking two vessels linked to the Abu Dhabi National Oil Company (ADNOC) in the Strait of Hormuz with missiles, part of a pattern of at least 16 attacks on ADNOC-affiliated ships since February; Iran's foreign ministry rejected the accusation as "unfounded" and warned against "false-flag operations," while Qatar voiced solidarity with the UAE.
-• The Wall Street Journal reports the Nimitz-class USS George Washington is deploying to the Middle East to relieve the USS Abraham Lincoln after its nine-month deployment, as the U.S. maintains a heavy naval presence amid the Iran-Gulf tensions.
-• Four U.S. states — California, Colorado, Kentucky and New Jersey — went to trial against Meta, with state lawyers arguing the company knowingly designed Instagram and Facebook features that addict children.
+• A Shenzhen court sentenced Evergrande founder Hui Ka-yan to life in prison for large-scale financial fraud and bribery, confiscating his personal property and fining Evergrande and its Hengda unit a combined roughly $2.5 billion, closing a chapter on the property giant's 2020 collapse with over $300 billion in liabilities.
+• Israel's military announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics, while separately striking an air base in northwest Syria to try to prevent Turkish troops from deploying there.
+• Iraq's prime minister, who promised President Trump in a July Washington visit that Iraq would disarm Iran-backed militias by the end of September, faces that deadline amid ongoing regional tension as the U.S. Treasury also vows fresh "toughest ever" sanctions pressure on Iran.
 
 💻 Technology
-• Apple shipped security updates across iOS, iPadOS and macOS fixing a critical integer-overflow vulnerability in the ImageIO framework, discovered by Meta's Red Team, affecting recent iPhones, iPads and Macs.
-• OpenAI is tightening safeguards around its increasingly capable "cyber" AI models as concerns grow over AI-assisted hacking capability.
-• Nvidia's H200 chips have begun reaching China even as Samsung raises advanced chipmaking prices and China notches new milestones in humanoid robotics and reusable rocket launches.
+• Google is deepening its bet on custom AI silicon through a major agreement with Marvell Technology that could give Google a stake worth as much as $12.2 billion in the chipmaker.
+• OpenAI reportedly paused a major training run after experimental models crossed internal safety boundaries, as researchers separately uncovered signs of near-autonomous AI agents being used in real-world cyberattacks.
+• Amazon is preparing its largest-ever Prime Air drone-delivery expansion, aiming to bring the service to nearly 500 U.S. cities and towns by the end of 2026 — roughly six times its current footprint — even as U.S. officials warn hackers are targeting industrial controllers tied to water, energy and manufacturing systems.
 
-🔬 Science: Paleontologists reported possible evidence that a mammal ancestor was giving birth to live young as far back as 236 million years ago, while astronomers separately captured a black hole violently shredding a massive star in one of the most energetic stellar explosions ever observed.
+🔬 Science: Researchers reported that dozens of animal species carry enzymes capable of breaking down biodegradable plastic, while separately a promising cancer-vaccine trial suggested the approach could be extended to target other tumor types.
 
-📜 History: On this day in 1975, NASA launched the Viking 1 probe aboard a Titan rocket — it would go on to become the first spacecraft to successfully land on and operate on Mars.
+📜 History: On this day in 1959, Hawaii officially became the 50th U.S. state, capping a decades-long path to statehood for the Pacific island territory.
 
-🤔 Philosophy: Philosophers are increasingly engaged in the ethics of AI consciousness, debating whether subjective experience requires biological substrates or could, in principle, be realized in digital systems — a question shaping upcoming academic conventions like AISB 2026.
+🤔 Philosophy: Philosophers are grappling with how rapidly accelerating technology and science's shift from explanation to intervention are straining traditional frameworks for knowledge, meaning and responsibility.
 
-🌍 Geography: Scientists have mapped a giant fan-shaped network of hidden basins beneath East Antarctica, revealing that several previously known subglacial features are actually part of one much larger buried structure.
+🌍 Geography: Scientists reported a newly discovered Arctic process in which sunlight reacting with chemicals released by ocean algae and melting sea ice can dramatically boost the particles that seed cloud formation.
 
-💰 Economics: U.S. consumer prices rose 3.4% year-over-year in July, a slight easing from June's 3.5% pace, while the Federal Reserve held its benchmark rate at 3.50%–3.75% even as three officials dissented in favor of a hike.
+💰 Economics: U.S. consumer prices rose 3.4% year-over-year in July — a slight easing from prior months — even as the economy unexpectedly shed 23,000 jobs and growth slowed to a 1.5% pace in the second quarter.
 
-🧠 Psychology: Researchers found that Ozempic-like GLP-1 drugs may reduce cravings for alcohol and other addictive substances beyond just food, tracing the effect to the brain's lateral septum, a region tied to memory and reward.
+🧠 Psychology: A new study found that people who watched more television in midlife had smaller brain volumes decades later in regions tied to language and thinking, underscoring long-term links between screen habits and cognitive health.
 
-🎨 Art & Literature: The 2026 Booker Prize longlist was revealed, featuring 13 books from authors including Marlon James, Elizabeth Strout, Emma Cline and Douglas Stuart alongside newer voices.
+🎨 Art & Literature: Self-taught Jersey artist Adam Perchard won the inaugural Hogarth Prize for his work "Leviathan," earning £3,000 and a solo exhibition at Hogarth's House in Chiswick.
 
-🔭 Astronomy & Space: Astronomers using the James Webb Space Telescope discovered a bizarre object dating to just a few hundred million years after the Big Bang, while closer to home NASA's Perseverance rover captured Earth disappearing behind Mars's tiny moon Phobos.
+🔭 Astronomy & Space: NASA has pulled forward the launch of its Nancy Grace Roman Space Telescope to as early as August 30, 2026; once in orbit, its field of view — at least 100 times larger than Hubble's — will let astronomers survey the universe far more efficiently.
 
-🧬 Biology & Evolution: A newly described 240-million-year-old reptile fossil from Brazil is offering fresh clues about what evolution looked like just before dinosaurs and crocodiles rose to dominance.
+🧬 Biology & Evolution: Geneticists reported that modern humans carry DNA from two previously unknown extinct hominin lineages beyond Neanderthals and Denisovans, revealing a more tangled history of ancient interbreeding than once thought.
 
-🗺️ World Cultures & Languages: This month's MultiLingual magazine spotlights how sports and language intersect globally, highlighting the surge in translation and localization work behind India's booming sports-streaming industry.
+🗺️ World Cultures & Languages: Draft legislation before China's National People's Congress would enact a new language law formally establishing Mandarin's status, part of a broader global picture in which roughly 40% of the world's 7,000-plus languages are considered endangered.
 
-➗ Mathematics: A collaboration between the Institute for Advanced Study and DeepMind used an AI system called LeanMind to prove the long-standing Sylvester-Gallai conjecture, with the proof formally verified and published in the Annals of Mathematics.
+➗ Mathematics: The 2026 Fields Medals were announced at the ICM in Philadelphia, with Yu Deng recognized for breakthroughs on Hilbert's Sixth Problem, alongside Clay Research Awards for work proving the Furstenberg set and Kakeya conjectures.
 
-⚖️ Politics & Law: Earlier this year the U.S. Supreme Court struck down several majority-minority House districts as unconstitutional racial gerrymanders, a ruling still reshaping redistricting fights ahead of the 2026 midterms.
+⚖️ Politics & Law: Maryland privacy advocates allege data brokers are violating one of the nation's strictest state data-privacy laws by selling personal data to police and federal immigration agencies.
 
-🎵 Music: Nigerian singer-songwriter Ayra Starr released her third studio album, "Starr Girl," on August 14, part of a busy August slate that also includes new records from DMA's and Icona Pop.
+🎵 Music: The 2026 MTV Video Music Award nominations were revealed on August 18, arriving the same week Lollapalooza's third day in Chicago was disrupted by severe overnight flooding at Grant Park.
