@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 21, 2026
+📚 Daily Knowledge — August 22, 2026
 
 🌐 Top World News
-• A Shenzhen court sentenced Evergrande founder Hui Ka-yan to life in prison for large-scale financial fraud and bribery, confiscating his personal property and fining Evergrande and its Hengda unit a combined roughly $2.5 billion, closing a chapter on the property giant's 2020 collapse with over $300 billion in liabilities.
-• Israel's military announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics, while separately striking an air base in northwest Syria to try to prevent Turkish troops from deploying there.
-• Iraq's prime minister, who promised President Trump in a July Washington visit that Iraq would disarm Iran-backed militias by the end of September, faces that deadline amid ongoing regional tension as the U.S. Treasury also vows fresh "toughest ever" sanctions pressure on Iran.
+• President Trump said Iran is "not ready to make the right deal" while claiming the U.S. has "total control" over the Strait of Hormuz and surrounding land areas, as tensions over the vital oil-shipping route continue to simmer.
+• The U.S. government notified Congress it will pay $850 million to the United Nations, with $725 million covering regular UN budget dues and $125 million going toward peacekeeping operations in Haiti and the Democratic Republic of Congo.
+• A handful of billionaires and companies are driving record spending on U.S. congressional midterm races, with crypto, gambling and artificial-intelligence firms fueling a flood of campaign cash ahead of November.
 
 💻 Technology
-• Google is deepening its bet on custom AI silicon through a major agreement with Marvell Technology that could give Google a stake worth as much as $12.2 billion in the chipmaker.
-• OpenAI reportedly paused a major training run after experimental models crossed internal safety boundaries, as researchers separately uncovered signs of near-autonomous AI agents being used in real-world cyberattacks.
-• Amazon is preparing its largest-ever Prime Air drone-delivery expansion, aiming to bring the service to nearly 500 U.S. cities and towns by the end of 2026 — roughly six times its current footprint — even as U.S. officials warn hackers are targeting industrial controllers tied to water, energy and manufacturing systems.
+• Anthropic is reportedly preparing for an IPO that could rival the size of SpaceX's record-setting public debut, with annualized revenue said to have reached roughly $65 billion by the end of July as enterprise demand for Claude and AI agents accelerates.
+• Nvidia struck an unusual deal with AI coding startup Poolside, paying $6 billion for a non-exclusive technology license and investing another $1 billion at a $12 billion pre-money valuation.
+• Regulators opened Las Vegas streets to thousands of robotaxis this week, even as chipmakers lined up tens of billions of dollars in fresh debt to keep funding the AI buildout.
 
-🔬 Science: Researchers reported that dozens of animal species carry enzymes capable of breaking down biodegradable plastic, while separately a promising cancer-vaccine trial suggested the approach could be extended to target other tumor types.
+🔬 Science: Researchers discovered bacteria capable of locking toxic dissolved uranium into a stable, immobile form, with about 95% of dissolved uranium disappearing from contaminated water within 130 days.
 
-📜 History: On this day in 1959, Hawaii officially became the 50th U.S. state, capping a decades-long path to statehood for the Pacific island territory.
+📜 History: On this day in 1485, Richard III was defeated and killed at the Battle of Bosworth Field by Henry Tudor, ending the last major battle of the Wars of the Roses and ushering in the Tudor dynasty.
 
-🤔 Philosophy: Philosophers are grappling with how rapidly accelerating technology and science's shift from explanation to intervention are straining traditional frameworks for knowledge, meaning and responsibility.
+🤔 Philosophy: The philosophy world marked the passing of Anthony Kenny, the Oxford philosopher renowned for his work on philosophy of mind and the history of philosophy, as the latest issue of Philosophy Now takes up the perennial question "What Is Life?"
 
-🌍 Geography: Scientists reported a newly discovered Arctic process in which sunlight reacting with chemicals released by ocean algae and melting sea ice can dramatically boost the particles that seed cloud formation.
+🌍 Geography: Scientists studying magma from La Palma's 2021 Tajogaite eruption found that extreme heat can dramatically reshape how an eruption unfolds, while researchers beneath Japan's largely submerged Kikai caldera discovered a vast magma reservoir that appears to be refilling.
 
-💰 Economics: U.S. consumer prices rose 3.4% year-over-year in July — a slight easing from prior months — even as the economy unexpectedly shed 23,000 jobs and growth slowed to a 1.5% pace in the second quarter.
+💰 Economics: Q2 earnings growth for S&P 500 companies accelerated to roughly 50%, the fastest pace since 2021, even as the Federal Reserve held rates at 3.50%–3.75% in July with three officials dissenting in favor of a hike.
 
-🧠 Psychology: A new study found that people who watched more television in midlife had smaller brain volumes decades later in regions tied to language and thinking, underscoring long-term links between screen habits and cognitive health.
+🧠 Psychology: A new study found that people from Chinese, Dutch and Greek cultural backgrounds share the same "tickle hotspots" on the body, with ticklishness consistently strongest in rarely touched areas regardless of culture.
 
-🎨 Art & Literature: Self-taught Jersey artist Adam Perchard won the inaugural Hogarth Prize for his work "Leviathan," earning £3,000 and a solo exhibition at Hogarth's House in Chiswick.
+🎨 Art & Literature: Julia Elliott's "Hellions" won the 2026 Carol Shields Prize for Fiction, while Shuang-zi Yang's "Taiwan Travelogue," translated by Lin King, took home this year's International Booker Prize.
 
-🔭 Astronomy & Space: NASA has pulled forward the launch of its Nancy Grace Roman Space Telescope to as early as August 30, 2026; once in orbit, its field of view — at least 100 times larger than Hubble's — will let astronomers survey the universe far more efficiently.
+🔭 Astronomy & Space: Astronomers witnessed a black hole violently shredding a massive star on August 15, producing one of the most energetic stellar explosions ever observed.
 
-🧬 Biology & Evolution: Geneticists reported that modern humans carry DNA from two previously unknown extinct hominin lineages beyond Neanderthals and Denisovans, revealing a more tangled history of ancient interbreeding than once thought.
+🧬 Biology & Evolution: A newly analyzed 240-million-year-old reptile fossil from Brazil is revealing what animal evolution looked like just before dinosaurs and crocodiles rose to dominance, while geneticists found Indigenous Peruvians carry unusually high numbers of a starch-digestion gene linked to the ancient domestication of the potato.
 
-🗺️ World Cultures & Languages: Draft legislation before China's National People's Congress would enact a new language law formally establishing Mandarin's status, part of a broader global picture in which roughly 40% of the world's 7,000-plus languages are considered endangered.
+🗺️ World Cultures & Languages: UNESCO Peru and the country's Ministry of Culture are working to revitalize Taushiro, one of the world's most endangered languages, publishing "The Book of Those Who Speak Taushiro" on August 3 as only a handful of fluent speakers remain.
 
-➗ Mathematics: The 2026 Fields Medals were announced at the ICM in Philadelphia, with Yu Deng recognized for breakthroughs on Hilbert's Sixth Problem, alongside Clay Research Awards for work proving the Furstenberg set and Kakeya conjectures.
+➗ Mathematics: OpenAI said an internal version of its next model, Astra, solved ten previously open problems in mathematics and theoretical computer science, including a construction proving the existence of non-sofic groups.
 
-⚖️ Politics & Law: Maryland privacy advocates allege data brokers are violating one of the nation's strictest state data-privacy laws by selling personal data to police and federal immigration agencies.
+⚖️ Politics & Law: With U.S. midterms approaching, congressional Democrats unveiled proposals to expand the Supreme Court from nine to 13 seats, cap justices' terms at 18 years, and impose an enforceable ethics code on the court.
 
-🎵 Music: The 2026 MTV Video Music Award nominations were revealed on August 18, arriving the same week Lollapalooza's third day in Chicago was disrupted by severe overnight flooding at Grant Park.
+🎵 Music: Nigerian star Ayra Starr released her third studio album, "Starr Girl," on August 14 via Mavin Records, while Australian rock band DMA'S dropped their fifth studio album on August 7.
