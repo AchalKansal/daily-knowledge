@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 22, 2026
+📚 Daily Knowledge — August 23, 2026
 
 🌐 Top World News
-• President Trump said Iran is "not ready to make the right deal" while claiming the U.S. has "total control" over the Strait of Hormuz and surrounding land areas, as tensions over the vital oil-shipping route continue to simmer.
-• The U.S. government notified Congress it will pay $850 million to the United Nations, with $725 million covering regular UN budget dues and $125 million going toward peacekeeping operations in Haiti and the Democratic Republic of Congo.
-• A handful of billionaires and companies are driving record spending on U.S. congressional midterm races, with crypto, gambling and artificial-intelligence firms fueling a flood of campaign cash ahead of November.
+• Israel carried out eight airstrikes on Syria's Abu Duhur airbase near Aleppo on August 18 — its first hit on Syrian government targets since March — after accusing Damascus of letting Turkish forces deploy there; the U.S. condemned the strikes as an "unnecessary escalation," and Syria's foreign ministry called them a violation of its sovereignty.
+• A Shenzhen court sentenced Evergrande founder Hui Ka-yan to life in prison for large-scale financial fraud and corporate bribery, closing out the saga of the world's most indebted property developer, whose 2021 collapse left more than $300 billion in liabilities.
+• Prince Harry and Meghan announced they will return to the UK for an extended stay starting this fall, though they will not resume working roles within the royal family.
 
 💻 Technology
-• Anthropic is reportedly preparing for an IPO that could rival the size of SpaceX's record-setting public debut, with annualized revenue said to have reached roughly $65 billion by the end of July as enterprise demand for Claude and AI agents accelerates.
-• Nvidia struck an unusual deal with AI coding startup Poolside, paying $6 billion for a non-exclusive technology license and investing another $1 billion at a $12 billion pre-money valuation.
-• Regulators opened Las Vegas streets to thousands of robotaxis this week, even as chipmakers lined up tens of billions of dollars in fresh debt to keep funding the AI buildout.
+• Anthropic is accelerating its IPO timeline, reportedly preparing to file as soon as late August with a target valuation around $2 trillion that would match or exceed the size of SpaceX's record-setting public raise.
+• Amazon is preparing its largest-ever Prime Air expansion, aiming to bring drone delivery to nearly 500 U.S. cities and towns by the end of 2026 — roughly a sixfold increase over its current footprint.
+• Google deepened its custom AI silicon bet with a major deal with chipmaker Marvell Technology potentially worth up to $12.2 billion in equity, as the AI infrastructure buildout continues to accelerate industry-wide.
 
-🔬 Science: Researchers discovered bacteria capable of locking toxic dissolved uranium into a stable, immobile form, with about 95% of dissolved uranium disappearing from contaminated water within 130 days.
+🔬 Science: Astronomers using JWST found that massive galaxies from the universe's early history contain far more small, faint stars than expected, a hidden population that could make some of these galaxies three to four times more massive than previously estimated.
 
-📜 History: On this day in 1485, Richard III was defeated and killed at the Battle of Bosworth Field by Henry Tudor, ending the last major battle of the Wars of the Roses and ushering in the Tudor dynasty.
+📜 History: On this day in 1791, an enslaved uprising began in the French colony of Saint-Domingue, igniting the Haitian Revolution that would end slavery there and lead to Haiti's independence in 1804 — the event UNESCO now marks each August 23 as its International Day for the Remembrance of the Slave Trade and its Abolition.
 
-🤔 Philosophy: The philosophy world marked the passing of Anthony Kenny, the Oxford philosopher renowned for his work on philosophy of mind and the history of philosophy, as the latest issue of Philosophy Now takes up the perennial question "What Is Life?"
+🤔 Philosophy: Philosophers are increasingly turning their attention to generative AI, with journals like Synthese running collections on questions such as whether AI systems can meaningfully participate in "joint intentionality" or serve as ethics experts in their own right.
 
-🌍 Geography: Scientists studying magma from La Palma's 2021 Tajogaite eruption found that extreme heat can dramatically reshape how an eruption unfolds, while researchers beneath Japan's largely submerged Kikai caldera discovered a vast magma reservoir that appears to be refilling.
+🌍 Geography: Researchers discovered a giant fan-shaped network of hidden basins beneath East Antarctica, revealing that several previously separate-seeming subglacial features are actually part of one massive connected geological structure.
 
-💰 Economics: Q2 earnings growth for S&P 500 companies accelerated to roughly 50%, the fastest pace since 2021, even as the Federal Reserve held rates at 3.50%–3.75% in July with three officials dissenting in favor of a hike.
+💰 Economics: U.S. headline inflation ticked up 0.1% in July, cooling the year-over-year rate to 3.4%, while the Federal Reserve held its benchmark rate steady in a 9-3 vote, with three officials dissenting in favor of a hike.
 
-🧠 Psychology: A new study found that people from Chinese, Dutch and Greek cultural backgrounds share the same "tickle hotspots" on the body, with ticklishness consistently strongest in rarely touched areas regardless of culture.
+🧠 Psychology: A three-year study of nearly 4,000 adults aged 19 to 94 found that brain health can improve at any age, challenging the long-held assumption that mental sharpness must inevitably decline with age.
 
-🎨 Art & Literature: Julia Elliott's "Hellions" won the 2026 Carol Shields Prize for Fiction, while Shuang-zi Yang's "Taiwan Travelogue," translated by Lin King, took home this year's International Booker Prize.
+🎨 Art & Literature: The 2026 Venice Biennale, titled "In Minor Keys," opens as a historic first — its curator, Koyo Kouoh, died during production, making this the first edition ever staged after its curator's death.
 
-🔭 Astronomy & Space: Astronomers witnessed a black hole violently shredding a massive star on August 15, producing one of the most energetic stellar explosions ever observed.
+🔭 Astronomy & Space: NASA has pulled forward the launch of the Nancy Grace Roman Space Telescope to August 30, 2026; once operating, its field of view will be at least 100 times larger than Hubble's, complementing Hubble and JWST in infrared light.
 
-🧬 Biology & Evolution: A newly analyzed 240-million-year-old reptile fossil from Brazil is revealing what animal evolution looked like just before dinosaurs and crocodiles rose to dominance, while geneticists found Indigenous Peruvians carry unusually high numbers of a starch-digestion gene linked to the ancient domestication of the potato.
+🧬 Biology & Evolution: New genetic analysis shows modern humans carry DNA from two mysterious extinct human lineages beyond the well-known Neanderthals and Denisovans, hinting at still-unidentified branches of our evolutionary family tree.
 
-🗺️ World Cultures & Languages: UNESCO Peru and the country's Ministry of Culture are working to revitalize Taushiro, one of the world's most endangered languages, publishing "The Book of Those Who Speak Taushiro" on August 3 as only a handful of fluent speakers remain.
+🗺️ World Cultures & Languages: China has released draft legislation for a new national language law that would formally establish Mandarin's status, part of a broader push on language policy as more than 3,000 of the world's roughly 7,000 languages remain endangered.
 
-➗ Mathematics: OpenAI said an internal version of its next model, Astra, solved ten previously open problems in mathematics and theoretical computer science, including a construction proving the existence of non-sofic groups.
+➗ Mathematics: An AI system called LeanMind, built by the Institute for Advanced Study and DeepMind, found a proof of the Sylvester-Gallai conjecture in special Euclidean geometry, which was independently verified using the Coq formal-verification system.
 
-⚖️ Politics & Law: With U.S. midterms approaching, congressional Democrats unveiled proposals to expand the Supreme Court from nine to 13 seats, cap justices' terms at 18 years, and impose an enforceable ethics code on the court.
+⚖️ Politics & Law: The U.S. Supreme Court ruled that construction of a new White House ballroom on the site of the former East Wing can proceed without congressional approval, a project estimated to cost taxpayers at least $300 million.
 
-🎵 Music: Nigerian star Ayra Starr released her third studio album, "Starr Girl," on August 14 via Mavin Records, while Australian rock band DMA'S dropped their fifth studio album on August 7.
+🎵 Music: Prince's estate is releasing "Timeless," a collection of rare and previously unheard recordings, before the end of August, alongside new late-August releases from K-pop acts ENHYPEN and NCT 127.
