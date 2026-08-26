@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 25, 2026
+📚 Daily Knowledge — August 26, 2026
 
 🌐 Top World News
-• A Ukrainian drone strike on the Taneco oil refinery in Nizhnekamsk, deep inside Russia's Tatarstan region, killed at least 13 people — including citizens of Uzbekistan and Kyrgyzstan and a child — in the deadliest attack to hit Russia in more than two years, part of Kyiv's near-daily long-range campaign against Russian refineries.
-• In Gaza, the US-backed Board of Peace has negotiated a disarmament agreement with Hamas, but the group says it is conditional on a full Israeli withdrawal, which Israel has not formally accepted, leaving the ceasefire framework in limbo.
-• Evergrande founder Hui Ka Yan was sentenced to life in prison, a milestone in the collapse of the Chinese property giant, which went down owing more than $300 billion in liabilities and helped trigger China's ongoing real-estate crisis.
+• Israeli strikes killed at least seven Palestinians in Gaza, including one that destroyed an aid supply warehouse in Khan Younis, deepening doubts about the ceasefire in place since October 2025 — the Palestinian Health Ministry says roughly 1,288 people have died in Gaza since it took effect.
+• Ukraine marked another Independence Day under Russian invasion, with its military reporting 136 combat clashes, 43 Russian aviation strikes and 1,459 kamikaze-drone launches in a single day as the war grinds into its fourth year.
+• The U.S. Supreme Court, in an unsigned 6-3 ruling, lifted a lower court's block on President Trump's executive order restricting mail-in voting ahead of the 2026 midterms, though it left the door open for renewed legal challenges once the rules take effect.
 
 💻 Technology
-• China's XPeng raised more than $900 million to fund humanoid robot development, while Alibaba paired a new AI video model with billions of dollars in fresh infrastructure spending, underscoring the scale of China's AI and robotics push.
-• Perplexity is reportedly seeking a new funding round at a valuation far above its roughly $20 billion mark from last year, with annualized revenue said to have grown from under $250 million at the start of 2026 to more than $750 million.
-• The AI infrastructure buildout continues to reshape markets: Amazon has raised device prices as component costs climb, and power-infrastructure companies are increasingly becoming acquisition targets amid surging data-center demand.
+• OpenAI said an internal version of its next model, Astra, solved ten previously unsolved problems in mathematics and theoretical computer science, each representing a real advance on long-standing open questions.
+• Nvidia pushed its specialized AI inference chips into full production to make AI agents feel near-instantaneous, ahead of a closely watched earnings report amid growing scrutiny of AI infrastructure spending economics.
+• Taiwanese prosecutors charged company insiders over illegal shipments of AI servers to China, while separately OpenAI said it had detected and shut down a Russian influence operation that was using ChatGPT.
 
-🔬 Science: A new AI model has produced the first detailed estimate of the world's glacier volume outside Greenland and Antarctica, putting it at roughly 150,000 cubic kilometers of ice — equivalent to about 32 cm of potential global sea-level rise.
+🔬 Science: Researchers found that dozens of animal species carry enzymes capable of breaking down microbial bioplastics, suggesting nature invented biodegradable plastic long before humans did and that animals may have been feeding on it for hundreds of millions of years.
 
-📜 History: On August 25, 1944, Paris was liberated by Allied and Free French forces after four years of Nazi occupation during World War II.
+📜 History: On August 26, 1920, U.S. Secretary of State Bainbridge Colby certified the 19th Amendment to the Constitution, officially guaranteeing American women the right to vote — the anniversary is now marked annually as Women's Equality Day.
 
-🤔 Philosophy: Philosophers continue to mourn Anthony Kenny, the Oxford professor emeritus and leading figure in philosophy of mind, while current debate in outlets like The Philosophers' Magazine centers on Kit Fine and Timothy Williamson's dispute over "hyperintensionality."
+🤔 Philosophy: Newly deciphered Herculaneum scrolls have yielded roughly 70 columns from the Epicurean philosopher Philodemus's "On Vices" and passages from "On Gods," giving scholars a rare direct window into ancient philosophical texts long thought lost to Vesuvius's ash.
 
-🌍 Geography: Greenland's Petermann Glacier calved a 76.4-square-kilometer ice island on August 4 — roughly the size of Manhattan and the glacier's largest loss of floating ice since 2012 — giving scientists a rare chance to study how massive Arctic ice masses break apart.
+🌍 Geography: Scientists reported that Earth's molten iron core has unexpectedly reversed its flow direction beneath the Pacific, offering researchers a rare glimpse into shifting currents in the planet's deep internal "engine."
 
-💰 Economics: The Federal Reserve's preferred inflation gauge came in at 2.2% in August, cooler than expected, but futures markets now price only about a 33% chance of a September rate cut as officials, including incoming Chair Kevin Warsh, weigh persistent price pressures against slowing growth.
+💰 Economics: U.S. stocks closed higher Tuesday even as the Conference Board's Consumer Confidence Index slipped to 89.4 and core PCE inflation held sticky near 3.3% year-on-year, with markets now awaiting Fed Chair Kevin Warsh's Jackson Hole speech and Thursday's GDP and PCE data.
 
-🧠 Psychology: New research finds people sleeping roughly 6.4 to 7.8 hours a night show the lowest markers of biological aging, adding to evidence that both too little and too much sleep can accelerate age-related decline.
+🧠 Psychology: A new workplace study found people are significantly more willing to speak honestly and critically to an algorithmic manager than to a human one, raising fresh questions about trust as AI takes on more leadership-style roles.
 
-🎨 Art & Literature: The 2026 Booker Prize longlist of 13 novels — the "Booker Dozen" — was announced, chosen from 163 submissions by a panel chaired by classicist Mary Beard and including musician-writer Jarvis Cocker.
+🎨 Art & Literature: Self-taught Jersey artist and writer Adam Perchard won the inaugural Hogarth Prize for his work "Leviathan," earning £3,000 and a solo exhibition at Hogarth's House in Chiswick running through early September.
 
-🔭 Astronomy & Space: NASA's Nancy Grace Roman Space Telescope has been cleared for final launch preparations ahead of a targeted August 30 liftoff on a SpaceX Falcon Heavy, with a field of view over 100 times larger than Hubble's.
+🔭 Astronomy & Space: Using a state-of-the-art galaxy simulation, astrophysicists at the Leibniz Institute for Astrophysics Potsdam gained new insight into how galactic centers form across the universe, shedding light on the Milky Way's own formation history.
 
-🧬 Biology & Evolution: A 240-million-year-old reptile fossil discovered in Brazil is offering new clues about what evolution looked like just before dinosaurs and crocodile relatives rose to dominance.
+🧬 Biology & Evolution: A biodiversity survey of Angola's remote Lisima Plateau — part of the "Cassai Life Atlas" of one of Africa's last unexplored regions — turned up dozens of new species, including eight dragonflies, three grasshoppers, and around 60 moths and butterflies previously unknown to science.
 
-🗺️ World Cultures & Languages: Nearly 40% of the world's roughly 7,000 languages are now considered endangered, with Oceania hardest hit and nearly all Indigenous languages in North and Central America at risk, driving new documentation efforts like the Endangered Languages Documentation Programme's ongoing grant work.
+🗺️ World Cultures & Languages: With nearly 40% of the world's roughly 7,000 languages now endangered, researchers and Indigenous communities are pushing revitalization efforts during the UN's Indigenous Languages Decade, including U.S.-backed work supporting Taiwan's threatened Formosan languages.
 
-➗ Mathematics: Computer scientists announced the first improvement in 30 years to a classic combinatorics problem about evenly allocating objects between two groups, a "huge breakthrough" reported in the math of imbalance.
+➗ Mathematics: NYU's Hong Wang was awarded the Fields Medal at the opening ceremony of the 2026 International Congress of Mathematicians in Philadelphia, one of the field's highest honors.
 
-⚖️ Politics & Law: Congressional Democrats have proposed legislation to expand the U.S. Supreme Court from nine to 13 justices and cap terms at 18 years, alongside a binding ethics code and new limits on the court's "shadow docket."
+⚖️ Politics & Law: President Trump imposed 50% tariffs on a range of Canadian goods after trade talks collapsed, while simultaneously urging world leaders to join an economic pressure campaign against Iran — escalating trade and diplomatic tensions on two fronts at once.
 
-🎵 Music: Nigerian star Ayra Starr released her album "Starr Girl" via Mavin Records, part of a packed late-August release slate that also includes a newly unearthed Prince collection, "Timeless," and fresh projects from K-pop acts ENHYPEN and NCT 127.
+🎵 Music: Prince's estate is set to release "Timeless," a collection of previously unreleased recordings, part of a packed late-August slate that also includes new projects from K-pop acts ENHYPEN and NCT 127.
