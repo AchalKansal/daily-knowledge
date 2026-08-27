@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 26, 2026
+📚 Daily Knowledge — August 27, 2026
 
 🌐 Top World News
-• Israeli strikes killed at least seven Palestinians in Gaza, including one that destroyed an aid supply warehouse in Khan Younis, deepening doubts about the ceasefire in place since October 2025 — the Palestinian Health Ministry says roughly 1,288 people have died in Gaza since it took effect.
-• Ukraine marked another Independence Day under Russian invasion, with its military reporting 136 combat clashes, 43 Russian aviation strikes and 1,459 kamikaze-drone launches in a single day as the war grinds into its fourth year.
-• The U.S. Supreme Court, in an unsigned 6-3 ruling, lifted a lower court's block on President Trump's executive order restricting mail-in voting ahead of the 2026 midterms, though it left the door open for renewed legal challenges once the rules take effect.
+• A fire tore through the newborn nursery of a major government hospital in Pakistan's capital before dawn, killing at least 14 babies, prompting a national outcry over hospital fire-safety standards.
+• Canada announced it will impose "dollar for dollar" countertariffs mirroring new U.S. duties, escalating a trade standoff between the two neighbors just as global manufacturing costs elsewhere have been falling sharply.
+• Ukraine's own ousted defense minister, Mykhailo Fedorov, told Reuters the country is "slowly losing" the war against Russia and lacks a clear vision for victory, as Putin issued a decree granting Moscow power to seize control of critical infrastructure sites from owners deemed unable to protect them.
 
 💻 Technology
-• OpenAI said an internal version of its next model, Astra, solved ten previously unsolved problems in mathematics and theoretical computer science, each representing a real advance on long-standing open questions.
-• Nvidia pushed its specialized AI inference chips into full production to make AI agents feel near-instantaneous, ahead of a closely watched earnings report amid growing scrutiny of AI infrastructure spending economics.
-• Taiwanese prosecutors charged company insiders over illegal shipments of AI servers to China, while separately OpenAI said it had detected and shut down a Russian influence operation that was using ChatGPT.
+• Meta has agreed to pay up to $16.68 billion to settle claims that it deliberately designed Facebook and Instagram to be addictive to teenagers.
+• Amazon is shutting down Mechanical Turk after 21 years, closing the human-labor marketplace that helped train the machine-learning era it ultimately gave way to.
+• OpenAI says its first custom inference chip now beats Nvidia's Blackwell systems on AI work performed per watt in internal benchmark tests, a notable shot across Nvidia's bow in the AI hardware race.
 
-🔬 Science: Researchers found that dozens of animal species carry enzymes capable of breaking down microbial bioplastics, suggesting nature invented biodegradable plastic long before humans did and that animals may have been feeding on it for hundreds of millions of years.
+🔬 Science: Astronomers have identified a "black hole star" — an early, rapidly growing black hole shrouded in dense gas — a new class of object that may help explain how billion-solar-mass black holes formed so quickly after the Big Bang.
 
-📜 History: On August 26, 1920, U.S. Secretary of State Bainbridge Colby certified the 19th Amendment to the Constitution, officially guaranteeing American women the right to vote — the anniversary is now marked annually as Women's Equality Day.
+📜 History: On August 27, 1883, the volcanic island of Krakatoa erupted in a series of cataclysmic explosions heard thousands of miles away; the resulting tsunamis killed an estimated 36,000 people across Java and Sumatra.
 
-🤔 Philosophy: Newly deciphered Herculaneum scrolls have yielded roughly 70 columns from the Epicurean philosopher Philodemus's "On Vices" and passages from "On Gods," giving scholars a rare direct window into ancient philosophical texts long thought lost to Vesuvius's ash.
+🤔 Philosophy: Graduate students and early-career researchers gathered at Cambridge's Jesus College this month for the Digital Minds Fellowship, an intensive program examining the emerging philosophical question of AI consciousness and moral status.
 
-🌍 Geography: Scientists reported that Earth's molten iron core has unexpectedly reversed its flow direction beneath the Pacific, offering researchers a rare glimpse into shifting currents in the planet's deep internal "engine."
+🌍 Geography: A 76-square-kilometer slab of Greenland's Petermann Glacier broke free on August 4, forming an ice island roughly the size of Manhattan in the glacier's largest calving event since 2012.
 
-💰 Economics: U.S. stocks closed higher Tuesday even as the Conference Board's Consumer Confidence Index slipped to 89.4 and core PCE inflation held sticky near 3.3% year-on-year, with markets now awaiting Fed Chair Kevin Warsh's Jackson Hole speech and Thursday's GDP and PCE data.
+💰 Economics: U.S. federal government debt has passed $40 trillion as the 10-year Treasury yield climbs to 4.74%, pushing mortgage rates higher even as global manufacturing input costs just posted their steepest two-month drop outside a pandemic period in over a decade.
 
-🧠 Psychology: A new workplace study found people are significantly more willing to speak honestly and critically to an algorithmic manager than to a human one, raising fresh questions about trust as AI takes on more leadership-style roles.
+🧠 Psychology: A large new study found both too little and too much sleep are linked to faster biological aging, with the lowest aging rates seen in people sleeping roughly 6.4 to 7.8 hours a night.
 
-🎨 Art & Literature: Self-taught Jersey artist and writer Adam Perchard won the inaugural Hogarth Prize for his work "Leviathan," earning £3,000 and a solo exhibition at Hogarth's House in Chiswick running through early September.
+🎨 Art & Literature: The Speed Art Museum has returned 24 Native artifacts to Oklahoma tribes, part of a broader wave of museums reassessing and repatriating Indigenous collections.
 
-🔭 Astronomy & Space: Using a state-of-the-art galaxy simulation, astrophysicists at the Leibniz Institute for Astrophysics Potsdam gained new insight into how galactic centers form across the universe, shedding light on the Milky Way's own formation history.
+🔭 Astronomy & Space: A deep partial lunar eclipse peaks overnight tonight into August 28, covering about 96% of the Moon in Earth's shadow and turning it a coppery red — the best lunar eclipse visible anywhere on Earth until December 2028.
 
-🧬 Biology & Evolution: A biodiversity survey of Angola's remote Lisima Plateau — part of the "Cassai Life Atlas" of one of Africa's last unexplored regions — turned up dozens of new species, including eight dragonflies, three grasshoppers, and around 60 moths and butterflies previously unknown to science.
+🧬 Biology & Evolution: Paleontologists in Brazil have described a 240-million-year-old reptile that offers a rare look at what evolution looked like just before dinosaurs and crocodiles rose to dominance.
 
-🗺️ World Cultures & Languages: With nearly 40% of the world's roughly 7,000 languages now endangered, researchers and Indigenous communities are pushing revitalization efforts during the UN's Indigenous Languages Decade, including U.S.-backed work supporting Taiwan's threatened Formosan languages.
+🗺️ World Cultures & Languages: UNESCO, Peru's Ministry of Culture, and local partners are working to revitalize the language and culture of the Taushiro people, one of the world's most critically endangered indigenous groups.
 
-➗ Mathematics: NYU's Hong Wang was awarded the Fields Medal at the opening ceremony of the 2026 International Congress of Mathematicians in Philadelphia, one of the field's highest honors.
+➗ Mathematics: OpenAI says an internal version of its next model, Astra, made substantial progress on or resolved ten previously open problems in mathematics and theoretical computer science, with the results independently checked via formal Lean proofs.
 
-⚖️ Politics & Law: President Trump imposed 50% tariffs on a range of Canadian goods after trade talks collapsed, while simultaneously urging world leaders to join an economic pressure campaign against Iran — escalating trade and diplomatic tensions on two fronts at once.
+⚖️ Politics & Law: The U.S. Supreme Court handed the Trump administration an interim win allowing enforcement of its executive order restricting mail-in voting ahead of the 2026 midterms, though further legal challenges are expected once the rules take effect.
 
-🎵 Music: Prince's estate is set to release "Timeless," a collection of previously unreleased recordings, part of a packed late-August slate that also includes new projects from K-pop acts ENHYPEN and NCT 127.
+🎵 Music: Carly Simon released "Comes in Waves," her first album of entirely original songs since 2008.
