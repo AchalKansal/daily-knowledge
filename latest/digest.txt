@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 27, 2026
+📚 Daily Knowledge — August 28, 2026
 
 🌐 Top World News
-• A fire tore through the newborn nursery of a major government hospital in Pakistan's capital before dawn, killing at least 14 babies, prompting a national outcry over hospital fire-safety standards.
-• Canada announced it will impose "dollar for dollar" countertariffs mirroring new U.S. duties, escalating a trade standoff between the two neighbors just as global manufacturing costs elsewhere have been falling sharply.
-• Ukraine's own ousted defense minister, Mykhailo Fedorov, told Reuters the country is "slowly losing" the war against Russia and lacks a clear vision for victory, as Putin issued a decree granting Moscow power to seize control of critical infrastructure sites from owners deemed unable to protect them.
+• Russia is escalating its war on Ukraine after concluding peace talks have reached a dead end — Kyiv endured an hours-long drone and ballistic-missile barrage overnight into August 27, with explosions also reported in Odesa and Zaporizhzhia, where at least seven people, including three children, were injured.
+• Diplomatic efforts are underway to reopen the Strait of Hormuz to shipping after attacks disabled two oil tankers this week; Pakistan has been mediating talks aimed at ending the nearly six-month-old U.S.-Iran war, and Iran and Oman are discussing a plan to jointly manage the strait.
+• Russian drone strikes near the Black Sea port of Novorossiysk have repeatedly hit merchant vessels in recent weeks, most recently leaving 39 Filipino seafarers safe after their two ships came under attack, according to the Philippines' Department of Migrant Workers.
 
 💻 Technology
-• Meta has agreed to pay up to $16.68 billion to settle claims that it deliberately designed Facebook and Instagram to be addictive to teenagers.
-• Amazon is shutting down Mechanical Turk after 21 years, closing the human-labor marketplace that helped train the machine-learning era it ultimately gave way to.
-• OpenAI says its first custom inference chip now beats Nvidia's Blackwell systems on AI work performed per watt in internal benchmark tests, a notable shot across Nvidia's bow in the AI hardware race.
+• Meta has agreed to pay up to $16.68 billion to settle claims it designed Facebook and Instagram features to hook teenagers.
+• Amazon is shutting down Mechanical Turk after 21 years, closing the human-labor marketplace that helped train the first generation of machine-learning systems.
+• OpenAI says its first custom inference chip now beats Nvidia's Blackwell systems on AI work-per-watt in internal benchmark tests, as chipmakers race to line up tens of billions in fresh AI infrastructure debt.
 
-🔬 Science: Astronomers have identified a "black hole star" — an early, rapidly growing black hole shrouded in dense gas — a new class of object that may help explain how billion-solar-mass black holes formed so quickly after the Big Bang.
+🔬 Science: Researchers have developed "smart" nanoparticles that can illuminate hidden glioblastoma cells during brain surgery and then destroy microscopic cancer left behind, preventing recurrence and producing 100% survival in mouse trials.
 
-📜 History: On August 27, 1883, the volcanic island of Krakatoa erupted in a series of cataclysmic explosions heard thousands of miles away; the resulting tsunamis killed an estimated 36,000 people across Java and Sumatra.
+📜 History: On this day in 1963, some 200,000 people took part in the March on Washington for Jobs and Freedom, where Martin Luther King Jr. delivered his "I Have a Dream" speech — a defining moment of the U.S. civil rights movement.
 
-🤔 Philosophy: Graduate students and early-career researchers gathered at Cambridge's Jesus College this month for the Digital Minds Fellowship, an intensive program examining the emerging philosophical question of AI consciousness and moral status.
+🤔 Philosophy: New 2026 titles like Sven Nyholm's "The Ethics of Artificial Intelligence: A Philosophical Introduction" and the edited volume "Contemporary Debates in the Ethics of Artificial Intelligence" are pushing philosophers to treat AI moral status, authorship, and value alignment as central questions of the field.
 
-🌍 Geography: A 76-square-kilometer slab of Greenland's Petermann Glacier broke free on August 4, forming an ice island roughly the size of Manhattan in the glacier's largest calving event since 2012.
+🌍 Geography: Researchers completed the first global map of Earth's sand dunes this August, a sweeping catalog of the planet's desert features.
 
-💰 Economics: U.S. federal government debt has passed $40 trillion as the 10-year Treasury yield climbs to 4.74%, pushing mortgage rates higher even as global manufacturing input costs just posted their steepest two-month drop outside a pandemic period in over a decade.
+💰 Economics: U.S. inflation eased for a second straight month, with the annual rate expected to slip to around 3.4% in July, even as markets brace for a possible Federal Reserve rate move at its September meeting.
 
-🧠 Psychology: A large new study found both too little and too much sleep are linked to faster biological aging, with the lowest aging rates seen in people sleeping roughly 6.4 to 7.8 hours a night.
+🧠 Psychology: A new study found that people who watched more television in midlife had smaller brain volumes decades later in regions tied to language and thinking, adding to evidence that daily habits shape long-term brain health.
 
-🎨 Art & Literature: The Speed Art Museum has returned 24 Native artifacts to Oklahoma tribes, part of a broader wave of museums reassessing and repatriating Indigenous collections.
+🎨 Art & Literature: The 2026 Booker Prize longlist — the "Booker Dozen" — was announced this month, featuring 13 novels chosen from 163 submissions by a panel chaired by classicist Mary Beard.
 
-🔭 Astronomy & Space: A deep partial lunar eclipse peaks overnight tonight into August 28, covering about 96% of the Moon in Earth's shadow and turning it a coppery red — the best lunar eclipse visible anywhere on Earth until December 2028.
+🔭 Astronomy & Space: A deep partial lunar eclipse swept across the Americas, Europe, and Africa overnight into August 28, with 96% of the Moon darkened by Earth's shadow — the best lunar eclipse visible anywhere on Earth until New Year's Eve 2028.
 
-🧬 Biology & Evolution: Paleontologists in Brazil have described a 240-million-year-old reptile that offers a rare look at what evolution looked like just before dinosaurs and crocodiles rose to dominance.
+🧬 Biology & Evolution: A sweeping genomic analysis of thousands of animal species found that chromosomes don't evolve randomly but instead follow a limited set of predictable, largely irreversible "evolutionary highways."
 
-🗺️ World Cultures & Languages: UNESCO, Peru's Ministry of Culture, and local partners are working to revitalize the language and culture of the Taushiro people, one of the world's most critically endangered indigenous groups.
+🗺️ World Cultures & Languages: UNESCO and IBBY unveiled a collection of nearly 170 children's books spanning over 150 Indigenous and endangered languages at the IBBY World Congress in Ottawa this month, aimed at helping communities pass their languages to the next generation.
 
-➗ Mathematics: OpenAI says an internal version of its next model, Astra, made substantial progress on or resolved ten previously open problems in mathematics and theoretical computer science, with the results independently checked via formal Lean proofs.
+➗ Mathematics: A mathematician working with Anthropic's Claude used the model to find a surprisingly simple counterexample to the century-old Jacobian conjecture, showing it false in three dimensions and above — part of a wave of AI-assisted breakthroughs reshaping pure mathematics this year.
 
-⚖️ Politics & Law: The U.S. Supreme Court handed the Trump administration an interim win allowing enforcement of its executive order restricting mail-in voting ahead of the 2026 midterms, though further legal challenges are expected once the rules take effect.
+⚖️ Politics & Law: The U.S. Supreme Court handed the Trump administration an interim win this week, pausing a lower-court ruling that had blocked the Postal Service from enforcing new restrictions on mail-in ballots.
 
-🎵 Music: Carly Simon released "Comes in Waves," her first album of entirely original songs since 2008.
+🎵 Music: Prince's estate is releasing "Timeless," a collection of previously unheard recordings, among a wave of major late-August releases that also includes new albums from K-pop acts ENHYPEN and NCT 127.
