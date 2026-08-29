@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 28, 2026
+📚 Daily Knowledge — August 29, 2026
 
 🌐 Top World News
-• Russia is escalating its war on Ukraine after concluding peace talks have reached a dead end — Kyiv endured an hours-long drone and ballistic-missile barrage overnight into August 27, with explosions also reported in Odesa and Zaporizhzhia, where at least seven people, including three children, were injured.
-• Diplomatic efforts are underway to reopen the Strait of Hormuz to shipping after attacks disabled two oil tankers this week; Pakistan has been mediating talks aimed at ending the nearly six-month-old U.S.-Iran war, and Iran and Oman are discussing a plan to jointly manage the strait.
-• Russian drone strikes near the Black Sea port of Novorossiysk have repeatedly hit merchant vessels in recent weeks, most recently leaving 39 Filipino seafarers safe after their two ships came under attack, according to the Philippines' Department of Migrant Workers.
+• Catastrophic flash flooding along the Nepal-China border has killed at least 389 people, with more than 1,300 still missing across both countries; hundreds of foreigners, including dozens of Americans, remain unaccounted for.
+• Russia has threatened strikes on UK military targets inside and outside Ukraine, accusing Kyiv of using British-supplied Storm Shadow missiles against Donetsk, escalating tensions with NATO members.
+• The UAE accused Iran of attacking two vessels linked to the Abu Dhabi National Oil Company in the Strait of Hormuz, while Kuwait's military said it intercepted Iranian drones entering its airspace.
 
 💻 Technology
-• Meta has agreed to pay up to $16.68 billion to settle claims it designed Facebook and Instagram features to hook teenagers.
-• Amazon is shutting down Mechanical Turk after 21 years, closing the human-labor marketplace that helped train the first generation of machine-learning systems.
-• OpenAI says its first custom inference chip now beats Nvidia's Blackwell systems on AI work-per-watt in internal benchmark tests, as chipmakers race to line up tens of billions in fresh AI infrastructure debt.
+• Anthropic won a federal court battle against the Pentagon after a California judge ruled the Defense Department unlawfully retaliated against the company for refusing an open-ended contract that would have overridden Claude's usage restrictions.
+• Google's A2A agent protocol formally joined the Linux Foundation's Agentic AI Foundation alongside Anthropic's Model Context Protocol, with the group now counting more than 250 members including AWS, Microsoft, and OpenAI.
+• Amazon is shutting down Mechanical Turk after 21 years, closing the human-labor marketplace that helped train the machine-learning era, while OpenAI claims its first custom inference chip now beats Nvidia's Blackwell on AI work per watt.
 
-🔬 Science: Researchers have developed "smart" nanoparticles that can illuminate hidden glioblastoma cells during brain surgery and then destroy microscopic cancer left behind, preventing recurrence and producing 100% survival in mouse trials.
+🔬 Science: Astronomers using JWST found that massive early galaxies contain far more small, faint stars than expected, reshaping models of how the first galaxies formed.
 
-📜 History: On this day in 1963, some 200,000 people took part in the March on Washington for Jobs and Freedom, where Martin Luther King Jr. delivered his "I Have a Dream" speech — a defining moment of the U.S. civil rights movement.
+📜 History: On this day in 1949, the Soviet Union tested its first atomic bomb at the Semipalatinsk test site, ending the American nuclear monopoly and igniting the Cold War arms race.
 
-🤔 Philosophy: New 2026 titles like Sven Nyholm's "The Ethics of Artificial Intelligence: A Philosophical Introduction" and the edited volume "Contemporary Debates in the Ethics of Artificial Intelligence" are pushing philosophers to treat AI moral status, authorship, and value alignment as central questions of the field.
+🤔 Philosophy: Nancy Cartwright received the 2026 Frontiers of Knowledge Award in Humanities for her contributions to the philosophy of science and evidence-based policymaking.
 
-🌍 Geography: Researchers completed the first global map of Earth's sand dunes this August, a sweeping catalog of the planet's desert features.
+🌍 Geography: A researcher completed the first global map of Earth's sand dunes this week, while a Manhattan-sized ice island broke free from Greenland's Petermann Glacier after years of growing fractures.
 
-💰 Economics: U.S. inflation eased for a second straight month, with the annual rate expected to slip to around 3.4% in July, even as markets brace for a possible Federal Reserve rate move at its September meeting.
+💰 Economics: The IMF projects global growth of 3.3% for 2026, with resilient second-quarter growth in Western Europe even as core inflation stays relatively stable across major economies.
 
-🧠 Psychology: A new study found that people who watched more television in midlife had smaller brain volumes decades later in regions tied to language and thinking, adding to evidence that daily habits shape long-term brain health.
+🧠 Psychology: A large study analyzing 23 biological aging clocks found the lowest markers of aging among people sleeping roughly 6.4 to 7.8 hours per night, with both too little and too much sleep linked to faster aging.
 
-🎨 Art & Literature: The 2026 Booker Prize longlist — the "Booker Dozen" — was announced this month, featuring 13 novels chosen from 163 submissions by a panel chaired by classicist Mary Beard.
+🎨 Art & Literature: The 2026 Booker Prize longlist, the "Booker Dozen," was announced with 13 novels chosen from 163 submissions, judged by a panel chaired by classicist Mary Beard.
 
-🔭 Astronomy & Space: A deep partial lunar eclipse swept across the Americas, Europe, and Africa overnight into August 28, with 96% of the Moon darkened by Earth's shadow — the best lunar eclipse visible anywhere on Earth until New Year's Eve 2028.
+🔭 Astronomy & Space: NASA's Roman Space Telescope is enclosed in its Falcon Heavy fairing and targeting an August 30 launch, days after a deep partial lunar eclipse was visible across North America.
 
-🧬 Biology & Evolution: A sweeping genomic analysis of thousands of animal species found that chromosomes don't evolve randomly but instead follow a limited set of predictable, largely irreversible "evolutionary highways."
+🧬 Biology & Evolution: A sweeping genomic analysis of thousands of animal species suggests chromosomes evolve along a limited number of irreversible "highways" rather than randomly.
 
-🗺️ World Cultures & Languages: UNESCO and IBBY unveiled a collection of nearly 170 children's books spanning over 150 Indigenous and endangered languages at the IBBY World Congress in Ottawa this month, aimed at helping communities pass their languages to the next generation.
+🗺️ World Cultures & Languages: Nearly 40% of the world's roughly 7,000 languages are now endangered, with UNESCO and IBBY launching a global call for children's books in indigenous and endangered languages ahead of their August World Congress in Ottawa.
 
-➗ Mathematics: A mathematician working with Anthropic's Claude used the model to find a surprisingly simple counterexample to the century-old Jacobian conjecture, showing it false in three dimensions and above — part of a wave of AI-assisted breakthroughs reshaping pure mathematics this year.
+➗ Mathematics: A team from Oxford and MIT combined combinatorial design theory with quantum annealing to construct explicit Hadamard matrices for all orders up to 1,000, extending toward a full proof of the century-old Hadamard conjecture.
 
-⚖️ Politics & Law: The U.S. Supreme Court handed the Trump administration an interim win this week, pausing a lower-court ruling that had blocked the Postal Service from enforcing new restrictions on mail-in ballots.
+⚖️ Politics & Law: The U.S. Supreme Court lifted one of two injunctions blocking President Trump's executive order restricting mail-in balloting ahead of the 2026 midterms, though the order remains legally blocked for now.
 
-🎵 Music: Prince's estate is releasing "Timeless," a collection of previously unheard recordings, among a wave of major late-August releases that also includes new albums from K-pop acts ENHYPEN and NCT 127.
+🎵 Music: Ariana Grande's eighth studio album debuted at No. 1, her seventh chart-topper, as new releases this week arrived from Post Malone, Pulp, and Olivia Rodrigo.
