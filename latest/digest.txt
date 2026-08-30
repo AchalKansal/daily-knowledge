@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 29, 2026
+📚 Daily Knowledge — August 30, 2026
 
 🌐 Top World News
-• Catastrophic flash flooding along the Nepal-China border has killed at least 389 people, with more than 1,300 still missing across both countries; hundreds of foreigners, including dozens of Americans, remain unaccounted for.
-• Russia has threatened strikes on UK military targets inside and outside Ukraine, accusing Kyiv of using British-supplied Storm Shadow missiles against Donetsk, escalating tensions with NATO members.
-• The UAE accused Iran of attacking two vessels linked to the Abu Dhabi National Oil Company in the Strait of Hormuz, while Kuwait's military said it intercepted Iranian drones entering its airspace.
+• Ukraine and Russia entered a third straight day of near-continuous air raid alerts, with President Zelensky pushing for 1,000 long-range drone strikes on Russia per day as Kyiv warns Moscow plans to mobilize 600,000 additional troops over 2026-27.
+• President Trump announced a deal granting the U.S. access to roughly 65 billion barrels of Venezuela's oil reserves, months after American forces captured then-president Nicolás Maduro; acting president Delcy Rodríguez called it a step toward economic recovery.
+• Israel's military struck Hamas and Islamic Jihad operatives in Gaza and the West Bank, defying U.S. calls to halt strikes, as the ceasefire signed last October continues to fray nearly a year on.
 
 💻 Technology
-• Anthropic won a federal court battle against the Pentagon after a California judge ruled the Defense Department unlawfully retaliated against the company for refusing an open-ended contract that would have overridden Claude's usage restrictions.
-• Google's A2A agent protocol formally joined the Linux Foundation's Agentic AI Foundation alongside Anthropic's Model Context Protocol, with the group now counting more than 250 members including AWS, Microsoft, and OpenAI.
-• Amazon is shutting down Mechanical Turk after 21 years, closing the human-labor marketplace that helped train the machine-learning era, while OpenAI claims its first custom inference chip now beats Nvidia's Blackwell on AI work per watt.
+• Nvidia posted a record $96.2 billion quarterly revenue (up 106% year-over-year) as its new Rubin chip platform reached full production, even as the company quietly paused some cloud-financing deals meant to keep smaller AI data-center operators funded.
+• Manchester Airports Group confirmed hackers stole personal data — emails, phone numbers, vehicle plates, postcodes — on 8.7 million customers across Manchester, London Stansted and East Midlands airports in one of the UK's largest recent breaches.
+• Apple raised U.S. subscription prices for Apple TV+ and the Apple One bundle, the latest in a string of streaming and services price hikes across big tech this year.
 
-🔬 Science: Astronomers using JWST found that massive early galaxies contain far more small, faint stars than expected, reshaping models of how the first galaxies formed.
+🔬 Science: Astronomers using JWST found that massive early galaxies contain far more small, faint stars than expected, forcing a rethink of how the universe's first galaxies formed.
 
-📜 History: On this day in 1949, the Soviet Union tested its first atomic bomb at the Semipalatinsk test site, ending the American nuclear monopoly and igniting the Cold War arms race.
+📜 History: On August 30, 1983, Guion Bluford became the first African American to travel to space, launching aboard the Space Shuttle Challenger on mission STS-8.
 
-🤔 Philosophy: Nancy Cartwright received the 2026 Frontiers of Knowledge Award in Humanities for her contributions to the philosophy of science and evidence-based policymaking.
+🤔 Philosophy: Philosophy of mind and Wittgenstein scholar Sir Anthony Kenny, former Master of Balliol College, Oxford, died this month, prompting tributes across the discipline for his decades of work bridging analytic philosophy and the history of ideas.
 
-🌍 Geography: A researcher completed the first global map of Earth's sand dunes this week, while a Manhattan-sized ice island broke free from Greenland's Petermann Glacier after years of growing fractures.
+🌍 Geography: A researcher published the first global map of Earth's sand dunes, while a Manhattan-sized "ice island" calved from Greenland's Petermann Glacier after years of widening fractures.
 
-💰 Economics: The IMF projects global growth of 3.3% for 2026, with resilient second-quarter growth in Western Europe even as core inflation stays relatively stable across major economies.
+💰 Economics: Markets are bracing for a possible Fed rate hike at September's meeting under new Chair Kevin Warsh, as sticky inflation and a cooling labor market leave policymakers squeezed between competing risks.
 
-🧠 Psychology: A large study analyzing 23 biological aging clocks found the lowest markers of aging among people sleeping roughly 6.4 to 7.8 hours per night, with both too little and too much sleep linked to faster aging.
+🧠 Psychology: New research finds overall psychological functioning tends to peak around age 55-60 rather than in youth, with people who start out lowest showing the biggest gains over time.
 
-🎨 Art & Literature: The 2026 Booker Prize longlist, the "Booker Dozen," was announced with 13 novels chosen from 163 submissions, judged by a panel chaired by classicist Mary Beard.
+🎨 Art & Literature: The 2026 Booker Prize longlist — the "Booker Dozen" — was announced, with a panel chaired by classicist Mary Beard selecting 13 novels from 163 submissions.
 
-🔭 Astronomy & Space: NASA's Roman Space Telescope is enclosed in its Falcon Heavy fairing and targeting an August 30 launch, days after a deep partial lunar eclipse was visible across North America.
+🔭 Astronomy & Space: NASA's Nancy Grace Roman Space Telescope is set to launch today, August 30, aboard a SpaceX Falcon Heavy, carrying a field of view 100 times larger than Hubble's to hunt dark energy and an estimated 100,000 new exoplanets.
 
-🧬 Biology & Evolution: A sweeping genomic analysis of thousands of animal species suggests chromosomes evolve along a limited number of irreversible "highways" rather than randomly.
+🧬 Biology & Evolution: A sweeping genomic analysis of thousands of animal species suggests chromosomes evolve along a limited number of irreversible "highways" rather than purely at random.
 
-🗺️ World Cultures & Languages: Nearly 40% of the world's roughly 7,000 languages are now endangered, with UNESCO and IBBY launching a global call for children's books in indigenous and endangered languages ahead of their August World Congress in Ottawa.
+🗺️ World Cultures & Languages: UNESCO and IBBY unveiled a collection of nearly 170 children's books spanning over 150 Indigenous and endangered languages at the World Congress in Ottawa, as roughly 40% of the world's ~7,000 languages remain at risk of disappearing.
 
-➗ Mathematics: A team from Oxford and MIT combined combinatorial design theory with quantum annealing to construct explicit Hadamard matrices for all orders up to 1,000, extending toward a full proof of the century-old Hadamard conjecture.
+➗ Mathematics: Researchers from Oxford and MIT combined combinatorial design theory with quantum annealing to construct explicit Hadamard matrices for every order up to 1,000, pushing toward a full proof of the century-old Hadamard conjecture.
 
-⚖️ Politics & Law: The U.S. Supreme Court lifted one of two injunctions blocking President Trump's executive order restricting mail-in balloting ahead of the 2026 midterms, though the order remains legally blocked for now.
+⚖️ Politics & Law: A divided U.S. Supreme Court eased the path for President Trump's executive order restricting mail-in balloting ahead of the 2026 midterms, lifting one lower-court injunction even as the order itself remains legally blocked for now.
 
-🎵 Music: Ariana Grande's eighth studio album debuted at No. 1, her seventh chart-topper, as new releases this week arrived from Post Malone, Pulp, and Olivia Rodrigo.
+🎵 Music: The Recording Academy's eligibility window for the 69th Grammy Awards closed on August 28, setting the field for nominations after a year that included Bad Bunny's Album of the Year win and Kendrick Lamar and SZA's Record of the Year for "luther."
