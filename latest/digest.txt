@@ -1,37 +1,37 @@
-📚 Daily Knowledge — August 30, 2026
+📚 Daily Knowledge — August 31, 2026
 
 🌐 Top World News
-• Ukraine and Russia entered a third straight day of near-continuous air raid alerts, with President Zelensky pushing for 1,000 long-range drone strikes on Russia per day as Kyiv warns Moscow plans to mobilize 600,000 additional troops over 2026-27.
-• President Trump announced a deal granting the U.S. access to roughly 65 billion barrels of Venezuela's oil reserves, months after American forces captured then-president Nicolás Maduro; acting president Delcy Rodríguez called it a step toward economic recovery.
-• Israel's military struck Hamas and Islamic Jihad operatives in Gaza and the West Bank, defying U.S. calls to halt strikes, as the ceasefire signed last October continues to fray nearly a year on.
+• CIA Director John Ratcliffe floated a Trump-Putin-Zelenskyy summit during a covert Moscow visit; Zelenskyy signaled openness but Putin rejected the idea, while the Kremlin says Russia-Ukraine talks remain on a "deep pause" as Russian forces advance in eastern Ukraine and Moscow presses for full control of Donetsk.
+• Turkey, Egypt and Qatar condemned recent Israeli strikes in Gaza, urging Israel to meet its ceasefire obligations and avoid steps that could reignite the conflict, as the fragile truce remains under strain.
+• Chinese President Xi Jinping arrived in Bishkek for a state visit to Kyrgyzstan ahead of the Shanghai Cooperation Organisation's 25th-anniversary summit on September 1, where he'll join Putin, Modi and other leaders before continuing on to Egypt for his first visit there in a decade.
 
 💻 Technology
-• Nvidia posted a record $96.2 billion quarterly revenue (up 106% year-over-year) as its new Rubin chip platform reached full production, even as the company quietly paused some cloud-financing deals meant to keep smaller AI data-center operators funded.
-• Manchester Airports Group confirmed hackers stole personal data — emails, phone numbers, vehicle plates, postcodes — on 8.7 million customers across Manchester, London Stansted and East Midlands airports in one of the UK's largest recent breaches.
-• Apple raised U.S. subscription prices for Apple TV+ and the Apple One bundle, the latest in a string of streaming and services price hikes across big tech this year.
+• Nvidia posted another record quarter but has quietly paused some of the cloud-financing deals that were propping up smaller AI infrastructure buildouts, a sign of growing caution around the AI capital-spending boom.
+• A federal judge ruled the Pentagon cannot blacklist Anthropic for the company's AI safety restrictions, a win for AI firms pushing back against government pressure to loosen safeguards.
+• A critical balance-handling flaw in the shared Cosmos EVM module was exploited between August 20-25 to drain funds across six blockchains, with the attack attributed with moderate confidence to the Russian state-linked hacking group APT28 (Fancy Bear).
 
-🔬 Science: Astronomers using JWST found that massive early galaxies contain far more small, faint stars than expected, forcing a rethink of how the universe's first galaxies formed.
+🔬 Science: Researchers reconstructing Pacific Ocean sea surface temperatures found more evidence that human-caused warming is intensifying El Niño events, while separate trials showed promising early results for cancer vaccines that could extend to other tumor types.
 
-📜 History: On August 30, 1983, Guion Bluford became the first African American to travel to space, launching aboard the Space Shuttle Challenger on mission STS-8.
+📜 History: On August 31, 1997, Princess Diana died in a car crash in Paris along with Dodi Fayed and driver Henri Paul, one of the most widely mourned deaths of the 20th century.
 
-🤔 Philosophy: Philosophy of mind and Wittgenstein scholar Sir Anthony Kenny, former Master of Balliol College, Oxford, died this month, prompting tributes across the discipline for his decades of work bridging analytic philosophy and the history of ideas.
+🤔 Philosophy: Philosophy departments are seeing a surprising boom as AI companies including Anthropic, Google DeepMind and OpenAI hire philosophers to work on reasoning, transparency and safety, drawing on thinkers from Socrates to Kant to shape how models reason and reduce hallucinations.
 
-🌍 Geography: A researcher published the first global map of Earth's sand dunes, while a Manhattan-sized "ice island" calved from Greenland's Petermann Glacier after years of widening fractures.
+🌍 Geography: Greenland's Petermann Glacier calved a 76.4-square-kilometer ice island on August 4 — roughly the size of Manhattan and its largest loss of floating ice since 2012 — offering scientists a rare live look at how major Arctic ice shelves fracture.
 
-💰 Economics: Markets are bracing for a possible Fed rate hike at September's meeting under new Chair Kevin Warsh, as sticky inflation and a cooling labor market leave policymakers squeezed between competing risks.
+💰 Economics: Global growth forecasts for 2026 were nudged up again in August to around 2.4%, with easing manufacturing input prices even as US inflation runs near 3.7% and the ECB signals another possible rate hike at its September 10 meeting.
 
-🧠 Psychology: New research finds overall psychological functioning tends to peak around age 55-60 rather than in youth, with people who start out lowest showing the biggest gains over time.
+🧠 Psychology: A three-year study of nearly 4,000 adults aged 19 to 94 found brain health can actually improve at any age, challenging the assumption that mental sharpness must inevitably decline with age.
 
-🎨 Art & Literature: The 2026 Booker Prize longlist — the "Booker Dozen" — was announced, with a panel chaired by classicist Mary Beard selecting 13 novels from 163 submissions.
+🎨 Art & Literature: The 2026 International Booker Prize went to "Taiwan Travelogue" by Shuang-zi Yang, translated by Lin King, while the Booker Prize's 2026 longlist — chaired by classicist Mary Beard — features two past winners alongside three debut novelists.
 
-🔭 Astronomy & Space: NASA's Nancy Grace Roman Space Telescope is set to launch today, August 30, aboard a SpaceX Falcon Heavy, carrying a field of view 100 times larger than Hubble's to hunt dark energy and an estimated 100,000 new exoplanets.
+🔭 Astronomy & Space: NASA's Nancy Grace Roman Space Telescope launched successfully atop a SpaceX Falcon Heavy on August 30, giving astronomers a Hubble-quality instrument with a field of view over 100 times larger to map the cosmos.
 
-🧬 Biology & Evolution: A sweeping genomic analysis of thousands of animal species suggests chromosomes evolve along a limited number of irreversible "highways" rather than purely at random.
+🧬 Biology & Evolution: New genetic research shows modern humans carry DNA from two previously unknown extinct human lineages in addition to Neanderthals and Denisovans, adding fresh complexity to the story of human ancestry.
 
-🗺️ World Cultures & Languages: UNESCO and IBBY unveiled a collection of nearly 170 children's books spanning over 150 Indigenous and endangered languages at the World Congress in Ottawa, as roughly 40% of the world's ~7,000 languages remain at risk of disappearing.
+🗺️ World Cultures & Languages: Of the world's roughly 7,000 languages, about 40% are endangered, with an indigenous language disappearing every two weeks on average — prompting efforts like an AI-powered translation tool built to help revive the Owens Valley Paiute language.
 
-➗ Mathematics: Researchers from Oxford and MIT combined combinatorial design theory with quantum annealing to construct explicit Hadamard matrices for every order up to 1,000, pushing toward a full proof of the century-old Hadamard conjecture.
+➗ Mathematics: On August 1, OpenAI published a 249-page manuscript with ten new results in pure mathematics and theoretical computer science, each backed by a machine-checked proof in the formal language Lean 4, part of a wave of AI systems now producing publication-worthy mathematical proofs.
 
-⚖️ Politics & Law: A divided U.S. Supreme Court eased the path for President Trump's executive order restricting mail-in balloting ahead of the 2026 midterms, lifting one lower-court injunction even as the order itself remains legally blocked for now.
+⚖️ Politics & Law: A divided US Supreme Court eased the path for a Trump executive order restricting mail-in balloting ahead of November's midterms, lifting a lower court injunction even as the order itself remains legally blocked for now.
 
-🎵 Music: The Recording Academy's eligibility window for the 69th Grammy Awards closed on August 28, setting the field for nominations after a year that included Bad Bunny's Album of the Year win and Kendrick Lamar and SZA's Record of the Year for "luther."
+🎵 Music: Prince's estate released "Timeless," a collection of previously unheard recordings from the late artist, alongside new albums out this week from K-pop acts ENHYPEN and NCT 127.
