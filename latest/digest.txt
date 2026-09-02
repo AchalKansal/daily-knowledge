@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 1, 2026
+📚 Daily Knowledge — September 2, 2026
 
 🌐 Top World News
-• A ferry carrying 267 people capsized and sank off the coast of northern Cyprus; at least 8 people are confirmed dead and roughly 20 remain missing, with the captain and crew detained for questioning as the search continues.
-• Iran struck US-linked bases in Jordan and the UAE in retaliation after a US strike on Larak Island, marking a sharp escalation in the ongoing conflict in the region.
-• Canada announced retaliatory tariffs on roughly $20 billion of annual US imports, hitting back at the Trump administration's 50% tariffs in an intensifying trade dispute between the two countries.
+• The US military launched a new round of strikes on IRGC targets inside Iran, expanding the conflict after a tenuous ceasefire broke down; Washington says the strikes respond to Iranian attacks on shipping in the Strait of Hormuz and on US troops, while Iran's president says Tehran is open to reviving the Islamabad Memorandum if the US does too.
+• Israeli forces captured a senior Hamas internal security official during a ground operation in Gaza that Palestinian health officials say killed four people, as the war continues alongside stalled ceasefire efforts.
+• President Trump is promoting a deal for a major US stake in Venezuela's oil reserves as a breakthrough that will lower gas prices and refill depleted emergency oil stockpiles, though analysts warn the relief won't be quick.
 
 💻 Technology
-• John Ternus becomes Apple's new CEO on September 1, 2026, taking over a company facing a management shake-up and big decisions on Apple Intelligence and its hardware roadmap.
-• DeepSeek is closing a roughly $7.4 billion funding round at a ~$74 billion pre-money valuation, with proceeds earmarked for about 1GW of new AI compute and a possible 2026 IPO filing.
-• Meta released Glimmer, a new open-weight AI model anyone can download and run locally, a contrast to its more powerful but API-locked Muse Spark model.
+• Anthropic changed its data retention policy after pushback from customers, part of a broader wave of AI companies adjusting privacy practices under user and regulatory pressure.
+• Robotaxi competition is intensifying as Waymo and Zoox both expand into new US markets.
+• Global AI investment races are accelerating: Huawei is pouring billions into AI chips despite squeezed profits, South Korea has put AI and semiconductors at the center of a record national budget, and SB Energy has filed for an IPO citing heavy dependence on OpenAI.
 
-🔬 Science: Physicists have shown that ultrathin, flexible diamond membranes produce a strong, repeatable piezoelectric effect — something diamond was long thought incapable of, opening the door to new sensors and energy-harvesting materials.
+🔬 Science: ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir completed a nearly 7-hour spacewalk outside the ISS on September 1, replacing a camera and a docking aid, while researchers elsewhere reported new hidden complexity inside ultrathin superconductors once thought simple.
 
-📜 History: On this day in 1939, Nazi Germany invaded Poland, the act that marked the beginning of World War II in Europe.
+📜 History: On this day in 1945, Japan formally surrendered aboard the USS Missouri in Tokyo Bay, bringing World War II to its official end.
 
-🤔 Philosophy: Philosophers are increasingly examining what it means to be human in the "brain-as-interface era," with a new study posing nine questions about how growing up amid AI and brain-computer interfaces may reshape human identity.
+🤔 Philosophy: Academic philosophy is grappling with AI's growing role in the field after the journal Philosophy & Public Affairs published an article largely written by an AI, sparking debate about authorship and rigor in scholarly work.
 
-🌍 Geography: A slab of Greenland's Petermann Glacier roughly the size of Manhattan broke free on August 4, 2026, after satellites tracked cracks spreading rapidly across the ice for weeks beforehand.
+🌍 Geography: Newly identified Arctic atmospheric processes are dramatically boosting the number of particles that seed cloud formation, adding a fresh variable to climate models of the rapidly changing polar region.
 
-💰 Economics: The global economy is proving more resilient than feared in 2026, with the World Bank projecting 2.4% growth even as Middle East conflict and new US tariffs weigh on emerging and developing economies.
+💰 Economics: Markets are watching a busy economic calendar, with the US Federal Reserve's Beige Book, ADP employment data, and durable goods orders due out, while New Zealand's central bank is widely expected to hike rates.
 
-🧠 Psychology: A new study finds people are significantly more willing to speak honestly to an algorithmic leader than to a human one, raising fresh questions about trust and authority as AI takes on more management roles.
+🧠 Psychology: New research finds people who report genuine meaning in their lives show less burnout over time, but those actively and anxiously searching for meaning while feeling little of it show the deepest cynicism and exhaustion.
 
-🎨 Art & Literature: The 2026 PEN America Literary Awards distributed nearly $350,000 to writers and translators this month, honoring Haitian-American author Edwidge Danticat with the PEN/Nabokov Award for International Literature.
+🎨 Art & Literature: The Bayeux Tapestry will leave France for the British Museum this month under a historic loan agreement, marking the first time in nearly a millennium the 70-metre embroidery depicting the Norman Conquest returns to England.
 
-🔭 Astronomy & Space: NASA's Nancy Grace Roman Space Telescope launched August 30, 2026 aboard a SpaceX Falcon Heavy rocket; it shares Hubble's mirror size but captures 100 times more sky in each snapshot, hunting dark energy and distant exoplanets.
+🔭 Astronomy & Space: Neptune reaches opposition this month and Venus is nearing peak brilliance on September 18, while ESA's JUICE spacecraft is set for the first of two Earth flybys later in September en route to Jupiter's icy moons.
 
-🧬 Biology & Evolution: An exceptionally preserved snake fossil unearthed in Brazil shows early snakes were far more diverse than scientists once believed, reshaping the picture of how these reptiles evolved and spread.
+🧬 Biology & Evolution: A genomic analysis spanning thousands of animal species suggests chromosomes don't evolve randomly but instead follow a limited set of irreversible "evolutionary highways," reshaping how biologists think about genome change over deep time.
 
-🗺️ World Cultures & Languages: UNESCO ran an August seminar on building "data commons" for Indigenous languages as part of the UN's International Decade of Indigenous Languages — of the roughly 7,000 languages spoken worldwide, only about 1,000 exist online.
+🗺️ World Cultures & Languages: UNESCO is marking the 60th anniversary of International Literacy Day with a global celebration in Mexico on September 8-9, while only about 1,000 of the world's roughly 7,000 languages currently exist online.
 
-➗ Mathematics: A team of mathematicians announced a landmark proof in percolation theory this week, resolving a decades-old puzzle about how networks of connections abruptly shift behavior once they cross a critical threshold.
+➗ Mathematics: Computer scientists have found the first improved method in 30 years for evenly allocating objects between two groups, while a graduate student separately proved a new quantum uncertainty principle for fractals.
 
-⚖️ Politics & Law: The US Supreme Court eased the path on August 24 for President Trump's executive order restricting mail-in balloting ahead of November's midterms, lifting a lower court's injunction, though the order remains blocked while litigation continues.
+⚖️ Politics & Law: The US House is expected to vote this week on a constitutional amendment locking the Supreme Court at nine justices, even as Democrats float court expansion and a separate bill to impose Supreme Court term limits has been reintroduced in the Senate.
 
-🎵 Music: The eligibility window for the 69th Grammy Awards runs through August 28, 2026, meaning albums released this month are already in contention for next year's ceremony.
+🎵 Music: September brings a wave of major releases including Beck's fifteenth album "Ride Lonesome," Anthrax's "Cursum Perficio," and Luke Bryan's "Signs," alongside a reissue-heavy month for classic rock fans led by Neil Young.
