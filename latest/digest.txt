@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 2, 2026
+📚 Daily Knowledge — September 6, 2026
 
 🌐 Top World News
-• The US military launched a new round of strikes on IRGC targets inside Iran, expanding the conflict after a tenuous ceasefire broke down; Washington says the strikes respond to Iranian attacks on shipping in the Strait of Hormuz and on US troops, while Iran's president says Tehran is open to reviving the Islamabad Memorandum if the US does too.
-• Israeli forces captured a senior Hamas internal security official during a ground operation in Gaza that Palestinian health officials say killed four people, as the war continues alongside stalled ceasefire efforts.
-• President Trump is promoting a deal for a major US stake in Venezuela's oil reserves as a breakthrough that will lower gas prices and refill depleted emergency oil stockpiles, though analysts warn the relief won't be quick.
+• Russia and Ukraine agreed to a three-day pause on strikes against each other's capitals as US envoys Steve Witkoff and Jared Kushner met President Putin in Moscow for three hours of talks aimed at reviving a stalled peace push, before heading on to Kyiv.
+• The US carried out fresh airstrikes on IRGC targets in Iran, killing five members of the Aerospace Force in Kermanshah, in response to attacks on shipping in the Strait of Hormuz and on US troops; Iranian state media reported civilian casualties from a strike near a wedding in Hormozgan province.
+• Miss World 2026, the pageant's 73rd edition, was held in Nha Trang, Vietnam, drawing global attention as one of several major international gatherings this week amid the backdrop of escalating US-Iran tensions.
 
 💻 Technology
-• Anthropic changed its data retention policy after pushback from customers, part of a broader wave of AI companies adjusting privacy practices under user and regulatory pressure.
-• Robotaxi competition is intensifying as Waymo and Zoox both expand into new US markets.
-• Global AI investment races are accelerating: Huawei is pouring billions into AI chips despite squeezed profits, South Korea has put AI and semiconductors at the center of a record national budget, and SB Energy has filed for an IPO citing heavy dependence on OpenAI.
+• OpenAI released GPT-6 Astra, its latest ChatGPT model, which the company says pushes frontier AI deeper into autonomous professional work.
+• Tesla began operating wheel-free Cybercabs on Austin streets, almost immediately drawing a federal safety probe into the driverless vehicles.
+• Microsoft AI released MAI-Transcribe-2, a speech-recognition model covering 60 languages with diarization and word-level timestamps, priced at an introductory $0.10 per audio hour through the end of 2026.
 
-🔬 Science: ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir completed a nearly 7-hour spacewalk outside the ISS on September 1, replacing a camera and a docking aid, while researchers elsewhere reported new hidden complexity inside ultrathin superconductors once thought simple.
+🔬 Science: Duke researchers developed an injectable scaffold that helped stroke-damaged brains in mice grow new blood vessels and recover movement, while Stanford scientists found a compound in edible sea squirts that reversed several signs of aging in older mice.
 
-📜 History: On this day in 1945, Japan formally surrendered aboard the USS Missouri in Tokyo Bay, bringing World War II to its official end.
+📜 History: On this day in 1522, the Victoria, the last surviving ship of Ferdinand Magellan's expedition, arrived back in Spain, completing the first circumnavigation of the globe with only 15 of the original 265 crew.
 
-🤔 Philosophy: Academic philosophy is grappling with AI's growing role in the field after the journal Philosophy & Public Affairs published an article largely written by an AI, sparking debate about authorship and rigor in scholarly work.
+🤔 Philosophy: The journal Philosophy & Public Affairs published an article largely written by an AI, fueling ongoing debate in academic philosophy over authorship and rigor as the field grapples with generative AI's growing role.
 
-🌍 Geography: Newly identified Arctic atmospheric processes are dramatically boosting the number of particles that seed cloud formation, adding a fresh variable to climate models of the rapidly changing polar region.
+🌍 Geography: Scientists have found evidence that a major Cascadia Subduction Zone earthquake could trigger a follow-on quake on the San Andreas Fault, while a giant fan-shaped network of hidden basins was discovered beneath East Antarctica.
 
-💰 Economics: Markets are watching a busy economic calendar, with the US Federal Reserve's Beige Book, ADP employment data, and durable goods orders due out, while New Zealand's central bank is widely expected to hike rates.
+💰 Economics: Euro area inflation rose to 3.3% in August on higher energy costs, keeping pressure on the European Central Bank, which is widely expected to raise rates this month, even as Fed officials signal they may hold steady in September absent inflation surprises.
 
-🧠 Psychology: New research finds people who report genuine meaning in their lives show less burnout over time, but those actively and anxiously searching for meaning while feeling little of it show the deepest cynicism and exhaustion.
+🧠 Psychology: A three-year study of nearly 4,000 adults aged 19 to 94 found brain health can improve at any age, challenging the assumption that mental sharpness inevitably declines with age.
 
-🎨 Art & Literature: The Bayeux Tapestry will leave France for the British Museum this month under a historic loan agreement, marking the first time in nearly a millennium the 70-metre embroidery depicting the Norman Conquest returns to England.
+🎨 Art & Literature: Taiwan Travelogue by Yáng Shuāng-zǐ became the first book translated from Taiwanese Mandarin to win the International Booker Prize, while the 2026 Booker Prize longlist of 13 novels awaits its shortlist announcement.
 
-🔭 Astronomy & Space: Neptune reaches opposition this month and Venus is nearing peak brilliance on September 18, while ESA's JUICE spacecraft is set for the first of two Earth flybys later in September en route to Jupiter's icy moons.
+🔭 Astronomy & Space: A striking ten-sided atmospheric pattern has appeared around Saturn's south pole, giving the planet an unexpected southern counterpart to its famous northern hexagon, as Venus climbs toward peak brightness for the year later this month.
 
-🧬 Biology & Evolution: A genomic analysis spanning thousands of animal species suggests chromosomes don't evolve randomly but instead follow a limited set of irreversible "evolutionary highways," reshaping how biologists think about genome change over deep time.
+🧬 Biology & Evolution: Researchers found that modern humans carry DNA from two previously unknown extinct human lineages in addition to Neanderthals and Denisovans, adding new complexity to the human family tree.
 
-🗺️ World Cultures & Languages: UNESCO is marking the 60th anniversary of International Literacy Day with a global celebration in Mexico on September 8-9, while only about 1,000 of the world's roughly 7,000 languages currently exist online.
+🗺️ World Cultures & Languages: Of the roughly 7,000 languages spoken worldwide today, an estimated 40% are endangered, with Oceania home to the highest concentration of at-risk languages, according to recent linguistic surveys.
 
-➗ Mathematics: Computer scientists have found the first improved method in 30 years for evenly allocating objects between two groups, while a graduate student separately proved a new quantum uncertainty principle for fractals.
+➗ Mathematics: OpenAI published a 249-page manuscript in August describing ten new results in pure mathematics and theoretical computer science, each backed by a machine-checkable proof certificate written in the formal language Lean.
 
-⚖️ Politics & Law: The US House is expected to vote this week on a constitutional amendment locking the Supreme Court at nine justices, even as Democrats float court expansion and a separate bill to impose Supreme Court term limits has been reintroduced in the Senate.
+⚖️ Politics & Law: A federal judge issued a temporary restraining order blocking parts of a Trump-directed Postal Service rule seeking to control mail-in ballots, even as the first ballots for the 2026 general election began going out and the administration appeals to the Supreme Court.
 
-🎵 Music: September brings a wave of major releases including Beck's fifteenth album "Ride Lonesome," Anthrax's "Cursum Perficio," and Luke Bryan's "Signs," alongside a reissue-heavy month for classic rock fans led by Neil Young.
+🎵 Music: Neil Young is set to release "Second Song," a new collaboration with Chrome Hearts, while Luke Bryan's ninth studio album "Signs" arrives September 18 and several classic-rock acts roll out anniversary reissues this month.
