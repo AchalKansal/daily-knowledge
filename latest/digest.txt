@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 9, 2026
+📚 Daily Knowledge — September 10, 2026
 
 🌐 Top World News
-• The United Kingdom announced a major reset of relations with Israel, joining France, Canada and nine other countries in banning trade with Israeli settlements in the occupied West Bank; Israel and the United States condemned the move, with Israel vowing retaliation.
-• Canada struck back at U.S. President Trump's tariffs with new duties on roughly $20 billion worth of American goods, escalating the trade dispute between the two countries.
-• Kazakhstan's President Tokayev raised the possibility of reviving the "Istanbul process" — the 2022 framework for direct Russia-Ukraine talks — as a path to de-escalating the war, as U.S.-brokered peace efforts continue without a breakthrough.
+• The U.S. military struck IRGC targets across Iran — including sites on Qeshm Island, Bandar Abbas, Chabahar, Jask and Sirik — after Iran attempted attacks on commercial shipping in the Strait of Hormuz and on U.S. troops in the region, part of an escalating campaign to knock out Iran's radar and missile capabilities near the strait.
+• Thieves stole two Renoir paintings worth roughly €2.2 million ("Madame Colonna Romano" and "Jeune femme au puits") from the Musée Renoir in Cagnes-sur-Mer on the French Riviera, dropping two other canvases in the garden as police gave chase; French authorities have opened an organized-crime investigation.
+• Sri Lankan MP Namal Rajapaksa was arrested over alleged corruption tied to SriLankan Airlines' 2013 Airbus purchase deal, the latest legal action against the politically prominent Rajapaksa family.
 
 💻 Technology
-• Apple holds its "Surprise and Shine" event today, September 9, unveiling the iPhone 18 Pro, iPhone 18 Pro Max, and its first foldable iPhone (expected to be branded "iPhone Ultra"), all powered by a new 2nm A20 Pro chip.
-• OpenAI released GPT-6 Astra, which the company is billing as the start of an "AGI era," while separately claiming its model found a flaw in the Navier-Stokes equations, one of math's six unsolved Millennium Prize Problems — a result still drawing controversy from mathematicians.
-• Tesla's driverless Cybercabs hit the streets of Austin and almost immediately drew a federal safety investigation, as regulators scrutinize the wheel-free robotaxis' rollout.
+• U.S. agencies accused Chinese AI labs of siphoning American AI model intelligence at industrial scale, escalating tensions over intellectual property just as Chinese factories showcase new humanoid robots and Beijing tightens IPO rules for robotics firms.
+• Google patched its seventh actively exploited Chrome zero-day of 2026, underscoring the browser's status as a top target for real-world attacks this year.
+• DeepSeek quietly opened a limited beta for V4.1 Flash, an interim model with a new architecture and native multimodal support, capped at 20 concurrent requests per account.
 
-🔬 Science: The LUX-ZEPLIN experiment detected a rare particle interaction that's proving unusually hard to explain as background noise, occurring in the range where physicists have been hunting for dark matter signals.
+🔬 Science: UC San Diego researchers showed that a cellular enzyme can accurately read a synthetic eight-letter genetic alphabet, doubling the four letters (A, T, C, G) used by all known life on Earth.
 
-📜 History: On this day in 1776, the Continental Congress formally adopted "United States of America" as the name of the new nation, replacing the earlier "United Colonies."
+📜 History: On this day in 1813, U.S. Captain Oliver Hazard Perry led nine American ships to victory over a British squadron at the Battle of Lake Erie during the War of 1812 — the first time an entire British naval squadron had been defeated and captured.
 
-🤔 Philosophy: The journal Philosophy & Public Affairs published an article largely written by AI this month, intensifying academic debate over authorship, originality, and whether AI-generated reasoning counts as genuine philosophical work.
+🤔 Philosophy: The Philosopher's Annual, which anthologizes the year's best philosophy papers, released its Volume 45 covering the literature of 2025, with Daniel Singer taking over as editor from longtime steward Patrick Grim.
 
-🌍 Geography: A Manhattan-sized iceberg broke off Greenland's Petermann Glacier in August after years of growing fractures weakened its floating ice tongue — the Arctic's largest glacier-calving event since 2020.
+🌍 Geography: East Antarctica gained roughly 695 billion tons of ice between 2021 and 2023, a snowfall-driven rebound that temporarily slowed the continent's long-term decline, researchers reported this month.
 
-💰 Economics: The Federal Reserve's September 15-16 meeting is shaping up as pivotal, with Governor Waller signaling openness to holding rates steady if disinflation continues, even as Chair Warsh warns persistent inflation could force a hike instead.
+💰 Economics: With inflation running about a full percentage point above what forecasters expected a year ago, the Federal Reserve heads into its pivotal September 15-16 meeting under an unusually public pressure campaign from the Trump administration to hold or cut rates rather than hike.
 
-🧠 Psychology: Researchers are testing a new approach to counter conspiracy beliefs: AI chatbots trained to engage skeptics in personalized, evidence-based dialogue, with early studies finding the conversations measurably reduce belief in false claims.
+🧠 Psychology: A major new study found that adults with depression show disrupted production of new neurons in the hippocampus, a deficit that may weaken the brain's ability to distinguish new experiences from painful memories.
 
-🎨 Art & Literature: The 2026 Booker Prize's 13-novel longlist — chosen from 163 submissions by a panel chaired by classicist Mary Beard — narrows to a shortlist on September 22, ahead of the winner's announcement on November 9.
+🎨 Art & Literature: Jersey-based self-taught artist and writer Adam Perchard won the inaugural Hogarth Prize for his work "Leviathan," earning £3,000 and a solo exhibition at Hogarth's House in Chiswick next spring.
 
-🔭 Astronomy & Space: NASA's Roman Space Telescope, launched August 30 atop a Falcon Heavy, is now in space and will soon begin infrared surveys with a field of view more than 100 times larger than Hubble's.
+🔭 Astronomy & Space: NASA scientists spotted a giant ten-sided pattern circling Saturn's south pole, giving the ringed planet an unexpected southern counterpart to its famous northern hexagon.
 
-🧬 Biology & Evolution: A new UC Santa Cruz-led study overturned decades of assumptions about the extinct "American cheetah," finding it wasn't a cheetah at all but a puma relative with a far more flexible, generalist lifestyle than believed.
+🧬 Biology & Evolution: Geneticists reported that modern humans carry DNA from two mysterious extinct human lineages beyond Neanderthals and Denisovans, hinting at encounters with populations still unidentified in the fossil record.
 
-🗺️ World Cultures & Languages: UNESCO marked the 60th anniversary of International Literacy Day with a global celebration in Mexico on September 8-9, awarding its International Literacy Prizes to outstanding programs worldwide.
+🗺️ World Cultures & Languages: UNESCO convened a regional forum in Central Africa and the Great Lakes today to strengthen a "Culture of Peace," part of its broader push — alongside a new Global Action Plan for Indigenous languages — to stem the loss of up to 1,500 languages projected to disappear by century's end.
 
-➗ Mathematics: OpenAI mathematicians claim to have shown the Navier-Stokes equations can "blow up" under certain conditions, a result researchers say could resolve one of the six unsolved Millennium Prize Problems — though the claim is still being independently verified.
+➗ Mathematics: Computer scientists achieved the first improvement in 30 years on how to fairly divide a set of objects between two groups, cracking a longstanding open problem in combinatorics.
 
-⚖️ Politics & Law: The U.S. House voted down a proposed constitutional amendment that would have locked the Supreme Court at nine seats, falling short of the two-thirds majority needed as debate over court expansion continues.
+⚖️ Politics & Law: Missouri's Supreme Court ruled the state's newly GOP-redrawn congressional map cannot be used in this fall's midterms, ordering a November referendum on the map while the old district lines stay in effect for now.
 
-🎵 Music: British rockers Kasabian released their new album "Act III" on September 4, while Anthrax's "Cursum Perficio" and a sprawling 14-disc Joy Division live box set, "Eternal (Live)," are both due later this month.
+🎵 Music: Anthrax's twelfth studio album "Cursum Perficio" and Luke Bryan's "Signs" both arrive September 18, while Joy Division's sprawling 14-disc live box set "Eternal (Live)" also lands later this month.
