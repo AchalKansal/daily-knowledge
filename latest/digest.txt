@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 10, 2026
+📚 Daily Knowledge — September 11, 2026
 
 🌐 Top World News
-• The U.S. military struck IRGC targets across Iran — including sites on Qeshm Island, Bandar Abbas, Chabahar, Jask and Sirik — after Iran attempted attacks on commercial shipping in the Strait of Hormuz and on U.S. troops in the region, part of an escalating campaign to knock out Iran's radar and missile capabilities near the strait.
-• Thieves stole two Renoir paintings worth roughly €2.2 million ("Madame Colonna Romano" and "Jeune femme au puits") from the Musée Renoir in Cagnes-sur-Mer on the French Riviera, dropping two other canvases in the garden as police gave chase; French authorities have opened an organized-crime investigation.
-• Sri Lankan MP Namal Rajapaksa was arrested over alleged corruption tied to SriLankan Airlines' 2013 Airbus purchase deal, the latest legal action against the politically prominent Rajapaksa family.
+• The US marked the 25th anniversary of the 9/11 attacks today, with memorial ceremonies at the World Trade Center, the Pentagon, and Shanksville, Pennsylvania, reading the names of the 2,983 victims and observing moments of silence.
+• Russia's war on Ukraine continued to escalate: a Russian drone strike hit a shopping center in Sumy, killing two and injuring more than 20, amid roughly 170 combat engagements and dozens of air strikes reported in a single day.
+• Canada struck back at President Trump with retaliatory tariffs on about $20 billion of US goods, deepening the trade dispute between the two countries.
 
 💻 Technology
-• U.S. agencies accused Chinese AI labs of siphoning American AI model intelligence at industrial scale, escalating tensions over intellectual property just as Chinese factories showcase new humanoid robots and Beijing tightens IPO rules for robotics firms.
-• Google patched its seventh actively exploited Chrome zero-day of 2026, underscoring the browser's status as a top target for real-world attacks this year.
-• DeepSeek quietly opened a limited beta for V4.1 Flash, an interim model with a new architecture and native multimodal support, capped at 20 concurrent requests per account.
+• The US Justice Department is investigating whether Nvidia structured its $20 billion licensing deal with AI chip startup Groq to dodge the antitrust scrutiny a traditional acquisition would trigger.
+• ID-verification giant IDScan confirmed a data breach exposing more than 150 million driver's licenses and other government ID scans, one of the largest identity-document leaks on record.
+• Google committed roughly $15 billion to build AI data centers in Finland and signed a 22-year deal to buy up to half the output of the Loviisa nuclear plant — its first nuclear power agreement outside the US.
 
-🔬 Science: UC San Diego researchers showed that a cellular enzyme can accurately read a synthetic eight-letter genetic alphabet, doubling the four letters (A, T, C, G) used by all known life on Earth.
+🔬 Science: Scientists identified a soil bacteria enzyme capable of breaking down both plastic and antibiotics, offering a potential dual-purpose tool for environmental cleanup.
 
-📜 History: On this day in 1813, U.S. Captain Oliver Hazard Perry led nine American ships to victory over a British squadron at the Battle of Lake Erie during the War of 1812 — the first time an entire British naval squadron had been defeated and captured.
+📜 History: On this day in 1814, an American fleet won a decisive victory over the British at the Battle of Lake Champlain during the War of 1812, helping repel a major British invasion from Canada.
 
-🤔 Philosophy: The Philosopher's Annual, which anthologizes the year's best philosophy papers, released its Volume 45 covering the literature of 2025, with Daniel Singer taking over as editor from longtime steward Patrick Grim.
+🤔 Philosophy: The American Philosophical Association announced its 2026 Lebowitz Prize winners this month, while philosophers continue debating the growing use of AI in writing academic philosophy papers.
 
-🌍 Geography: East Antarctica gained roughly 695 billion tons of ice between 2021 and 2023, a snowfall-driven rebound that temporarily slowed the continent's long-term decline, researchers reported this month.
+🌍 Geography: Newly analyzed volcanic rocks in Colombia are rewriting the timeline of when Central and South America collided, reshaping scientists' understanding of the isthmus's geological history.
 
-💰 Economics: With inflation running about a full percentage point above what forecasters expected a year ago, the Federal Reserve heads into its pivotal September 15-16 meeting under an unusually public pressure campaign from the Trump administration to hold or cut rates rather than hike.
+💰 Economics: Markets are pricing in a possible Fed rate move at the September FOMC meeting after strong August payrolls data, while the Dow and S&P slipped as Treasury yields rose.
 
-🧠 Psychology: A major new study found that adults with depression show disrupted production of new neurons in the hippocampus, a deficit that may weaken the brain's ability to distinguish new experiences from painful memories.
+🧠 Psychology: Researchers linked more than 1,200 genetic variants to the "Big Five" personality traits, finding effects that extend to health, longevity, income, and everyday habits.
 
-🎨 Art & Literature: Jersey-based self-taught artist and writer Adam Perchard won the inaugural Hogarth Prize for his work "Leviathan," earning £3,000 and a solo exhibition at Hogarth's House in Chiswick next spring.
+🎨 Art & Literature: The 2026 Booker Prize longlist of 13 novels — the "Booker Dozen" — was announced, featuring two former winners and three debut authors; the shortlist arrives September 22.
 
-🔭 Astronomy & Space: NASA scientists spotted a giant ten-sided pattern circling Saturn's south pole, giving the ringed planet an unexpected southern counterpart to its famous northern hexagon.
+🔭 Astronomy & Space: Astronomers using NASA's Chandra X-ray Observatory identified a new class of cosmic objects that could help resolve two long-standing astrophysics puzzles.
 
-🧬 Biology & Evolution: Geneticists reported that modern humans carry DNA from two mysterious extinct human lineages beyond Neanderthals and Denisovans, hinting at encounters with populations still unidentified in the fossil record.
+🧬 Biology & Evolution: Scientists described seven new species of Madagascar's elusive diamond frogs, using DNA from both living animals and century-old museum specimens to crack a long-running taxonomic puzzle.
 
-🗺️ World Cultures & Languages: UNESCO convened a regional forum in Central Africa and the Great Lakes today to strengthen a "Culture of Peace," part of its broader push — alongside a new Global Action Plan for Indigenous languages — to stem the loss of up to 1,500 languages projected to disappear by century's end.
+🗺️ World Cultures & Languages: UNESCO's Indigenous-language initiatives continue to spotlight youth-led revitalization efforts, as roughly 40% of the world's 6,700 languages remain at risk of disappearing.
 
-➗ Mathematics: Computer scientists achieved the first improvement in 30 years on how to fairly divide a set of objects between two groups, cracking a longstanding open problem in combinatorics.
+➗ Mathematics: OpenAI said an unreleased AI model produced a proof for the Navier–Stokes existence and smoothness problem — one of math's seven Millennium Prize Problems — in 88 hours, though the result is still being independently verified.
 
-⚖️ Politics & Law: Missouri's Supreme Court ruled the state's newly GOP-redrawn congressional map cannot be used in this fall's midterms, ordering a November referendum on the map while the old district lines stay in effect for now.
+⚖️ Politics & Law: The US Supreme Court is gearing up for its 2026-2027 term with a docket touching on religious liberty and parental rights, following recent rulings on mail-in ballots and historic preservation.
 
-🎵 Music: Anthrax's twelfth studio album "Cursum Perficio" and Luke Bryan's "Signs" both arrive September 18, while Joy Division's sprawling 14-disc live box set "Eternal (Live)" also lands later this month.
+🎵 Music: Kasabian released their ninth studio album "Act III," part of a wave of September releases that also includes new records from Anthrax and Luke Bryan later in the month.
