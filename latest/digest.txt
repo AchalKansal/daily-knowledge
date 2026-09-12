@@ -1,37 +1,25 @@
-📚 Daily Knowledge — September 11, 2026
+📚 Daily Knowledge — September 12, 2026
 
 🌐 Top World News
-• The US marked the 25th anniversary of the 9/11 attacks today, with memorial ceremonies at the World Trade Center, the Pentagon, and Shanksville, Pennsylvania, reading the names of the 2,983 victims and observing moments of silence.
-• Russia's war on Ukraine continued to escalate: a Russian drone strike hit a shopping center in Sumy, killing two and injuring more than 20, amid roughly 170 combat engagements and dozens of air strikes reported in a single day.
-• Canada struck back at President Trump with retaliatory tariffs on about $20 billion of US goods, deepening the trade dispute between the two countries.
+• The BRICS summit opened in New Delhi (Sept 12-13) as Vladimir Putin, meeting Modi ahead of the gathering, warned that any deployment of European troops to Ukraine would amount to direct war with Russia.
+• A Russian strike on a shopping center in Pavlohrad, Ukraine killed 5 people and injured 67; Ukraine's foreign minister accused Moscow of deliberately targeting civilian gathering spots to spread fear.
+• Iran-aligned Houthi forces advanced along Yemen's Red Sea coast, reaching the strategic port area of Mokha, escalating tensions on a second front alongside recent Iranian strikes on US military aircraft.
 
 💻 Technology
-• The US Justice Department is investigating whether Nvidia structured its $20 billion licensing deal with AI chip startup Groq to dodge the antitrust scrutiny a traditional acquisition would trigger.
-• ID-verification giant IDScan confirmed a data breach exposing more than 150 million driver's licenses and other government ID scans, one of the largest identity-document leaks on record.
-• Google committed roughly $15 billion to build AI data centers in Finland and signed a 22-year deal to buy up to half the output of the Loviisa nuclear plant — its first nuclear power agreement outside the US.
+• AI infrastructure spending accelerated sharply: Microsoft mapped a 38-gigawatt data-center buildout, Oracle booked a $664 billion cloud backlog, and the Pentagon opened talks on a $5 billion loan to shore up US data-center supply chains.
+• Security researchers reported hundreds of AI agents were used to help breach 395 organizations, while Anthropic said it disrupted AI-assisted cyber operations and blocked attempts to misuse its models for bioweapons-related work.
+• About 153 million driver's-license scans were exposed from an identity-verification vendor, as lawmakers in Washington and Sacramento advanced new catastrophic-risk and child-safety rules for AI companies.
 
-🔬 Science: Scientists identified a soil bacteria enzyme capable of breaking down both plastic and antibiotics, offering a potential dual-purpose tool for environmental cleanup.
-
-📜 History: On this day in 1814, an American fleet won a decisive victory over the British at the Battle of Lake Champlain during the War of 1812, helping repel a major British invasion from Canada.
-
-🤔 Philosophy: The American Philosophical Association announced its 2026 Lebowitz Prize winners this month, while philosophers continue debating the growing use of AI in writing academic philosophy papers.
-
-🌍 Geography: Newly analyzed volcanic rocks in Colombia are rewriting the timeline of when Central and South America collided, reshaping scientists' understanding of the isthmus's geological history.
-
-💰 Economics: Markets are pricing in a possible Fed rate move at the September FOMC meeting after strong August payrolls data, while the Dow and S&P slipped as Treasury yields rose.
-
-🧠 Psychology: Researchers linked more than 1,200 genetic variants to the "Big Five" personality traits, finding effects that extend to health, longevity, income, and everyday habits.
-
-🎨 Art & Literature: The 2026 Booker Prize longlist of 13 novels — the "Booker Dozen" — was announced, featuring two former winners and three debut authors; the shortlist arrives September 22.
-
-🔭 Astronomy & Space: Astronomers using NASA's Chandra X-ray Observatory identified a new class of cosmic objects that could help resolve two long-standing astrophysics puzzles.
-
-🧬 Biology & Evolution: Scientists described seven new species of Madagascar's elusive diamond frogs, using DNA from both living animals and century-old museum specimens to crack a long-running taxonomic puzzle.
-
-🗺️ World Cultures & Languages: UNESCO's Indigenous-language initiatives continue to spotlight youth-led revitalization efforts, as roughly 40% of the world's 6,700 languages remain at risk of disappearing.
-
-➗ Mathematics: OpenAI said an unreleased AI model produced a proof for the Navier–Stokes existence and smoothness problem — one of math's seven Millennium Prize Problems — in 88 hours, though the result is still being independently verified.
-
-⚖️ Politics & Law: The US Supreme Court is gearing up for its 2026-2027 term with a docket touching on religious liberty and parental rights, following recent rulings on mail-in ballots and historic preservation.
-
-🎵 Music: Kasabian released their ninth studio album "Act III," part of a wave of September releases that also includes new records from Anthrax and Luke Bryan later in the month.
+🔬 Science: Researchers showed for the first time that human heart muscle cells can regenerate after a heart attack, while a compound found in edible sea squirts reversed several signs of aging in older mice.
+📜 History: On this day in 1992, Dr. Mae Jemison became the first African American woman in space, launching aboard the Space Shuttle Endeavour.
+🤔 Philosophy: 2026's AI ethics conferences are wrestling with whether ethical design can ever be more than an afterthought, as philosophers debate AI consciousness, moral status, and the concentration of power among a few AI developers.
+🌍 Geography: Scientists this year mapped a vast hidden fungal "superhighway" running beneath the world's soils and discovered a huge fan-shaped network of basins concealed under the ice of East Antarctica.
+💰 Economics: US inflation held steady as August's CPI rose 0.4% (3.4% annually), in line with forecasts, while employers added a stronger-than-expected 162,000 jobs, the best month since March.
+🧠 Psychology: New research finds voters with structured, internally consistent political beliefs harbor deeper mutual animosity toward opponents than those holding moderate or mixed views.
+🎨 Art & Literature: The 2026 Booker Prize longlist — the "Booker Dozen" — was announced, featuring two past winners and three debut novelists, with the shortlist due September 22 in London.
+🔭 Astronomy & Space: Astronomers spotted a striking 10-sided atmospheric pattern circling Saturn's south pole, giving the ringed planet an unexpected southern counterpart to its famous northern hexagon.
+🧬 Biology & Evolution: Paleontologists identified a giant new dinosaur species from Brazil, estimated at roughly 20 meters long and dating back 120 million years.
+🗺️ World Cultures & Languages: An estimated 40% of the world's roughly 7,000 languages are endangered, with Oceania home to the highest concentration, driving new AI-assisted efforts to document and revive threatened tongues.
+➗ Mathematics: Researchers say an OpenAI model found flaws undermining the Navier-Stokes existence-and-smoothness problem, one of math's seven Millennium Prize questions, part of a wider 2026 wave of AI-assisted proofs.
+⚖️ Politics & Law: The Trump administration asked the Supreme Court to let a new Postal Service rule affecting mail-in ballots take effect ahead of the midterms, after a federal judge temporarily blocked parts of it.
+🎵 Music: Anthrax released their twelfth studio album "Cursum Perficio" and Kasabian dropped their ninth record "Act III," among a crowded slate of September rock releases.
