@@ -1,25 +1,25 @@
-📚 Daily Knowledge — September 12, 2026
+📚 Daily Knowledge — September 13, 2026
 
 🌐 Top World News
-• The BRICS summit opened in New Delhi (Sept 12-13) as Vladimir Putin, meeting Modi ahead of the gathering, warned that any deployment of European troops to Ukraine would amount to direct war with Russia.
-• A Russian strike on a shopping center in Pavlohrad, Ukraine killed 5 people and injured 67; Ukraine's foreign minister accused Moscow of deliberately targeting civilian gathering spots to spread fear.
-• Iran-aligned Houthi forces advanced along Yemen's Red Sea coast, reaching the strategic port area of Mokha, escalating tensions on a second front alongside recent Iranian strikes on US military aircraft.
+• Xi Jinping, Vladimir Putin and Narendra Modi met face-to-face at the 18th BRICS Summit in New Delhi, with the bloc testing whether it can find common ground amid U.S. tariff pressure and the ongoing Iran war.
+• Zelensky says he is ready to meet Putin at a G20 summit in Miami this December, but Lavrov insists Russia won't halt attacks during any negotiations; Moscow is now targeting Ukrainian gas stations as Kyiv braces for winter fuel shortages.
+• Iran's continued closure of the Strait of Hormuz remains the dominant flashpoint from the U.S.-Israeli war on Iran, driving the largest global oil-supply disruption since the 1970s energy crisis.
 
 💻 Technology
-• AI infrastructure spending accelerated sharply: Microsoft mapped a 38-gigawatt data-center buildout, Oracle booked a $664 billion cloud backlog, and the Pentagon opened talks on a $5 billion loan to shore up US data-center supply chains.
-• Security researchers reported hundreds of AI agents were used to help breach 395 organizations, while Anthropic said it disrupted AI-assisted cyber operations and blocked attempts to misuse its models for bioweapons-related work.
-• About 153 million driver's-license scans were exposed from an identity-verification vendor, as lawmakers in Washington and Sacramento advanced new catastrophic-risk and child-safety rules for AI companies.
+• Apple unveiled its first iPhone built on a 2-nanometer chip, a major leap in smartphone processor technology as the industry races toward more efficient silicon.
+• Anthropic disclosed that Chinese AI labs secretly used millions of Claude conversations to train their own competing models, raising fresh AI-security and IP concerns.
+• Oracle posted 30% revenue growth fueled by AI cloud demand, even as OpenAI ruled out an IPO this year and Altman, Musk and Amodei all warned that AI development is moving too fast.
 
-🔬 Science: Researchers showed for the first time that human heart muscle cells can regenerate after a heart attack, while a compound found in edible sea squirts reversed several signs of aging in older mice.
-📜 History: On this day in 1992, Dr. Mae Jemison became the first African American woman in space, launching aboard the Space Shuttle Endeavour.
-🤔 Philosophy: 2026's AI ethics conferences are wrestling with whether ethical design can ever be more than an afterthought, as philosophers debate AI consciousness, moral status, and the concentration of power among a few AI developers.
-🌍 Geography: Scientists this year mapped a vast hidden fungal "superhighway" running beneath the world's soils and discovered a huge fan-shaped network of basins concealed under the ice of East Antarctica.
-💰 Economics: US inflation held steady as August's CPI rose 0.4% (3.4% annually), in line with forecasts, while employers added a stronger-than-expected 162,000 jobs, the best month since March.
-🧠 Psychology: New research finds voters with structured, internally consistent political beliefs harbor deeper mutual animosity toward opponents than those holding moderate or mixed views.
-🎨 Art & Literature: The 2026 Booker Prize longlist — the "Booker Dozen" — was announced, featuring two past winners and three debut novelists, with the shortlist due September 22 in London.
-🔭 Astronomy & Space: Astronomers spotted a striking 10-sided atmospheric pattern circling Saturn's south pole, giving the ringed planet an unexpected southern counterpart to its famous northern hexagon.
-🧬 Biology & Evolution: Paleontologists identified a giant new dinosaur species from Brazil, estimated at roughly 20 meters long and dating back 120 million years.
-🗺️ World Cultures & Languages: An estimated 40% of the world's roughly 7,000 languages are endangered, with Oceania home to the highest concentration, driving new AI-assisted efforts to document and revive threatened tongues.
-➗ Mathematics: Researchers say an OpenAI model found flaws undermining the Navier-Stokes existence-and-smoothness problem, one of math's seven Millennium Prize questions, part of a wider 2026 wave of AI-assisted proofs.
-⚖️ Politics & Law: The Trump administration asked the Supreme Court to let a new Postal Service rule affecting mail-in ballots take effect ahead of the midterms, after a federal judge temporarily blocked parts of it.
-🎵 Music: Anthrax released their twelfth studio album "Cursum Perficio" and Kasabian dropped their ninth record "Act III," among a crowded slate of September rock releases.
+🔬 Science: Researchers discovered a soil bacterium enzyme capable of breaking down both plastic and antibiotics, a potential dual-purpose tool against pollution and drug-resistant contamination.
+📜 History: On this day in 1956, IBM introduced the RAMAC 305, the world's first commercial hard disk drive — it stored a then-astonishing 5 megabytes across fifty spinning platters.
+🤔 Philosophy: The American Philosophical Association announced the winners of its 2026 Lebowitz Prize, even as debate continues in the field over a paper largely written by AI recently published in Philosophy & Public Affairs.
+🌍 Geography: East Antarctica gained roughly 695 billion tons of ice between 2021 and 2023, a striking but temporary reprieve in the continent's long-term decline.
+💰 Economics: August's hotter-than-expected inflation report (CPI up 3.4% year-over-year) has sharply raised the odds of a Federal Reserve rate move at next week's meeting, with markets now pricing in a 90% chance of action.
+🧠 Psychology: New research on over 4,000 people, including college students tracked for two years, finds intellectual humility comes in two distinct flavors rather than a single trait.
+🎨 Art & Literature: The Booker Prize shortlist of six novels was drawn from July's "Booker's dozen" longlist, with the winner to be announced later this year.
+🔭 Astronomy & Space: NASA and SpaceX delayed the Crew-13 launch after discovering an oxidizer leak in the Dragon spacecraft's propulsion system during prelaunch checks.
+🧬 Biology & Evolution: Scientists found that more than 500 species of vesper bats possess two separate sets of antibody genes, an immune arrangement never before documented in mammals.
+🗺️ World Cultures & Languages: The nearly 230-foot Bayeux Tapestry returned to England this month for the first time in 900 years, on loan from France.
+➗ Mathematics: A cluster of 10,000 AI agents run by OpenAI produced a contested proof about the Navier-Stokes existence-and-smoothness problem, while separately a mathematician using Anthropic's Claude Fable 5 found a simple counterexample to the long-unsolved Jacobian conjecture.
+⚖️ Politics & Law: The Trump administration asked the Supreme Court to let a new Postal Service rule tightening mail-in ballot handling take effect ahead of the midterms, after a federal judge temporarily blocked it.
+🎵 Music: Luke Bryan is set to release his ninth studio album, "Signs," on September 18 via MCA Nashville and Row Crop Records.
