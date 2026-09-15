@@ -1,25 +1,37 @@
-📚 Daily Knowledge — September 14, 2026
+📚 Daily Knowledge — September 15, 2026
 
 🌐 Top World News
-• Indonesian rescuers are searching for roughly 130 people still missing after the ferry Virgo Transport 8, carrying 243 passengers and crew, capsized in bad weather in the Java Sea while sailing from Surabaya to Banjarmasin; 107 have been rescued and six bodies recovered so far.
-• A Russian strike on a Ukrainian ammunition warehouse killed 38 people as Moscow threatens fresh "massive strikes" on Ukraine's energy grid, even as Trump says Putin is open to a deal and CIA Director Ratcliffe made an unannounced visit to Moscow for talks.
-• Israeli forces continue operations in Gaza, including a drone strike that killed two Palestinians and wounded 13 others, days after a raid in Gaza City reportedly captured a senior Hamas security official.
+• Indonesian search-and-rescue teams deployed 17 ships and aircraft with roughly 655 personnel to widen the hunt for 129 people still missing after the ferry Virgo Transport 8, carrying 243 passengers and crew, capsized in rough seas in the Java Sea's Masalembo waters while sailing from Surabaya to Banjarmasin; six bodies have been recovered and at least 108 people rescued.
+• North Korea's Kim Jong Un reaffirmed support for Russia's war on Ukraine in a letter to Vladimir Putin calling it "sacred," amid reports of possible additional North Korean troop deployments, while the EU remains split (over objections from France and Slovakia) on whether to extend expiring sanctions on Russian billionaire Alisher Usmanov.
+• China's Foreign Ministry dismissed Anthropic's CEO's warnings about Chinese-developed AI as "fearmongering," as Beijing and Washington prepare for a leaders' meeting later this month and use the BRICS summit and UN General Assembly to jostle for influence over global finance and technology governance.
 
 💻 Technology
-• OpenAI released GPT-6 Astra, with president Greg Brockman declaring "welcome to the AGI era" and Nvidia's Jensen Huang saying AGI has arrived, though Sam Altman has pushed back on the term as too vague; the model reportedly hit 99.9% on the ARC-AGI-3 benchmark.
-• More than 100 companies — including Anthropic, Google, Microsoft and OpenAI — issued a joint letter calling for stronger defenses against AI-fueled cyberattacks, as OpenAI's Astra model reportedly crossed a "Critical" cybersecurity capability threshold.
-• Anthropic, OpenAI and Google DeepMind have been quietly holding working-group talks since July to build an industry-led AI standards body, with Dario Amodei driving the push and Sam Altman backing it as an alternative to waiting on government regulation.
+• Apple released iOS 27, bringing its long-delayed Siri overhaul to compatible iPhones with broader knowledge, personal context, on-screen awareness, and the ability to carry out complex actions across apps — one of the company's most consequential software launches in years.
+• AI-driven jitters hit markets: the Philadelphia Semiconductor Index tumbled nearly 6%, with Nvidia and Intel shares dropping sharply amid concerns over the pace and cost of AI development, while the 10-year Treasury yield briefly topped 5% for the first time since 2023.
+• Anthropic, OpenAI, and Google DeepMind have reportedly held working-group talks since July on creating an industry-led AI standards body, even as Anthropic unveiled Claude Opus 5 for long-running agentic work and OpenAI countered with a new GPT-5.6 model and a full-duplex voice system for ChatGPT.
 
-🔬 Science: A compound found in edible sea squirts appeared to reverse several signs of aging when tested in older mice, offering a new lead for anti-aging research.
-📜 History: On this day in 1814, Francis Scott Key wrote the poem that became "The Star-Spangled Banner" after watching the British bombardment of Fort McHenry during the War of 1812.
-🤔 Philosophy: Philosophy Now's August/September issue revisited Plato's Theory of Forms alongside new essays probing hustle culture and the illusion of freedom.
-🌍 Geography: A new UN climate report warns the planet is nearing dangerous warming thresholds as a strengthening El Niño pattern is expected to persist through February 2027, driving more extreme heat and flooding.
-💰 Economics: With the Fed's September 15–16 meeting looming, economists and markets are sharply divided — most forecasters expect rates held steady, while traders are pricing in real odds of a hike, as core inflation still runs around 3.3%.
-🧠 Psychology: A large genetic study identified more than 1,200 personality-linked genetic variants, with effects largely independent of family upbringing.
-🎨 Art & Literature: The 2026 Booker Prize longlist of 13 novels was announced, with a judging panel chaired by classicist Mary Beard and including musician Jarvis Cocker and novelist Patricia Lockwood.
-🔭 Astronomy & Space: Astronomers spotted a striking 10-sided atmospheric pattern around Saturn's south pole, an unexpected southern counterpart to the planet's famous northern hexagon.
-🧬 Biology & Evolution: Paleontologists identified a giant new dinosaur species from Brazil that stretched roughly 20 meters long and lived about 120 million years ago.
-🗺️ World Cultures & Languages: New anthropological research this month examined how geographic and environmental barriers have historically shaped the spread of cultural innovations between societies.
-➗ Mathematics: OpenAI said an internal model produced a proof that the Navier–Stokes equations can "blow up," a contested claim that — if it holds up to scrutiny — would be only the second Millennium Prize Problem ever solved.
-⚖️ Politics & Law: The U.S. House voted down a proposed constitutional amendment that would have locked the Supreme Court at nine seats, falling short of the two-thirds majority needed to pass.
-🎵 Music: Anthrax is set to release its twelfth studio album, "Cursum Perficio," on September 18, alongside a wave of new rock releases this month including Kasabian's "Act III."
+🔬 Science: A wearable-device study has revealed nighttime hormone surges that may expose a frequently missed cause of high blood pressure, while separate research suggests a foundational chemistry concept taught in textbooks for nearly a century may need revising.
+
+📜 History: On this day in 1916, tanks were used in combat for the first time, deployed by British forces during the Battle of the Somme in northern France.
+
+🤔 Philosophy: A new essay from Philosophy News points out the irony that authors keep writing successful books proclaiming the death of reading — the genre's own popularity undercuts its thesis.
+
+🌍 Geography: Newly dated volcanic rocks in Colombia are rewriting the timeline of the ancient collision between Central and South America, showing the tectonic event happened millions of years earlier than previously thought.
+
+💰 Economics: The U.S. Federal Reserve opened its two-day policy meeting today, with markets watching closely as elevated energy prices keep inflation pressure high even with a steady labor market.
+
+🧠 Psychology: Researchers have identified more than 1,200 genetic variants linked to personality traits, finding their effects are largely independent of family upbringing.
+
+🎨 Art & Literature: The Bayeux Tapestry, the famed 70-metre embroidered chronicle of the 1066 Norman Conquest, has gone on loan to the British Museum from France under a historic agreement running through July 2027.
+
+🔭 Astronomy & Space: Skywatchers can catch the young crescent moon tonight positioned between bright Venus and the red star Antares in the constellation Scorpius, shortly after sunset.
+
+🧬 Biology & Evolution: Paleontologists have identified a giant new dinosaur species from Brazil, estimated at roughly 20 meters long and dating back about 120 million years.
+
+🗺️ World Cultures & Languages: Leiden University is preparing its "Day of Languages and Cultures" for September 26, offering over 40 workshops spanning six world regions, from deciphering hieroglyphs to learning to read Korean.
+
+➗ Mathematics: Researchers at Binghamton University developed a mathematical strategy that solves the word game Wordle with a 99% success rate.
+
+⚖️ Politics & Law: The U.S. Senate scheduled a key procedural vote today on crypto market-structure legislation after returning from recess, potentially teeing up a full floor vote on the Clarity Act.
+
+🎵 Music: Lady Gaga welcomed her first child with fiancé Michael Polansky this week, while Nashville's airport authority voted to rename the city's airport in honor of Dolly Parton.
