@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 16, 2026
+📚 Daily Knowledge — September 17, 2026
 
 🌐 Top World News
-• BRICS leaders — including Modi, Putin, and Xi Jinping — met in New Delhi and unanimously adopted the "New Delhi Declaration," calling for calm in West Asia, backing a two-state solution, and outlining cooperation on UN reform, energy, and AI; China takes over the bloc's chairship for 2027.
-• Iranian-backed Houthi rebels advanced along Yemen's Red Sea coast, capturing a strategic island in the Bab el-Mandeb Strait and striking Saudi oil facilities, adding fresh pressure on global gas prices.
-• Algeria cut diplomatic ties with the United Arab Emirates and banned Emirati civilian and military aircraft from its airspace, citing "provocative and hostile acts."
+• The US-Iran war grinds into its seventh month: US forces destroyed five Iranian oil tankers in the Gulf of Oman after Iranian missile attacks on a US warship, Iran retaliated by striking targets in Jordan, and the standoff over the Strait of Hormuz has pushed oil prices above $100 a barrel.
+• Saudi Arabia, Pakistan and Turkey's newly signed "Mecca Joint Defense Agreement" mutual-defense pact is reshaping Middle East alliances, aligning three major Sunni powers as the region absorbs the fallout from the Iran conflict.
+• The US Supreme Court blocked the Trump administration's executive order restricting mail-in ballot delivery for the 2026 midterms, ruling that state and local election officials lacked enough time to implement the change fairly.
 
 💻 Technology
-• Apple began testing a redesigned Siri AI ahead of the iPhone 18 launch this week, while Microsoft moved to set limits on its AI models as the industry throttles frontier development.
-• Shanghai AI Laboratory released "Atria Dawn Preview," a 744-billion-parameter agentic AI model built on GLM-5.2 and trained via a new "verifiable experience" pipeline grounding tool use in real environments.
-• President Trump publicly clashed with Anthropic CEO Dario Amodei over AI regulation, arguing the only "guardrail" the country needs is strong presidential oversight rather than industry safety rules.
+• SK Hynix is in talks to manufacture memory chips at Intel's planned Ohio fab — its first US production — as an AI-driven global memory chip shortage pushes prices higher for both data centers and consumers.
+• Micron posted blockbuster fiscal results, with revenue up 345.7% year-over-year to roughly $41.46 billion, beating estimates and underscoring surging AI-driven demand for memory.
+• A federal judge ordered Elon Musk to hand over Apple antitrust settlement terms, while Canada and Germany each pledged up to $150 million to Yoshua Bengio's Montreal-based AI-safety nonprofit, LawZero.
 
-🔬 Science: Researchers found that aging cells can hijack malfunctioning mitochondria to switch on inflammatory genes, helping explain why the immune system gets stuck in a prolonged state of alert as we age.
+🔬 Science: Planetary scientists now say Mercury has shrunk even more than previously thought, while separately a compound found in edible sea squirts appeared to reverse several signs of aging in older mice.
 
-📜 History: On this day in 1908, William C. Durant founded General Motors in Flint, Michigan — a company that would grow into one of the world's largest automakers.
+📜 History: On this day in 1787, delegates to the Constitutional Convention in Philadelphia signed the U.S. Constitution, completing the framework for the new federal government.
 
-🤔 Philosophy: Philosopher Helen McCabe published a piece this month revisiting Harriet Taylor Mill's overlooked 19th-century writing on patriarchy, socioeconomic justice, and freedom.
+🤔 Philosophy: Philosophy academics are increasingly being recruited into AI companies — a shift Oxford's Luciano Floridi has called a "haemorrhaging" of the field — as ideas drawn from Kant, Locke and Socratic questioning are used to curb AI hallucinations and build reasoning safeguards.
 
-🌍 Geography: New volcanic rock samples from Colombia are rewriting the geological timeline of when Central and South America first collided, researchers reported this month.
+🌍 Geography: Newly analyzed volcanic rocks in Colombia suggest the land bridge collision between Central and South America happened millions of years earlier than geologists had previously believed.
 
-💰 Economics: The Federal Reserve's September meeting is in focus this week, with futures markets pricing in roughly an 85% chance of a quarter-point rate hike as inflation continues to outpace wage growth.
+💰 Economics: The Federal Reserve raised interest rates for the first time since 2023, lifting its target range to 3.75%–4%, saying inflation "remains elevated" even as stocks rose on the announcement.
 
-🧠 Psychology: Scientists identified more than 1,200 genetic variants linked to personality traits, finding their effects are largely independent of family upbringing.
+🧠 Psychology: Researchers identified more than 1,200 genetic variants linked to personality traits, finding their effects on how people think, feel and act are largely independent of family upbringing.
 
-🎨 Art & Literature: The 2026 Booker Prize shortlist — drawn from a "Booker Dozen" longlist of 13 novels and chaired by classicist Mary Beard — will be announced September 22 in London.
+🎨 Art & Literature: Australia's 2026 Prime Minister's Literary Awards handed out six AU$80,000 prizes on September 10, including a verse novel about an octopus and a Yolŋu-centred historical novel, while the Booker Prize shortlist is due September 22.
 
-🔭 Astronomy & Space: Astronomers spotted a striking ten-sided atmospheric pattern swirling around Saturn's south pole, a newly discovered southern counterpart to the planet's famous northern hexagon.
+🔭 Astronomy & Space: A striking ten-sided atmospheric pattern has appeared around Saturn's south pole, giving the ringed planet an unexpected southern counterpart to its famous northern hexagon.
 
-🧬 Biology & Evolution: Paleontologists identified a giant new dinosaur species from Brazil, roughly 20 meters long and 120 million years old, with surprising evolutionary ties to a species found in Spain.
+🧬 Biology & Evolution: Scientists identified seven new species of Madagascar's elusive diamond frogs by combining DNA from living animals with century-old museum specimens, solving a long-running taxonomic puzzle.
 
-🗺️ World Cultures & Languages: More than 3,000 of the world's roughly 7,000 languages are now considered endangered, with revitalization efforts increasingly turning to AI tools for documentation and translation.
+🗺️ World Cultures & Languages: Nearly 40% of the world's roughly 7,000 languages are now considered endangered, and AI tools like Google's Woolaroo are increasingly being deployed to help document and revitalize threatened languages such as Louisiana Creole.
 
-➗ Mathematics: OpenAI says an internal model produced a proof that the Navier–Stokes equations break down under certain conditions — a Millennium Prize Problem — though the controversial claim is still drawing heavy scrutiny from mathematicians.
+➗ Mathematics: Mathematicians presented fresh progress this month on finite-time "blow-up" solutions to the Euler and Navier-Stokes equations, chipping away at one of fluid dynamics' most stubborn open problems.
 
-⚖️ Politics & Law: The U.S. Supreme Court issued an emergency order letting the Trump administration proceed with new mail-in voting restrictions ahead of the November midterms, over legal challenges from Democratic-led states.
+⚖️ Politics & Law: Unpopular AI data centers spreading across the US have become a flashpoint in the 2026 midterm campaigns, with candidates in both parties seizing on local anger over power and water use.
 
-🎵 Music: Rock veterans Anthrax and Rage Against the Machine's Tom Morello have new September releases, while Luke Bryan's album "Signs" arrives September 18.
+🎵 Music: Rock veterans Anthrax and Tom Morello of Rage Against the Machine are among the big names releasing new music this September, while Luke Bryan's ninth studio album, "Signs," arrives September 18.
