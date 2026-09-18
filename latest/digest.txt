@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 17, 2026
+📚 Daily Knowledge — September 18, 2026
 
 🌐 Top World News
-• The US-Iran war grinds into its seventh month: US forces destroyed five Iranian oil tankers in the Gulf of Oman after Iranian missile attacks on a US warship, Iran retaliated by striking targets in Jordan, and the standoff over the Strait of Hormuz has pushed oil prices above $100 a barrel.
-• Saudi Arabia, Pakistan and Turkey's newly signed "Mecca Joint Defense Agreement" mutual-defense pact is reshaping Middle East alliances, aligning three major Sunni powers as the region absorbs the fallout from the Iran conflict.
-• The US Supreme Court blocked the Trump administration's executive order restricting mail-in ballot delivery for the 2026 midterms, ruling that state and local election officials lacked enough time to implement the change fairly.
+• President Trump told Axios he faces a "big decision" on whether to "go in and annihilate" the Iranian regime, ahead of a planned Tuesday meeting with six Gulf leaders at the UN General Assembly that could determine whether the seven-month US-Iran war turns to renewed diplomacy or intensified strikes.
+• A UN International Fact-Finding Mission said it found reasonable grounds to believe the United States was behind February strikes on a school and sports facility in Iran, concluding the attacks constituted war crimes.
+• India pushed back on a US threat of 100% tariffs over its purchases of Russian oil, with New Delhi vowing to protect its energy security and economic interests as trade tensions with Washington escalate.
 
 💻 Technology
-• SK Hynix is in talks to manufacture memory chips at Intel's planned Ohio fab — its first US production — as an AI-driven global memory chip shortage pushes prices higher for both data centers and consumers.
-• Micron posted blockbuster fiscal results, with revenue up 345.7% year-over-year to roughly $41.46 billion, beating estimates and underscoring surging AI-driven demand for memory.
-• A federal judge ordered Elon Musk to hand over Apple antitrust settlement terms, while Canada and Germany each pledged up to $150 million to Yoshua Bengio's Montreal-based AI-safety nonprofit, LawZero.
+• Google launched Gemini 3.8 Flash Cyber, a new cybersecurity-focused AI model for government and enterprise customers that it says can detect and patch software vulnerabilities at frontier-level performance while running faster and cheaper than larger models.
+• OpenAI said an internal model helped prove that the Navier-Stokes equations, which describe how fluids move, are "fatally flawed" — a striking claimed math breakthrough announced September 8 that has drawn skepticism from mathematicians.
+• A supply-chain data breach at market-research firm Klue exposed information from roughly 200 companies, including cybersecurity names Jamf, HackerOne and LastPass, while CISA separately warned that Iranian hackers targeted more than 100 US water utilities over the summer.
 
-🔬 Science: Planetary scientists now say Mercury has shrunk even more than previously thought, while separately a compound found in edible sea squirts appeared to reverse several signs of aging in older mice.
+🔬 Science: Scientists say the 2022 Hunga Tonga volcanic eruption may have triggered an unexpected chemical reaction that destroyed some of the methane it released into the atmosphere, a finding that could reshape how researchers estimate and combat methane pollution.
 
-📜 History: On this day in 1787, delegates to the Constitutional Convention in Philadelphia signed the U.S. Constitution, completing the framework for the new federal government.
+📜 History: On September 18, 1851, the first edition of The New York Times was published in New York City, founded by Henry Jarvis Raymond and George Jones.
 
-🤔 Philosophy: Philosophy academics are increasingly being recruited into AI companies — a shift Oxford's Luciano Floridi has called a "haemorrhaging" of the field — as ideas drawn from Kant, Locke and Socratic questioning are used to curb AI hallucinations and build reasoning safeguards.
+🤔 Philosophy: A new complete translation of Plato's Dialogues has been published in print and made freely available online by the Foundation for Platonic Studies, opening the classical texts to a wider modern audience.
 
-🌍 Geography: Newly analyzed volcanic rocks in Colombia suggest the land bridge collision between Central and South America happened millions of years earlier than geologists had previously believed.
+🌍 Geography: Marine scientists rediscovered a deep coral reef off the coast of Benin thought to have died out more than 60 years ago, finding healthy coral patches and multiple fish species thriving over 50 meters below the surface.
 
-💰 Economics: The Federal Reserve raised interest rates for the first time since 2023, lifting its target range to 3.75%–4%, saying inflation "remains elevated" even as stocks rose on the announcement.
+💰 Economics: Markets are bracing for further Fed tightening after a hotter-than-expected August CPI report, with oil prices up sharply this month on Middle East tensions and the Bank of England instead holding rates steady even as UK inflation climbed to 3.1%.
 
-🧠 Psychology: Researchers identified more than 1,200 genetic variants linked to personality traits, finding their effects on how people think, feel and act are largely independent of family upbringing.
+🧠 Psychology: The largest-ever genetic study of borderline personality disorder identified 11 genome regions linked to the condition, revealing shared genetic risk with PTSD, depression and ADHD.
 
-🎨 Art & Literature: Australia's 2026 Prime Minister's Literary Awards handed out six AU$80,000 prizes on September 10, including a verse novel about an octopus and a Yolŋu-centred historical novel, while the Booker Prize shortlist is due September 22.
+🎨 Art & Literature: The Booker Prize will announce its 2026 shortlist of six novels on September 22 at London's Southbank Centre, with a judging panel chaired by classicist Mary Beard alongside poet Raymond Antrobus and musician Jarvis Cocker.
 
-🔭 Astronomy & Space: A striking ten-sided atmospheric pattern has appeared around Saturn's south pole, giving the ringed planet an unexpected southern counterpart to its famous northern hexagon.
+🔭 Astronomy & Space: NASA's Roman Space Telescope launched successfully on a SpaceX Falcon Heavy, beginning a three-month, million-mile journey to its final orbit on its $4.3 billion mission to survey the universe.
 
-🧬 Biology & Evolution: Scientists identified seven new species of Madagascar's elusive diamond frogs by combining DNA from living animals with century-old museum specimens, solving a long-running taxonomic puzzle.
+🧬 Biology & Evolution: Paleontologists identified a giant new dinosaur species from Brazil that stretched roughly 20 meters long and roamed the region about 120 million years ago.
 
-🗺️ World Cultures & Languages: Nearly 40% of the world's roughly 7,000 languages are now considered endangered, and AI tools like Google's Woolaroo are increasingly being deployed to help document and revitalize threatened languages such as Louisiana Creole.
+🗺️ World Cultures & Languages: Nearly 40% of the world's roughly 7,000 languages are now considered endangered, with community-led revitalization efforts — including apps supporting Australia's Yugambeh language — working to pass them on to younger generations.
 
-➗ Mathematics: Mathematicians presented fresh progress this month on finite-time "blow-up" solutions to the Euler and Navier-Stokes equations, chipping away at one of fluid dynamics' most stubborn open problems.
+➗ Mathematics: Mathematicians disproved a geometry rule that had stood for 150 years, discovering two differently shaped doughnut-like surfaces that appear identical under local measurement but are in fact globally distinct.
 
-⚖️ Politics & Law: Unpopular AI data centers spreading across the US have become a flashpoint in the 2026 midterm campaigns, with candidates in both parties seizing on local anger over power and water use.
+⚖️ Politics & Law: The Supreme Court issued a brief ruling in USPS v. California blocking an attempt to restrict mail-in voting ahead of the 2026 midterms, with only Justices Alito and Thomas dissenting.
 
-🎵 Music: Rock veterans Anthrax and Tom Morello of Rage Against the Machine are among the big names releasing new music this September, while Luke Bryan's ninth studio album, "Signs," arrives September 18.
+🎵 Music: Luke Bryan released his ninth studio album, "Signs," today via MCA Nashville and Row Crop Records, while Anthrax also put out a new album, "Cursum Perficio."
