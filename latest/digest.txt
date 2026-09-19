@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 18, 2026
+📚 Daily Knowledge — September 19, 2026
 
 🌐 Top World News
-• President Trump told Axios he faces a "big decision" on whether to "go in and annihilate" the Iranian regime, ahead of a planned Tuesday meeting with six Gulf leaders at the UN General Assembly that could determine whether the seven-month US-Iran war turns to renewed diplomacy or intensified strikes.
-• A UN International Fact-Finding Mission said it found reasonable grounds to believe the United States was behind February strikes on a school and sports facility in Iran, concluding the attacks constituted war crimes.
-• India pushed back on a US threat of 100% tariffs over its purchases of Russian oil, with New Delhi vowing to protect its energy security and economic interests as trade tensions with Washington escalate.
+• Yemen's Houthi rebels seized the strategic Red Sea port of Mokha and the islands of Mayun and Greater/Lesser Hanish near the Bab el-Mandeb Strait, threatening a chokepoint that carries roughly 12% of global shipping.
+• A Kosovo special tribunal convicted former President Hashim Thaçi of war crimes and sentenced him to 25 years in prison.
+• The Asian Games opened in Nagoya, Japan, as South Korea's foreign minister met U.S. counterparts in Washington amid tension over a potential troop deployment to the Strait of Hormuz.
 
 💻 Technology
-• Google launched Gemini 3.8 Flash Cyber, a new cybersecurity-focused AI model for government and enterprise customers that it says can detect and patch software vulnerabilities at frontier-level performance while running faster and cheaper than larger models.
-• OpenAI said an internal model helped prove that the Navier-Stokes equations, which describe how fluids move, are "fatally flawed" — a striking claimed math breakthrough announced September 8 that has drawn skepticism from mathematicians.
-• A supply-chain data breach at market-research firm Klue exposed information from roughly 200 companies, including cybersecurity names Jamf, HackerOne and LastPass, while CISA separately warned that Iranian hackers targeted more than 100 US water utilities over the summer.
+• OpenAI released a legal-research index spanning 230 million URLs, Google rolled out a shared "family agent" for households, and Apple enabled coding agents to drive Safari.
+• Nvidia CEO Jensen Huang said the company expects to sell twice as many AI chips next year as compute demand keeps climbing.
+• Security researchers flagged a wave of AI-agent incidents: a "pinned" plugin turned into a zero-click backdoor across four coding agents, a compromised marketing script spread malicious code to over 100,000 websites, and Spain logged its first data breach attributed to an autonomous AI agent.
 
-🔬 Science: Scientists say the 2022 Hunga Tonga volcanic eruption may have triggered an unexpected chemical reaction that destroyed some of the methane it released into the atmosphere, a finding that could reshape how researchers estimate and combat methane pollution.
+🔬 Science: Indonesia's Anak Krakatau erupted for more than 24 hours in early September, sending ash to 50,000 feet and disrupting nearly 3,000 flights, while separate research found a compound in sea squirts (plasmalogens) that reversed signs of brain aging in mice.
 
-📜 History: On September 18, 1851, the first edition of The New York Times was published in New York City, founded by Henry Jarvis Raymond and George Jones.
+📜 History: On September 19, 1881, President James A. Garfield died from wounds suffered in an assassination attempt two and a half months earlier, and Vice President Chester A. Arthur was sworn in as the 21st U.S. president.
 
-🤔 Philosophy: A new complete translation of Plato's Dialogues has been published in print and made freely available online by the Foundation for Platonic Studies, opening the classical texts to a wider modern audience.
+🤔 Philosophy: Philosophers this month have been debating AI catastrophic risk and revisiting 19th-century thinker Harriet Taylor Mill's writing on patriarchy and economic justice, alongside tributes to the late writer-philosopher Wendell Berry.
 
-🌍 Geography: Marine scientists rediscovered a deep coral reef off the coast of Benin thought to have died out more than 60 years ago, finding healthy coral patches and multiple fish species thriving over 50 meters below the surface.
+🌍 Geography: A deep coral reef off Benin's coast, long presumed dead for 60 years, was found thriving more than 50 meters down, while the USGS completed a cooperative geologic map now covering all 50 U.S. states and territories.
 
-💰 Economics: Markets are bracing for further Fed tightening after a hotter-than-expected August CPI report, with oil prices up sharply this month on Middle East tensions and the Bank of England instead holding rates steady even as UK inflation climbed to 3.1%.
+💰 Economics: U.S. job growth topped expectations in August with 162,000 new jobs, even as delayed inflation data is expected to show a hotter-than-hoped 3.1% reading heading into a pivotal Federal Reserve meeting.
 
-🧠 Psychology: The largest-ever genetic study of borderline personality disorder identified 11 genome regions linked to the condition, revealing shared genetic risk with PTSD, depression and ADHD.
+🧠 Psychology: The largest-ever genetic study of borderline personality disorder identified 11 genome regions shared with PTSD, depression, and ADHD, while separate research found that a sense of meaning at work protects against future burnout.
 
-🎨 Art & Literature: The Booker Prize will announce its 2026 shortlist of six novels on September 22 at London's Southbank Centre, with a judging panel chaired by classicist Mary Beard alongside poet Raymond Antrobus and musician Jarvis Cocker.
+🎨 Art & Literature: The 2026 Booker Prize longlist of 13 novels, chaired by classicist Mary Beard, was drawn from 163 submissions, with the shortlist to be announced September 22 in London.
 
-🔭 Astronomy & Space: NASA's Roman Space Telescope launched successfully on a SpaceX Falcon Heavy, beginning a three-month, million-mile journey to its final orbit on its $4.3 billion mission to survey the universe.
+🔭 Astronomy & Space: Venus is nearing its brightest point of the year in the evening sky, and ESA's JUICE spacecraft is set for its first Earth flyby this month en route to Jupiter's icy moons.
 
-🧬 Biology & Evolution: Paleontologists identified a giant new dinosaur species from Brazil that stretched roughly 20 meters long and roamed the region about 120 million years ago.
+🧬 Biology & Evolution: Paleontologists described a giant new 20-meter-long dinosaur from Brazil that lived 120 million years ago, while geneticists showed the extinct "American cheetah" was actually a puma relative, not a true cheetah.
 
-🗺️ World Cultures & Languages: Nearly 40% of the world's roughly 7,000 languages are now considered endangered, with community-led revitalization efforts — including apps supporting Australia's Yugambeh language — working to pass them on to younger generations.
+🗺️ World Cultures & Languages: Leiden University is hosting its annual Day of Languages and Cultures on September 26, with workshops ranging from deciphering hieroglyphs and cuneiform to preserving endangered languages.
 
-➗ Mathematics: Mathematicians disproved a geometry rule that had stood for 150 years, discovering two differently shaped doughnut-like surfaces that appear identical under local measurement but are in fact globally distinct.
+➗ Mathematics: University of Chicago mathematician Yu Deng was honored for breakthroughs on Hilbert's Sixth Problem, part of a wider wave of AI-assisted proofs — including a DeepMind/IAS system that cracked the Sylvester-Gallai conjecture — reshaping mathematical research this year.
 
-⚖️ Politics & Law: The Supreme Court issued a brief ruling in USPS v. California blocking an attempt to restrict mail-in voting ahead of the 2026 midterms, with only Justices Alito and Thomas dissenting.
+⚖️ Politics & Law: The U.S. Supreme Court rejected the Trump administration's executive order restricting mail-in ballots ahead of the 2026 midterms, even as the same court separately allowed White House ballroom construction to proceed over a dissent from Chief Justice Roberts.
 
-🎵 Music: Luke Bryan released his ninth studio album, "Signs," today via MCA Nashville and Row Crop Records, while Anthrax also put out a new album, "Cursum Perficio."
+🎵 Music: Rock acts dominated new September releases, with Kasabian's "Act III," Luke Bryan's "Signs," and Anthrax's twelfth studio album "Cursum Perficio" all landing this month.
