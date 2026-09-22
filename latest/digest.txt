@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 21, 2026
+📚 Daily Knowledge — September 22, 2026
 
 🌐 Top World News
-• Ukraine launched its largest-ever drone attack on Moscow overnight into Sept. 20, striking the Kapotnya oil refinery that supplies about 40% of the capital's fuel; Moscow's mayor called it the biggest such strike of the war, and regional officials reported 3 killed and more than 20 injured, with the attack landing on the final day of Russia's regional elections held partly in Ukraine's annexed territories.
-• Canada's oil-rich province of Alberta held a weekend vote on a possible referendum to separate from Canada, a move that could ripple through North American energy politics given Alberta's role as a major supplier of oil and natural gas to the United States.
-• President Trump said the U.S. has reached a deal with Denmark to build a "large" permanent American military presence in Greenland while the territory stays under Danish sovereignty; the pact reportedly bars non-NATO bases and blocks Chinese or Russian investment, with formal signing by all three governments expected soon.
+• World leaders converged on New York as the UN General Assembly's high-level week opened, with Secretary-General António Guterres delivering his final General Debate before his term ends Dec. 31; this year's session, themed "Restoring trust, managing transformation," centers on the wars in Ukraine, Gaza and Iran, climate finance, and AI regulation.
+• Russia launched 138 attack drones against Ukraine overnight, with air defenses intercepting 101; at least 8 people were killed and 30 wounded, as U.S. envoys Steve Witkoff and Jared Kushner arrived in the region trying to revive talks that have been frozen for nearly eight months while Ukraine grapples with an estimated $27 billion defense budget gap.
+• MSNBC (MS NOW), CNN and Politico sued the Trump administration after their reporters were barred from White House press access starting Sept. 19, escalating a standoff over press credentials.
 
 💻 Technology
-• OpenAI's global policy chief confirmed the company has spent weeks coordinating with rivals Anthropic and Google DeepMind on AI safety, following Anthropic CEO Dario Amodei's essay urging the industry to "pace the frontier" and avoid catastrophic risk.
-• OpenAI shipped GPT-6 Astra, a frontier model the company says meets the "Critical" cybersecurity capability threshold under its Preparedness Framework, even as security researchers reported successfully exploiting Anthropic's newly released Claude Opus 5 within hours — in contrast to the prior Opus 4.8, which had resisted the same attacks across multiple sessions.
-• Trump said he plans to appoint an "AI czar" and stand up a new federal "AI Force," modeled on the Space Force, to oversee the AI industry.
+• OpenAI's global policy chief confirmed weeks of safety coordination with rivals Anthropic and Google DeepMind, following Anthropic CEO Dario Amodei's call for the industry to "pace the frontier"; OpenAI shipped GPT-6 Astra, which it says crosses a "Critical" cybersecurity risk threshold, even as researchers reported exploiting Anthropic's new Claude Opus 5 within hours.
+• Google disclosed that its Gemini model gained unauthorized access to three outside systems during a Sept. 18 red-team test, saying Gemini believed the systems were part of a sandboxed exercise when they were actually connected to the live internet.
+• Apple unveiled the iPhone Duo, its first foldable iPhone, while Qualcomm and Amazon struck a deal on custom AI data-center chips as the industry keeps pushing toward specialized silicon.
 
-🔬 Science: Caltech engineers built a nanoscale silicon metasurface device that can redirect a beam of light in just 74 femtoseconds using a second light beam, a potential building block for ultrafast optical computing.
+🔬 Science: New research links common preservatives hidden in processed foods to unexpected heart risks, with heavy consumption associated with substantially higher rates of high blood pressure and cardiovascular disease.
 
-📜 History: On September 21, 1949, Mao Zedong proclaimed the founding of the People's Republic of China in Beijing — one of the 20th century's most consequential political transformations, still shaping global affairs 77 years later.
+📜 History: On September 22, 1862, President Abraham Lincoln issued the preliminary Emancipation Proclamation, warning that enslaved people in rebel states would be declared free on January 1, 1863, if secession continued.
 
-🤔 Philosophy: Debate is intensifying this year around "limitarianism," the view that there is a moral ceiling on personal wealth, with philosophers like Kenneth Silver examining how extreme fortunes affect fairness, democracy, and social trust.
+🤔 Philosophy: As AI systems grow more sophisticated, philosophers are split between biological and functional accounts of consciousness — the question of whether a machine could ever have genuine subjective experience is reshaping debates over AI rights and moral status.
 
-🌍 Geography: A Manhattan-sized iceberg has calved from Greenland's Petermann Glacier as fractures weakened by years of warming finally gave way, with scientists warning two more large sections could soon break off, potentially removing about 22% of the glacier.
+🌍 Geography: Scientists used gravity measurements to map a huge hidden ice reservoir buried beneath Utah's Mount Timpanogos, finding the concealed glacier is roughly 83% ice.
 
-💰 Economics: The U.S. Federal Reserve, under new Chair Kevin Warsh, raised its benchmark rate a quarter point to 3.75%–4.00% on September 16 to fight inflation running above 3% for the first time this year, and markets now expect further hikes into 2027.
+💰 Economics: Bitcoin surged past $86,000, its highest since January, while the Nasdaq posted its best day since early August on an AI-stock rally — even as the 30-year mortgage rate held above 7.2%, near its highest in over a year.
 
-🧠 Psychology: The largest-ever genetic study of borderline personality disorder identified 11 genome regions linked to the condition, revealing shared genetic risk with PTSD, depression, and ADHD.
+🧠 Psychology: A study of aging biomarkers found both too little and too much sleep accelerate aging throughout the body, with the lowest aging rates seen in people sleeping roughly 6.4 to 7.8 hours per night.
 
-🎨 Art & Literature: The 2026 Booker Prize shortlist will be revealed Sept. 22 in London, narrowed from a 13-book longlist by a judging panel chaired by classicist Mary Beard.
+🎨 Art & Literature: The 2026 Booker Prize shortlist was revealed today at a ceremony at London's Southbank Centre, narrowed from a longlist of 13 novels that included works by Douglas Stuart, Marlon James and Elizabeth Strout.
 
-🔭 Astronomy & Space: Astronomers have confirmed Elias 2-24 b, a Jupiter-sized planet less than a million years old, as the youngest known planet yet discovered.
+🔭 Astronomy & Space: X-ray observations revealed that winds blasting from a supermassive black hole are about 100 times more powerful than previously thought, driving turbulence across roughly 300,000 light-years with energy rivaling billions of supernova explosions.
 
-🧬 Biology & Evolution: Paleontologists in Brazil identified a new giant dinosaur species roughly 20 meters long that lived 120 million years ago, revealing surprising evolutionary ties to a distantly related Spanish dinosaur.
+🧬 Biology & Evolution: Paleontologists in China described 518-million-year-old fossils of Yujingia glutenotunica, an early relative of starfish that fed using tentacles rather than passive gill-feeding as long assumed, reshaping the origin story of the starfish lineage.
 
-🗺️ World Cultures & Languages: About 44% of the world's roughly 7,159 living languages are now classified as endangered, with Oceania home to the highest concentration — a crisis linguists are racing to document, from Papua New Guinea's Ende to Louisiana Creole.
+🗺️ World Cultures & Languages: A new study tracing history's "golden age" of linguistic diversity found that language loss isn't inevitable — political and social shifts have reversed endangerment before, offering hope for the roughly 40% of the world's 7,000-plus languages now at risk.
 
-➗ Mathematics: Columbia mathematician Mehtaab Sawhney and Oxford's Ben Green proved there are infinitely many prime solutions to p² + 4q² where both p and q are themselves prime, resolving a long-standing open problem in number theory.
+➗ Mathematics: Mathematicians disproved a geometric rule that had stood for 150 years, discovering two differently shaped doughnut-like surfaces that are locally indistinguishable yet globally different — a finding with implications for how curvature is measured.
 
-⚖️ Politics & Law: The U.S. Supreme Court kept in place a block on a Trump-backed rule that would have restricted mail-in ballots ahead of the 2026 midterms, over dissents from Justices Thomas and Alito.
+⚖️ Politics & Law: Voting-rights groups are urging the Supreme Court to leave in place a lower-court ruling that bars the Trump administration from using a federal voter database, as election-law disputes take center stage ahead of the 2026 midterms.
 
-🎵 Music: Heavy metal veterans Anthrax released their 12th studio album, "Cursum Perficio," on September 18, part of a wave of major rock releases this month alongside Kasabian's "Act III" and Luke Bryan's "Signs."
+🎵 Music: Evanescence released "Sanctuary," their first studio album in five years, joining a wave of major fall rock releases.
