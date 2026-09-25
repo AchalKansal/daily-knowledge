@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 24, 2026
+📚 Daily Knowledge — September 25, 2026
 
 🌐 Top World News
-• At the UN General Assembly in New York, Iranian Foreign Minister Abbas Araghchi met for roughly three hours with U.S. officials Steve Witkoff and Jared Kushner after President Trump's address, with Trump warning he may "annihilate" Iran if no deal is reached to end the war and reopen the Strait of Hormuz.
-• Canadian PM Mark Carney pledged C$100 million in assistance for Palestine — C$80 million in humanitarian aid and C$20 million for peace and security — ahead of talks with the UK's Andy Burnham, France's Emmanuel Macron, and Saudi Arabia's Prince Faisal bin Farhan on a two-state solution.
-• A new book by Charles Spencer, Princess Diana's brother, has made headlines with allegations about King Charles III, prompting a strongly worded response from Buckingham Palace.
+• Ukraine's Zelenskyy said Kyiv is ready for an "energy ceasefire" if Russia halts strikes on its power and water infrastructure, and pressed Trump to arrange a trilateral summit with Putin, as representatives from 51 countries urged Moscow to accept an immediate, unconditional ceasefire.
+• Four months into the Gaza ceasefire, a UN mediator warned that stalled follow-on talks risk cementing a permanent division of the territory, leaving roughly two million Palestinians facing a shrinking future amid ongoing malnutrition and winter hardship.
+• Tigrayan forces seized control of several airports in northern Ethiopia, sharply escalating tensions in the region.
 
 💻 Technology
-• Anthropic released Claude Opus 5.5, the first model in its new Claude 5.5 family, promising performance comparable to its higher-end Claude Fable 5.1 while substantially cutting operating costs.
-• OpenAI hired Patreon co-founder Sam Yam to lead a new Creator Product group ahead of its September 29 DevDay, aiming to build tools for online creators and their communities.
-• NASA offered a Launch Services II contract to Relativity Space, letting its Terran R rocket compete for missions between 2030 and 2032, as SpaceX separately targets September 28 for Starship's next test flight.
+• Google, OpenAI, and Anthropic are reportedly organizing a voluntary "Frontier AI Standards Agency" to set shared safety audits and testing protocols across the AI industry without direct government oversight, and have approached former White House AI adviser Sriram Krishnan to lead it.
+• Anthropic's new life-sciences research group disclosed its first result: its Claude models autonomously flagged a previously uncharacterized bacteriophage enzyme system whose structure resembles CRISPR arrays.
+• Chinese AI startup DeepSeek's annualized revenue run rate has reportedly topped $1 billion, more than double what it was just months ago, underscoring fast-growing competition in global AI.
 
-🔬 Science: Engineers unveiled a solar-powered desalination system that turns seawater into fresh water while removing nearly all the leftover salt as a reusable solid rather than discharging it as harmful brine.
+🔬 Science: Researchers found that an aperiodic "einstein" tiling pattern — famous for covering a surface without ever repeating — can twist light into unusual chiral patterns, an unexpected optical property emerging from pure geometry.
 
-📜 History: On September 24, 1789, the U.S. Congress passed the Judiciary Act, officially establishing the Supreme Court and the federal court system.
+📜 History: On September 25, 1890, the U.S. Congress established Sequoia National Park in California, protecting the world's largest trees and creating the country's second national park.
 
-🤔 Philosophy: The longlist for the 2026 Nayef Al-Rodhan International Book Prize in Transdisciplinary Philosophy — a £20,000 award for research that bridges philosophy with other academic disciplines — was announced this month.
+🤔 Philosophy: A widely discussed 2026 study argues that today's generative AI agents meet three classic philosophical conditions for free will — goal-directed agency, genuine choice, and control over actions — reigniting debate over machine autonomy and moral responsibility.
 
-🌍 Geography: Indonesia's Anak Krakatau volcano erupted for more than 24 hours in early September, sending ash up to 50,000 feet and shutting down eight airports, disrupting nearly 3,000 flights.
+🌍 Geography: Swiss glaciologists say 2026 is on track to be one of the worst years for Alpine glaciers on record, with the Bella Tola and Urirotstock glaciers officially declared extinct in August after low snowfall and repeated summer heatwaves.
 
-💰 Economics: UK inflation jumped to 3.1% this month as soaring energy costs pushed prices higher, even as firms in both manufacturing and services plan further price increases to offset rising costs.
+💰 Economics: The Federal Reserve raised its benchmark rate a quarter point to 3.75%–4.00% at its September 16 meeting to combat inflation that remains above target, even as U.S. unemployment eased to 4.1% on stronger-than-expected job growth.
 
-🧠 Psychology: A study of over 4,000 people found intellectual humility comes in two distinct forms, only one of which is consistently linked to better well-being over time.
+🧠 Psychology: A three-year study of nearly 4,000 adults aged 19 to 94 found that brain health and cognitive sharpness can improve at any age, challenging the assumption that mental decline is inevitable with aging.
 
-🎨 Art & Literature: PEN America announced the winners of its 2026 Literary Awards, recognizing outstanding work across fiction, nonfiction, poetry, and translation.
+🎨 Art & Literature: The 2026 Booker Prize shortlist of six novels was announced on September 22, featuring past winners Marlon James and Douglas Stuart alongside Elizabeth Strout, with the winner to be revealed November 9 in London.
 
-🔭 Astronomy & Space: A huge ten-sided atmospheric pattern has been spotted around Saturn's south pole, giving the ringed planet a surprising counterpart to its famous northern hexagon.
+🔭 Astronomy & Space: Astronomers confirmed Elias 2-24 b, a Jupiter-sized planet less than a million years old, as the youngest known planet ever observed, offering a rare glimpse of a world still being born.
 
-🧬 Biology & Evolution: Researchers described a new frog species from the flooded forests of the western Amazon, distinguishing it from nearly identical relatives through DNA analysis and its unique call.
+🧬 Biology & Evolution: Scientists identified seven new species of Madagascar's elusive diamond frogs by combining DNA from living animals with century-old museum specimens, solving a decades-old taxonomic puzzle.
 
-🗺️ World Cultures & Languages: A gold ring engraved with ancient Brahmi script — reading "the one protected by Pushya" — was unearthed at Thailand's Don Yai Thong site, evidence of 2,000-year-old trade networks linking India and Southeast Asia.
+🗺️ World Cultures & Languages: Of the world's roughly 7,159 languages, an estimated 44% are now endangered, with Oceania home to the highest concentration — prompting projects like a new book documenting Ende, a Papua New Guinea language spoken by fewer than 1,000 people.
 
-➗ Mathematics: Researchers paired an AI system called LeanMind with DeepMind to find a proof related to the long-studied Sylvester-Gallai conjecture, with the result formally checked by the Coq proof-verification system.
+➗ Mathematics: Researchers from Oxford and MIT combined combinatorial design theory with quantum annealing to construct explicit Hadamard matrices for every order up to 1,000, then extended the technique into a general proof of the long-standing Hadamard conjecture.
 
-⚖️ Politics & Law: The Trump administration asked the Supreme Court to allow a new Postal Service rule affecting mail-in ballots to proceed, after a federal judge issued a temporary restraining order blocking parts of it ahead of the midterms.
+⚖️ Politics & Law: CNN, MS NOW, and Politico asked a federal judge to block what they describe as retaliatory actions by the Trump administration over its coverage of the president, arguing the moves violate their constitutional press rights.
 
-🎵 Music: Taylor Swift announced a new song arriving before the end of September, part of an EP titled "The Life of a Showgirl: The Encore" featuring four additional tracks.
+🎵 Music: Taylor Swift revealed a new single, "Patient Zero," and a deluxe edition of "The Life of a Showgirl" set for release before month's end, timed to VMA and Grammy voting season.
