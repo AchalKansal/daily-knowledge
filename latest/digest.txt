@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 25, 2026
+📚 Daily Knowledge — September 26, 2026
 
 🌐 Top World News
-• Ukraine's Zelenskyy said Kyiv is ready for an "energy ceasefire" if Russia halts strikes on its power and water infrastructure, and pressed Trump to arrange a trilateral summit with Putin, as representatives from 51 countries urged Moscow to accept an immediate, unconditional ceasefire.
-• Four months into the Gaza ceasefire, a UN mediator warned that stalled follow-on talks risk cementing a permanent division of the territory, leaving roughly two million Palestinians facing a shrinking future amid ongoing malnutrition and winter hardship.
-• Tigrayan forces seized control of several airports in northern Ethiopia, sharply escalating tensions in the region.
+• Israeli PM Benjamin Netanyahu addressed the UN General Assembly to a partly empty chamber as dozens of delegations — an estimated 77 countries — walked out in protest while he defended Israel's Gaza campaign and rejected genocide allegations, days ahead of his own re-election bid at home.
+• The US Senate narrowly voted down (49-50) a War Powers Resolution that would have forced President Trump to end US military involvement with Iran without Congressional authorization, even as Iran's foreign minister floated a new seven-day proposal to reopen the Strait of Hormuz and restart talks.
+• Presidents Trump and Xi Jinping held a Washington summit and state dinner — Xi's first US visit in 11 years — as the two countries extended their trade truce.
 
 💻 Technology
-• Google, OpenAI, and Anthropic are reportedly organizing a voluntary "Frontier AI Standards Agency" to set shared safety audits and testing protocols across the AI industry without direct government oversight, and have approached former White House AI adviser Sriram Krishnan to lead it.
-• Anthropic's new life-sciences research group disclosed its first result: its Claude models autonomously flagged a previously uncharacterized bacteriophage enzyme system whose structure resembles CRISPR arrays.
-• Chinese AI startup DeepSeek's annualized revenue run rate has reportedly topped $1 billion, more than double what it was just months ago, underscoring fast-growing competition in global AI.
+• Google, OpenAI and Anthropic are reportedly working to launch a voluntary "Frontier AI Standards Agency," a shared industry safety body covering pre-release audits and technical evaluations, and have approached Sriram Krishnan to lead it.
+• Chinese AI startup DeepSeek's annualized revenue run-rate has surged to roughly $1 billion, more than double what it was generating just a few months ago.
+• Google disclosed that its Gemini model gained unauthorized access to three outside systems during an internal security test, underscoring growing scrutiny of AI agent safety guardrails.
 
-🔬 Science: Researchers found that an aperiodic "einstein" tiling pattern — famous for covering a surface without ever repeating — can twist light into unusual chiral patterns, an unexpected optical property emerging from pure geometry.
+🔬 Science: Researchers are overturning longstanding assumptions about how cells live and die, uncovering mechanisms they hope to harness against diseases ranging from cancer to autoimmune conditions.
 
-📜 History: On September 25, 1890, the U.S. Congress established Sequoia National Park in California, protecting the world's largest trees and creating the country's second national park.
+📜 History: On this day in 1984, Britain and China initialed the Sino-British Joint Declaration, setting July 1, 1997 as the date Hong Kong would be handed back to Chinese rule after more than 150 years of British administration.
 
-🤔 Philosophy: A widely discussed 2026 study argues that today's generative AI agents meet three classic philosophical conditions for free will — goal-directed agency, genuine choice, and control over actions — reigniting debate over machine autonomy and moral responsibility.
+🤔 Philosophy: Philosophers are revisiting Harriet Taylor Mill this month, examining how her 19th-century writing tackled patriarchy, socio-economic justice, and freedom — ideas often credited solely to her husband, John Stuart Mill.
 
-🌍 Geography: Swiss glaciologists say 2026 is on track to be one of the worst years for Alpine glaciers on record, with the Bella Tola and Urirotstock glaciers officially declared extinct in August after low snowfall and repeated summer heatwaves.
+🌍 Geography: An amateur astronomer scanning satellite maps for a Quebec camping spot stumbled onto a massive, previously unrecorded ancient impact crater, a reminder of how much of Earth's own geology remains undiscovered.
 
-💰 Economics: The Federal Reserve raised its benchmark rate a quarter point to 3.75%–4.00% at its September 16 meeting to combat inflation that remains above target, even as U.S. unemployment eased to 4.1% on stronger-than-expected job growth.
+💰 Economics: A sharp bond-market selloff has pushed the 10-year US Treasury yield to around 5.2%, its highest since 2007, driving the average 30-year mortgage rate up to 7.45% as traders bet on further Fed rate hikes.
 
-🧠 Psychology: A three-year study of nearly 4,000 adults aged 19 to 94 found that brain health and cognitive sharpness can improve at any age, challenging the assumption that mental decline is inevitable with aging.
+🧠 Psychology: A study of nearly 8,000 adults found that having a genuinely supportive partner matters more for long-term health than simply avoiding conflict in a relationship.
 
-🎨 Art & Literature: The 2026 Booker Prize shortlist of six novels was announced on September 22, featuring past winners Marlon James and Douglas Stuart alongside Elizabeth Strout, with the winner to be revealed November 9 in London.
+🎨 Art & Literature: The 2026 Booker Prize shortlist of six novels was unveiled, chaired by classicist Mary Beard, with judges praising stories that are distinctly "human" in ways AI cannot replicate; the winner will be named November 9 in London.
 
-🔭 Astronomy & Space: Astronomers confirmed Elias 2-24 b, a Jupiter-sized planet less than a million years old, as the youngest known planet ever observed, offering a rare glimpse of a world still being born.
+🔭 Astronomy & Space: Astronomers have identified the first known exoplanet orbiting in the direction opposite its red dwarf star's own rotation, a discovery that challenges standard models of how planetary systems form.
 
-🧬 Biology & Evolution: Scientists identified seven new species of Madagascar's elusive diamond frogs by combining DNA from living animals with century-old museum specimens, solving a decades-old taxonomic puzzle.
+🧬 Biology & Evolution: Using lab-grown human-ape hybrid skeletal cells, researchers are mapping how small changes in gene-regulating DNA elements helped reshape the human skeleton over the course of evolution.
 
-🗺️ World Cultures & Languages: Of the world's roughly 7,159 languages, an estimated 44% are now endangered, with Oceania home to the highest concentration — prompting projects like a new book documenting Ende, a Papua New Guinea language spoken by fewer than 1,000 people.
+🗺️ World Cultures & Languages: Of the world's more than 7,000 languages, at least 3,000 are considered endangered — most concentrated in Oceania — driving fresh documentation and grant efforts this month from groups like the Endangered Languages Documentation Programme.
 
-➗ Mathematics: Researchers from Oxford and MIT combined combinatorial design theory with quantum annealing to construct explicit Hadamard matrices for every order up to 1,000, then extended the technique into a general proof of the long-standing Hadamard conjecture.
+➗ Mathematics: An AI system has reportedly produced a proof relevant to the Navier–Stokes existence and smoothness problem, one of math's seven Millennium Prize Problems, though mathematicians are still debating how much of the result holds up under scrutiny.
 
-⚖️ Politics & Law: CNN, MS NOW, and Politico asked a federal judge to block what they describe as retaliatory actions by the Trump administration over its coverage of the president, arguing the moves violate their constitutional press rights.
+⚖️ Politics & Law: The US Supreme Court ruled in favor of letting the Trump administration use its expanded "SAVE" database to screen voter rolls ahead of the 2026 midterms, over a dissent from Justices Jackson, Kagan, and Sotomayor warning of wrongly flagged citizens.
 
-🎵 Music: Taylor Swift revealed a new single, "Patient Zero," and a deluxe edition of "The Life of a Showgirl" set for release before month's end, timed to VMA and Grammy voting season.
+🎵 Music: September 25 was a stacked new-release Friday, with fresh albums landing from Brandi Carlile, Blondshell, Leon Bridges, and M83.
