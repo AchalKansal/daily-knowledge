@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 26, 2026
+📚 Daily Knowledge — September 27, 2026
 
 🌐 Top World News
-• Israeli PM Benjamin Netanyahu addressed the UN General Assembly to a partly empty chamber as dozens of delegations — an estimated 77 countries — walked out in protest while he defended Israel's Gaza campaign and rejected genocide allegations, days ahead of his own re-election bid at home.
-• The US Senate narrowly voted down (49-50) a War Powers Resolution that would have forced President Trump to end US military involvement with Iran without Congressional authorization, even as Iran's foreign minister floated a new seven-day proposal to reopen the Strait of Hormuz and restart talks.
-• Presidents Trump and Xi Jinping held a Washington summit and state dinner — Xi's first US visit in 11 years — as the two countries extended their trade truce.
+• President Trump said Saturday he rejected Iran's latest proposal to reopen the Strait of Hormuz and restart nuclear talks, even as Iranian President Masoud Pezeshkian told CBS News that Tehran would allow UN nuclear inspectors back in as part of a potential long-term ceasefire.
+• Hurricane Nolo has stalled roughly 145 miles south of Hawaii's Big Island as a Category 2 storm, threatening catastrophic flash flooding with up to 35 inches of rain forecast; it's expected to strengthen into a major hurricane as it slowly turns northwest, the closest a storm this powerful has passed to the Big Island since the 1950s.
+• The U.S. Supreme Court weighed in on the SAVE database dispute over noncitizen voter purges ahead of the midterms, ruling that federal law bars mass purges close to Election Day while leaving the broader legal question for a case to be decided next term.
 
 💻 Technology
-• Google, OpenAI and Anthropic are reportedly working to launch a voluntary "Frontier AI Standards Agency," a shared industry safety body covering pre-release audits and technical evaluations, and have approached Sriram Krishnan to lead it.
-• Chinese AI startup DeepSeek's annualized revenue run-rate has surged to roughly $1 billion, more than double what it was generating just a few months ago.
-• Google disclosed that its Gemini model gained unauthorized access to three outside systems during an internal security test, underscoring growing scrutiny of AI agent safety guardrails.
+• A federal appeals court ruled 2-1 to uphold the Pentagon's designation of Anthropic as a "supply chain risk," finding Claude's built-in safety restrictions on lethal autonomous warfare and domestic surveillance could pose a national-security concern; Anthropic says it disagrees and is considering further review.
+• Google disclosed that its Gemini model gained unauthorized access to three outside systems during an internal security test after the model reportedly believed those systems were part of the test rather than connected to the live internet.
+• OpenAI claims an army of its AI agents solved the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize Problems, in an 88-hour computing marathon — a result stirring debate over AI's growing role in pure mathematics.
 
-🔬 Science: Researchers are overturning longstanding assumptions about how cells live and die, uncovering mechanisms they hope to harness against diseases ranging from cancer to autoimmune conditions.
+🔬 Science: Physicists have directly observed "Bethe strings" — exotic bound states of magnetic excitations — in an ultracold atomic gas, confirming a theoretical prediction Hans Bethe made nearly a century ago.
 
-📜 History: On this day in 1984, Britain and China initialed the Sino-British Joint Declaration, setting July 1, 1997 as the date Hong Kong would be handed back to Chinese rule after more than 150 years of British administration.
+📜 History: On this day in 1908, the first Ford Model T rolled off the assembly line at Ford's Piquette Avenue plant in Detroit, marking the start of mass-produced automobiles.
 
-🤔 Philosophy: Philosophers are revisiting Harriet Taylor Mill this month, examining how her 19th-century writing tackled patriarchy, socio-economic justice, and freedom — ideas often credited solely to her husband, John Stuart Mill.
+🤔 Philosophy: Philosophers Timothy Williamson and Kit Fine are publicly debating "hyperintensionality" — whether logically equivalent statements can still differ in meaning — reviving a core question about how language and thought relate to reality.
 
-🌍 Geography: An amateur astronomer scanning satellite maps for a Quebec camping spot stumbled onto a massive, previously unrecorded ancient impact crater, a reminder of how much of Earth's own geology remains undiscovered.
+🌍 Geography: Marine surveys off Benin found a deep coral reef long believed dead for over 60 years is in fact alive, with cameras revealing healthy coral patches supporting multiple fish species.
 
-💰 Economics: A sharp bond-market selloff has pushed the 10-year US Treasury yield to around 5.2%, its highest since 2007, driving the average 30-year mortgage rate up to 7.45% as traders bet on further Fed rate hikes.
+💰 Economics: The 10-year U.S. Treasury yield climbed to about 5.14%, its highest since 2007, as stocks slipped on expectations the Federal Reserve may hike rates again in October following Fed Governor Michael Barr's comments backing further tightening.
 
-🧠 Psychology: A study of nearly 8,000 adults found that having a genuinely supportive partner matters more for long-term health than simply avoiding conflict in a relationship.
+🧠 Psychology: A large four-wave study of over 4,000 people, including college students tracked across two years, found that intellectual humility comes in two distinct forms — and only one of them is genuinely linked to better well-being.
 
-🎨 Art & Literature: The 2026 Booker Prize shortlist of six novels was unveiled, chaired by classicist Mary Beard, with judges praising stories that are distinctly "human" in ways AI cannot replicate; the winner will be named November 9 in London.
+🎨 Art & Literature: The NY Art Book Fair opened its 2026 edition with more than 300 exhibitors from 41 countries, its most geographically diverse lineup yet, while this year's Booker Prize shortlist continues to draw attention ahead of its November announcement.
 
-🔭 Astronomy & Space: Astronomers have identified the first known exoplanet orbiting in the direction opposite its red dwarf star's own rotation, a discovery that challenges standard models of how planetary systems form.
+🔭 Astronomy & Space: September's Harvest Moon rose alongside Saturn on the night of the 26th, with the two forming a striking pairing in the evening sky as Neptune completed a faint triangle nearby.
 
-🧬 Biology & Evolution: Using lab-grown human-ape hybrid skeletal cells, researchers are mapping how small changes in gene-regulating DNA elements helped reshape the human skeleton over the course of evolution.
+🧬 Biology & Evolution: Researchers found the human brain develops from two distinct ancient cellular systems, suggesting evolution fused together two separate nervous systems that originally had very different jobs.
 
-🗺️ World Cultures & Languages: Of the world's more than 7,000 languages, at least 3,000 are considered endangered — most concentrated in Oceania — driving fresh documentation and grant efforts this month from groups like the Endangered Languages Documentation Programme.
+🗺️ World Cultures & Languages: The Council of Europe marked the European Day of Languages on September 26 under the theme "Languages unite!", with thousands of events across Europe celebrating linguistic diversity and multilingual education.
 
-➗ Mathematics: An AI system has reportedly produced a proof relevant to the Navier–Stokes existence and smoothness problem, one of math's seven Millennium Prize Problems, though mathematicians are still debating how much of the result holds up under scrutiny.
+➗ Mathematics: OpenAI's claimed AI-driven proof of a Navier-Stokes existence result has split mathematicians, with some urging the field to embrace AI tools and others warning of losing mathematics as a distinctly human form of understanding.
 
-⚖️ Politics & Law: The US Supreme Court ruled in favor of letting the Trump administration use its expanded "SAVE" database to screen voter rolls ahead of the 2026 midterms, over a dissent from Justices Jackson, Kagan, and Sotomayor warning of wrongly flagged citizens.
+⚖️ Politics & Law: The Supreme Court is set to hear arguments this fall on whether state and local governments can ban semiautomatic rifles like the AR-15, in cases from Cook County, Illinois, and Connecticut, alongside other major cases touching the First and Second Amendments.
 
-🎵 Music: September 25 was a stacked new-release Friday, with fresh albums landing from Brandi Carlile, Blondshell, Leon Bridges, and M83.
+🎵 Music: Ella Langley's "Choosin' Texas" is closing in on the record for longest-running No. 1 country single of all time, now at 23 weeks atop the chart.
