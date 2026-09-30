@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 29, 2026
+📚 Daily Knowledge — September 30, 2026
 
 🌐 Top World News
-• A Russian drone strike hit Kyiv's National Academy of Sciences and a nearby medical center, killing several people, as Russia carried out some of its most persistent drone attacks on the Ukrainian capital since the war began.
-• South Korea's military said landmine blasts in the Demilitarized Zone were likely of North Korean origin, as Pyongyang's Vice Foreign Minister told the UN General Assembly that North Korea's nuclear-armed status is "irreversible."
-• Israeli settlers reportedly torched Palestinian homes on the outskirts of a West Bank village overnight, as the IDF moved to enforce a court order requiring the return of Palestinian families to homes seized by settlers in July.
+• Kyiv came under a fresh Russian ballistic missile attack early Wednesday, following a day of intensified strikes involving more than 100 drones and guided bombs, as Pope Leo XIV urged European leaders to make concessions "for the sake of peace" in Ukraine.
+• Gaza's ceasefire remained under strain as Israel reported 18 violations by Hamas and other groups between September 15–29 and two more Palestinians were killed in an Israeli strike, while the US-backed Board of Peace's $2.45 billion recovery plan stayed stalled over disputes on Hamas disarmament and Israeli withdrawal.
+• The US-Iran conflict over the Strait of Hormuz entered its eighth month, with US envoy Mike Waltz dismissing Tehran's latest ceasefire proposal as "cynical" and Iran's foreign minister warning the country is prepared for a "doomsday war."
 
 💻 Technology
-• SpaceX's Starship reached orbit for the first time on its 14th test flight, launching from Starbase, Texas, and deploying a batch of Starlink V3 satellites before an early, precautionary splashdown.
-• AMD announced it is acquiring Fei-Fei Li's AI startup World Labs in a deal reportedly valued at about $8.2 billion.
-• Google's Mandiant and Threat Intelligence Group warned that the ShinyHunters hacking group has launched a new wave of mass exploitation against Oracle PeopleSoft systems, spreading beyond education into agriculture, government, healthcare and transportation.
+• President Trump signed an executive order directing federal agencies to rebrand "Artificial Intelligence" as "Super Intelligence" (SI), as tech CEOs including Musk, Zuckerberg, Pichai and Huang signed a White House Accord on Superintelligence at an accompanying luncheon.
+• Anthropic privately showed its IPO prospectus to investors ahead of a listing that could value the company at more than $2 trillion, devoting roughly 80 of 261 pages to AI risks, including warnings that its models have shown "self-preserving behaviors" and blackmail-like conduct.
+• OpenAI reportedly halted release of its next-generation model over safety concerns, as Sam Altman told Fortune an OpenAI IPO in 2026 would be "ill-advised," with a listing now expected by early 2027.
 
-🔬 Science: Researchers found that trace amounts of lead in ancient ink make text inside papyrus scrolls carbonized by the eruption of Mount Vesuvius glow under X-ray scanning, offering a new way to read lost Greek and Roman texts without unrolling them.
+🔬 Science: The LUX-ZEPLIN xenon detector recorded an unusual particle interaction that physicists say has only a 0.5% chance of being ordinary background noise — the strongest hint yet of dark matter, though still short of the statistical threshold for a confirmed discovery.
 
-📜 History: On this day in 1789, the newly formed U.S. Congress passed the act officially establishing the United States Army under the Constitution.
+📜 History: On this day in 1954, the USS Nautilus, the world's first nuclear-powered submarine, was commissioned by the U.S. Navy, ushering in a new era of naval propulsion.
 
-🤔 Philosophy: Philosophy circles this month are marking the death of writer and agrarian philosopher Wendell Berry (1934–2026), with tributes revisiting his decades of arguments for local economies, land stewardship and limits on technology.
+🤔 Philosophy: Philosopher Nancy Cartwright of UC San Diego won the 2026 Frontiers of Knowledge Award in Humanities for her influential work on the philosophy of science and evidence-based policymaking.
 
-🌍 Geography: Archaeologists working in Sweden's Tanum rock-art landscape, a UNESCO World Heritage site, discovered 16 previously undocumented carved rock surfaces, adding to one of Scandinavia's richest troves of Bronze Age art.
+🌍 Geography: Archaeologists uncovered an ancient wall in central Paris that may finally settle a long-standing debate over the location of the city's original Roman-era settlement, Lutetia.
 
-💰 Economics: Federal Reserve officials meeting in September projected real GDP growth of about 2.7% for the current quarter, even as a widening trade deficit and a fresh energy-price shock keep inflation forecasts elevated into 2027.
+💰 Economics: The Federal Reserve raised its policy rate 25 basis points to 3.75%–4.00% at its September meeting — its first hike since 2023 — citing inflation that has stayed above target for years, with one more increase projected before year-end.
 
-🧠 Psychology: New research links heavy use of "affective" generative AI chatbots among young people to worsening mental health outcomes, adding to growing scientific concern over AI companionship tools.
+🧠 Psychology: A genetic study of roughly one million people identified hundreds of DNA variants linked to the Big Five personality traits, offering new insight into how heritable traits like extraversion and neuroticism really are.
 
-🎨 Art & Literature: The 2026 Booker Prize shortlist of six novels was announced this month, narrowed from a longlist of thirteen, with the winner due to be named in November.
+🎨 Art & Literature: The 2026 Booker Prize shortlist, chaired by classicist Mary Beard, narrowed to six novels including Douglas Stuart's "John of John" and Elizabeth Strout's "The Things We Never Say," with the winner to be announced November 9 in London.
 
-🔭 Astronomy & Space: NASA's Roman Space Telescope has powered up its 300-megapixel infrared camera and may now carry enough fuel for at least 22 years of observations — more than double its original 10-year design life.
+🔭 Astronomy & Space: New research on Saturn's moon Enceladus strengthens the case that its subsurface ocean could support life, adding to NASA's growing interest in the icy moon as a target for future missions.
 
-🧬 Biology & Evolution: Paleontologists described a new giant dinosaur from Brazil, roughly 20 meters long, that lived 120 million years ago, while a separate study of 518-million-year-old fossils showed early relatives of starfish fed using tentacles rather than passive filtering.
+🧬 Biology & Evolution: Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth, shedding new light on the earliest chapters of complex life.
 
-🗺️ World Cultures & Languages: Europe marked the European Day of Languages on September 26 under the theme "Languages unite!", with UNESCO's International Translation Day following on September 30 to spotlight linguistic diversity and language rights worldwide.
+🗺️ World Cultures & Languages: The world marks International Translation Day on September 30 — the feast day of St. Jerome — with this year's UNESCO theme, "Linguistic Diversity and Language Rights," highlighting translators' role in connecting nations.
 
-➗ Mathematics: OpenAI said an army of its AI agents solved the Navier–Stokes existence and smoothness problem, one of the seven Millennium Prize Problems, in an 88-hour computing marathon — a result mathematicians call genuine but are also debating for what it means for the future of human-driven proof.
+➗ Mathematics: Mathematicians resolved a 55-year-old conjecture believed to have been inspired by the mathematics of juggling, using techniques rooted in randomness to crack a problem that had sat dormant for decades.
 
-⚖️ Politics & Law: The Trump administration asked the U.S. Supreme Court to let a new Postal Service rule governing mail-in ballots take effect ahead of the November midterms, as several states including Washington and North Carolina prepare their own state supreme court elections.
+⚖️ Politics & Law: The U.S. Supreme Court held its annual "long conference" on September 28 to sort through the term's backlog of petitions, days after reviving a contested DHS citizenship-verification data system for checking state voter rolls.
 
-🎵 Music: Kasabian's ninth studio album "Act III" debuted at No. 1 on the UK Official Albums Chart this month — the band's eighth consecutive chart-topping release.
+🎵 Music: Beabadoobee's new album "Pylon" debuted at No. 1 on the UK and Australian charts this week, topping releases from Roger Taylor and a new Leon Bridges record.
