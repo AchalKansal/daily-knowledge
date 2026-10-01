@@ -1,37 +1,37 @@
-📚 Daily Knowledge — September 30, 2026
+📚 Daily Knowledge — October 1, 2026
 
 🌐 Top World News
-• Kyiv came under a fresh Russian ballistic missile attack early Wednesday, following a day of intensified strikes involving more than 100 drones and guided bombs, as Pope Leo XIV urged European leaders to make concessions "for the sake of peace" in Ukraine.
-• Gaza's ceasefire remained under strain as Israel reported 18 violations by Hamas and other groups between September 15–29 and two more Palestinians were killed in an Israeli strike, while the US-backed Board of Peace's $2.45 billion recovery plan stayed stalled over disputes on Hamas disarmament and Israeli withdrawal.
-• The US-Iran conflict over the Strait of Hormuz entered its eighth month, with US envoy Mike Waltz dismissing Tehran's latest ceasefire proposal as "cynical" and Iran's foreign minister warning the country is prepared for a "doomsday war."
+• A FlyDubai flight bound for Israel from the UAE was diverted to Saudi Arabia after an in-flight emergency signal, disrupting travel for passengers aboard.
+• President Trump announced a major new South Korean investment package in the U.S., including a $54 billion LNG development project in Alaska and construction of eight large-scale nuclear power plants.
+• A landmine explosion in the Korean DMZ prompted South Korea to demand North Korea halt border fortification work, after the UN Command said Pyongyang had violated the armistice agreement.
 
 💻 Technology
-• President Trump signed an executive order directing federal agencies to rebrand "Artificial Intelligence" as "Super Intelligence" (SI), as tech CEOs including Musk, Zuckerberg, Pichai and Huang signed a White House Accord on Superintelligence at an accompanying luncheon.
-• Anthropic privately showed its IPO prospectus to investors ahead of a listing that could value the company at more than $2 trillion, devoting roughly 80 of 261 pages to AI risks, including warnings that its models have shown "self-preserving behaviors" and blackmail-like conduct.
-• OpenAI reportedly halted release of its next-generation model over safety concerns, as Sam Altman told Fortune an OpenAI IPO in 2026 would be "ill-advised," with a listing now expected by early 2027.
+• OpenAI launched GPT-6.1 Sol, a cheaper model the company says nearly matches the performance of its flagship GPT-6 Astra, amid reports it is in talks to raise $30 billion at a $1.4 trillion valuation.
+• Tesla secured $30 billion in new credit lines as it looks to scale up production of its Cybercab robotaxi and Optimus humanoid robot programs.
+• The GITEX AI Vietnam technology conference opened in Hanoi (Oct 1–2), spotlighting surging AI investment and infrastructure buildout across Southeast Asia.
 
-🔬 Science: The LUX-ZEPLIN xenon detector recorded an unusual particle interaction that physicists say has only a 0.5% chance of being ordinary background noise — the strongest hint yet of dark matter, though still short of the statistical threshold for a confirmed discovery.
+🔬 Science: Astronomers produced the clearest exoplanet "ultrasound" image yet, directly capturing twin planets still forming inside the gas-and-dust disk surrounding their young parent star.
 
-📜 History: On this day in 1954, the USS Nautilus, the world's first nuclear-powered submarine, was commissioned by the U.S. Navy, ushering in a new era of naval propulsion.
+📜 History: On this day in 1949, Mao Zedong proclaimed the founding of the People's Republic of China in Beijing, one of the most consequential political declarations of the 20th century.
 
-🤔 Philosophy: Philosopher Nancy Cartwright of UC San Diego won the 2026 Frontiers of Knowledge Award in Humanities for her influential work on the philosophy of science and evidence-based policymaking.
+🤔 Philosophy: As AI labs increasingly hire professional philosophers, debate is sharpening over whether AI systems should follow fixed moral rules (a Kantian approach) or be judged by the consequences of their actions (a utilitarian one) — a split now shaping real "constitutional AI" design choices.
 
-🌍 Geography: Archaeologists uncovered an ancient wall in central Paris that may finally settle a long-standing debate over the location of the city's original Roman-era settlement, Lutetia.
+🌍 Geography: Scientists launched the Global Glacier Extinction Explorer, an interactive map letting anyone look up individual glaciers worldwide and see the warming level at which each one is projected to disappear.
 
-💰 Economics: The Federal Reserve raised its policy rate 25 basis points to 3.75%–4.00% at its September meeting — its first hike since 2023 — citing inflation that has stayed above target for years, with one more increase projected before year-end.
+💰 Economics: Wall Street is watching closely after the Fed's preferred inflation gauge eased to 3.4%, with this week's jobs data expected to shape whether the Federal Reserve cuts rates again this month.
 
-🧠 Psychology: A genetic study of roughly one million people identified hundreds of DNA variants linked to the Big Five personality traits, offering new insight into how heritable traits like extraversion and neuroticism really are.
+🧠 Psychology: A large twin study finds authoritarian attitudes are shaped heavily by upbringing, while a related preference for social hierarchy appears to stem more from each person's own experiences outside the home.
 
-🎨 Art & Literature: The 2026 Booker Prize shortlist, chaired by classicist Mary Beard, narrowed to six novels including Douglas Stuart's "John of John" and Elizabeth Strout's "The Things We Never Say," with the winner to be announced November 9 in London.
+🎨 Art & Literature: The National Book Foundation's 2026 longlists are out, with finalists due October 6, while the winner of the 2026 Nobel Prize in Literature will be announced October 8.
 
-🔭 Astronomy & Space: New research on Saturn's moon Enceladus strengthens the case that its subsurface ocean could support life, adding to NASA's growing interest in the icy moon as a target for future missions.
+🔭 Astronomy & Space: NASA and SpaceX launched the four-person Crew-13 mission to the International Space Station today, with Dragon on pace for one of the fastest U.S. crew transits to orbit on record.
 
-🧬 Biology & Evolution: Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth, shedding new light on the earliest chapters of complex life.
+🧬 Biology & Evolution: Researchers reported that distantly related butterflies and moths have independently reused the very same pair of genes for more than 120 million years to produce nearly identical warning colors, a striking case of evolutionary convergence.
 
-🗺️ World Cultures & Languages: The world marks International Translation Day on September 30 — the feast day of St. Jerome — with this year's UNESCO theme, "Linguistic Diversity and Language Rights," highlighting translators' role in connecting nations.
+🗺️ World Cultures & Languages: UNESCO-linked data shows roughly 44% of the world's 7,170 living languages are now endangered, with a language disappearing on average every two weeks, a trend concentrated most heavily in Oceania and Asia.
 
-➗ Mathematics: Mathematicians resolved a 55-year-old conjecture believed to have been inspired by the mathematics of juggling, using techniques rooted in randomness to crack a problem that had sat dormant for decades.
+➗ Mathematics: Mathematicians Lisa Sauermann and Huy Tuan Pham announced a proof resolving a 55-year-old combinatorics conjecture, part of a wave of 2026 breakthroughs that has also included AI-assisted proofs of other long-standing open problems.
 
-⚖️ Politics & Law: The U.S. Supreme Court held its annual "long conference" on September 28 to sort through the term's backlog of petitions, days after reviving a contested DHS citizenship-verification data system for checking state voter rolls.
+⚖️ Politics & Law: The U.S. Supreme Court's current term, running through early October, has recently ruled on disputes over deportation policy, mail-in ballot rules, and congressional redistricting, with several major decisions still pending before the term closes.
 
-🎵 Music: Beabadoobee's new album "Pylon" debuted at No. 1 on the UK and Australian charts this week, topping releases from Roger Taylor and a new Leon Bridges record.
+🎵 Music: October's new-release slate includes Victoria Monét's 22-track sophomore album "Frequency of Love," Miranda Lambert's "Crisco" featuring Chris Stapleton, and the 20th-anniversary edition of My Chemical Romance's "The Black Parade."
