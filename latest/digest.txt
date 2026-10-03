@@ -1,37 +1,37 @@
-📚 Daily Knowledge — October 2, 2026
+📚 Daily Knowledge — October 3, 2026
 
 🌐 Top World News
-• Russia issued a formal warning to NATO that it would not hesitate to use nuclear weapons to defend Kaliningrad if the alliance moves to blockade the exclave, accusing NATO of a "dangerous and reckless course"; NATO called the nuclear rhetoric irresponsible and said none of its activities threaten Russian territory.
-• The Gaza ceasefire remains fragile nine months in, with Israel reported to control nearly 70% of the territory and near-daily strikes continuing despite the US-brokered truce; Hamas dissolved its Gaza civil administration earlier this year as disarmament and reconstruction talks drag on.
-• In Washington, fallout continues from the record 2026 federal shutdowns: after a 43-day shutdown ended in November 2025, a second, 76-day partial shutdown over Department of Homeland Security funding became the longest partial shutdown in U.S. history before ending in April.
+• Sudan's civil war is deepening around El-Obeid, North Kordofan, where repeated Rapid Support Forces drone strikes on a shelter camp and a university dormitory have killed and wounded dozens of civilians this week; both the army and RSF have rejected a US-backed 90-day humanitarian truce proposal.
+• Following their Washington summit, the US and China finalized a deal cutting tariffs on roughly $30 billion of goods and extended their fragile trade truce by two months, adding a new dialogue on AI even as deeper structural disputes remain unresolved.
+• Polish Prime Minister Donald Tusk warned that Russia is preparing hybrid drone or rocket strikes it will disguise as "accidents" against NATO states backing Ukraine, as the alliance steps up air-defense patrols near Kaliningrad and the Baltic states.
 
 💻 Technology
-• Google announced Gemini 4 "Argon," a new AI model built for complex software engineering, enterprise knowledge work, and cybersecurity defense, featuring a one-million-token context window.
-• Samsung launched its Galaxy Tab S12 Ultra and Galaxy Tab S12 Plus tablets, starting at $1,400 and $1,200 respectively in the US.
-• GITEX Vietnam, a major tech exhibition and conference, wrapped up in Hanoi on October 2, spotlighting AI investment and digital infrastructure growth across Southeast Asia.
+• The U.S. Department of Defense disclosed a months-long breach of a personnel-records system that exposed sensitive data belonging to more than 3 million people — 2.76 million living service members and roughly 294,000 deceased — one of the year's largest government data breaches.
+• OpenAI launched "Dots," a suite of always-on autonomous AI agents that can browse the web and use thousands of connected apps to handle tasks like booking travel, alongside "Pages," a new collaborative document editor — a direct push into enterprise productivity software.
+• Microsoft unveiled its in-house "Maia 200" AI chip for its own data centers, joining Google and Amazon in building custom silicon to reduce reliance on Nvidia as AI infrastructure costs soar.
 
-🔬 Science: A new "Plant Armor" protective fabric has boosted strawberry yields by up to 3.56 times by blocking insects while still letting sunlight, rain, and airflow reach the crop.
+🔬 Science: Finalists for the 2026 Falling Walls Science Breakthrough of the Year include AI-engineered bacteriophages — genome language models designing novel viruses to fight antibiotic-resistant bacteria — with winners presented on stage in Berlin this November.
 
-📜 History: On this day in 1187, Jerusalem surrendered to Sultan Saladin's forces following the Crusader defeat at the Battle of Hattin, ending nearly 88 years of Crusader rule over the city.
+📜 History: On this day in 1990, East and West Germany officially reunified after 45 years of Cold War division, an event still celebrated annually in Germany as "Tag der Deutschen Einheit" (German Unity Day).
 
-🤔 Philosophy: Philosophers are increasingly examining what human relationships with AI chatbots reveal about the nature of friendship — debating whether such "artificial friendships" offer genuine benefit or represent something more troubling.
+🤔 Philosophy: This October's philosophy-of-computing journals are debating whether fluent AI chatbot outputs can ever count as genuine "testimony," with several new papers arguing that linguistic polish alone can't substitute for the beliefs and intentions testimony normally requires.
 
-🌍 Geography: The UN Convention on Biological Diversity's COP17 opens October 19 in Yerevan, Armenia, aiming to advance the global goal of protecting at least 30% of the planet's land and marine ecosystems by 2030.
+🌍 Geography: A three-month expedition into Mexico's Sistema Cheve cave system, led by explorers Bill Stone and Gilly Elor, is attempting to confirm it as the deepest cave on Earth, pushing cave divers into total darkness beyond the current limit of exploration.
 
-💰 Economics: US stocks edged higher as a rebound in Treasuries pulled 10-year yields down from their highest levels since 2002, after August core PCE inflation came in cooler than expected at 3.0% annually.
+💰 Economics: U.S. employers added 119,000 jobs in September, more than double economists' forecasts, but the unemployment rate still climbed to 4.4% — its highest since October 2021 — as more people entered the labor force than found work right away.
 
-🧠 Psychology: New brain-imaging research on thousands of 9- and 10-year-olds found socioeconomic status is most strongly linked to differences in motor and sensory brain regions, rather than areas tied to cognition.
+🧠 Psychology: A new study finds that curious people tend to accumulate more "cognitive reserve" through higher education and mentally stimulating hobbies, a buffer researchers link to slower cognitive decline later in life.
 
-🎨 Art & Literature: The 2026 Nobel Prize in Literature will be announced October 8, with Can Xue the current betting favorite ahead of Haruki Murakami, Thomas Pynchon, and Margaret Atwood.
+🎨 Art & Literature: The 2026 Booker Prize shortlist is out, with six novels — including Elizabeth Strout's "The Things We Never Say" and Douglas Stuart's "John of John" — competing for the £50,000 prize, to be awarded November 9.
 
-🔭 Astronomy & Space: Saturn reaches opposition on October 4, making it directly opposite the sun and at its brightest and most visible for the year, with its rings now reopening and easier to view through a small telescope.
+🔭 Astronomy & Space: NASA's Crew-13 launched October 1 carrying three astronauts and one cosmonaut to the International Space Station, where they'll spend roughly six months conducting research in orbit.
 
-🧬 Biology & Evolution: Researchers found that starving E. coli bacteria exchange DNA via bacteriophages and CRISPR machinery over 100 times more often than they acquire mutations spontaneously, revealing a "sex-like" survival strategy under stress.
+🧬 Biology & Evolution: A diving expedition off Western Australia's Ningaloo Canyons has identified up to 30 new deep-sea species, including a newly described bioluminescent shark, the West Australian lanternshark (Etmopterus westraliensis).
 
-🗺️ World Cultures & Languages: Cambridge University is launching a new annual lecture series, "Languages in the World," on October 21, exploring how language shapes geopolitics and global connection.
+🗺️ World Cultures & Languages: Roughly 3,226 of the world's 7,170 living languages are now considered endangered, though revival efforts are showing gains — conversational ability in Te reo Māori rose 15% in New Zealand's last census period.
 
-➗ Mathematics: AI systems have driven a wave of 2026 breakthroughs, including a Claude-assisted advance on prime number distribution tied to the Riemann hypothesis and a separate AI-generated proof of a percolation theory conjecture.
+➗ Mathematics: Researchers combining tensor decomposition with deep reinforcement learning pushed the matrix multiplication exponent below 2.3727 to 2.3719, a new record for how efficiently large matrices can theoretically be multiplied.
 
-⚖️ Politics & Law: The Supreme Court's new term opens October 5 with Suncor Energy v. Boulder County, a climate-liability case, as the Court faces a docket touching the Second Amendment, religious liberty, parental rights, and election law.
+⚖️ Politics & Law: The U.S. Supreme Court is hearing oral arguments this week in a case that could decide the future of birthright citizenship, one of the term's most closely watched disputes.
 
-🎵 Music: New October releases include Amon Amarth's "The Allfather Awakens," Escape the Fate's "The Last Goodbye," and a forthcoming Beatles "Rubber Soul" box set featuring 20 previously unreleased takes.
+🎵 Music: New October releases include Lee Brice's "Sunriser," Miranda Lambert's genre-blending "Crisco," and upcoming albums from Greta Van Fleet, Fontaines D.C., and LISA.
