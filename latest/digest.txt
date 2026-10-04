@@ -1,37 +1,37 @@
-📚 Daily Knowledge — October 3, 2026
+📚 Daily Knowledge — October 4, 2026
 
 🌐 Top World News
-• Sudan's civil war is deepening around El-Obeid, North Kordofan, where repeated Rapid Support Forces drone strikes on a shelter camp and a university dormitory have killed and wounded dozens of civilians this week; both the army and RSF have rejected a US-backed 90-day humanitarian truce proposal.
-• Following their Washington summit, the US and China finalized a deal cutting tariffs on roughly $30 billion of goods and extended their fragile trade truce by two months, adding a new dialogue on AI even as deeper structural disputes remain unresolved.
-• Polish Prime Minister Donald Tusk warned that Russia is preparing hybrid drone or rocket strikes it will disguise as "accidents" against NATO states backing Ukraine, as the alliance steps up air-defense patrols near Kaliningrad and the Baltic states.
+• Sudan's civil war continues to intensify around El-Fasher in North Darfur, where the UN says roughly 260,000 civilians — including 130,000 children — remain trapped under a 16-month RSF siege, with aid agencies warning of mass starvation, drone strikes on power infrastructure, and reports of killings and sexual violence.
+• Iran's Revolutionary Guard says it struck two more oil tankers attempting to transit the Strait of Hormuz, the latest in a monthslong campaign of tanker strikes that has rattled global shipping and sent Iran's rial to fresh lows against the dollar.
+• The Gaza ceasefire remains fragile nearly a year after it took hold, with Israel and Hamas accusing each other of violations even as U.S. officials, including Vice President JD Vance, push into the deal's next phase: rebuilding Gaza and setting up a Palestinian administrative board.
 
 💻 Technology
-• The U.S. Department of Defense disclosed a months-long breach of a personnel-records system that exposed sensitive data belonging to more than 3 million people — 2.76 million living service members and roughly 294,000 deceased — one of the year's largest government data breaches.
-• OpenAI launched "Dots," a suite of always-on autonomous AI agents that can browse the web and use thousands of connected apps to handle tasks like booking travel, alongside "Pages," a new collaborative document editor — a direct push into enterprise productivity software.
-• Microsoft unveiled its in-house "Maia 200" AI chip for its own data centers, joining Google and Amazon in building custom silicon to reduce reliance on Nvidia as AI infrastructure costs soar.
+• Apple is preparing to expand Siri's AI-powered overhaul to French, Japanese, Korean, Portuguese, and Spanish via iOS 27.2, following its initial AI relaunch for English speakers.
+• OpenAI's custom AI chip, co-designed with Broadcom and manufactured on TSMC's 3-nanometer process, is moving toward mass production as the company tries to cut its dependence on Nvidia amid soaring GPU costs.
+• Google DeepMind's next flagship model, Gemini 4, has reportedly entered post-training, with a launch expected before year's end as the AI race with OpenAI and Anthropic accelerates.
 
-🔬 Science: Finalists for the 2026 Falling Walls Science Breakthrough of the Year include AI-engineered bacteriophages — genome language models designing novel viruses to fight antibiotic-resistant bacteria — with winners presented on stage in Berlin this November.
+🔬 Science: AI trained on six million candidate molecules helped researchers identify a promising new antibiotic for drug-resistant gonorrhea, validated in a lab-grown "vagina on a chip" model.
 
-📜 History: On this day in 1990, East and West Germany officially reunified after 45 years of Cold War division, an event still celebrated annually in Germany as "Tag der Deutschen Einheit" (German Unity Day).
+📜 History: On this day in 1957, the Soviet Union launched Sputnik 1 from the Baikonur Cosmodrome, the world's first artificial satellite — kicking off the Space Race and the dawn of the space age.
 
-🤔 Philosophy: This October's philosophy-of-computing journals are debating whether fluent AI chatbot outputs can ever count as genuine "testimony," with several new papers arguing that linguistic polish alone can't substitute for the beliefs and intentions testimony normally requires.
+🤔 Philosophy: UNESCO adopted a global ethics code for neurotechnology, grappling with who owns and controls data read directly from the human brain as implants and AI-brain interfaces edge toward the mainstream.
 
-🌍 Geography: A three-month expedition into Mexico's Sistema Cheve cave system, led by explorers Bill Stone and Gilly Elor, is attempting to confirm it as the deepest cave on Earth, pushing cave divers into total darkness beyond the current limit of exploration.
+🌍 Geography: Greenland's Petermann Glacier calved a 76.4-square-kilometer ice island in early August, its largest loss of floating ice since 2012 and the biggest Arctic calving event since 2020.
 
-💰 Economics: U.S. employers added 119,000 jobs in September, more than double economists' forecasts, but the unemployment rate still climbed to 4.4% — its highest since October 2021 — as more people entered the labor force than found work right away.
+💰 Economics: The Federal Reserve, now led by Chair Kevin Warsh, held interest rates steady at 3.5%–3.75% even as inflation held elevated near 3.7%, with officials split on whether a hike is still needed before year-end.
 
-🧠 Psychology: A new study finds that curious people tend to accumulate more "cognitive reserve" through higher education and mentally stimulating hobbies, a buffer researchers link to slower cognitive decline later in life.
+🧠 Psychology: New research suggests dreaming functions as a "multimotive simulation space," a theory that reframes dreams not as random noise but as the brain rehearsing emotional and social scenarios.
 
-🎨 Art & Literature: The 2026 Booker Prize shortlist is out, with six novels — including Elizabeth Strout's "The Things We Never Say" and Douglas Stuart's "John of John" — competing for the £50,000 prize, to be awarded November 9.
+🎨 Art & Literature: Museums are opening major fall blockbusters — Amsterdam's H'ART Museum debuts "Chez Matisse" and the Rijksmuseum opens a Willem de Kooning retrospective — just as the world awaits Thursday's announcement of the 2026 Nobel Prize in Literature.
 
-🔭 Astronomy & Space: NASA's Crew-13 launched October 1 carrying three astronauts and one cosmonaut to the International Space Station, where they'll spend roughly six months conducting research in orbit.
+🔭 Astronomy & Space: NASA's Nancy Grace Roman Space Telescope, built to survey billions of galaxies and hunt for more than 100,000 exoplanets, has completed construction and could launch as early as this fall.
 
-🧬 Biology & Evolution: A diving expedition off Western Australia's Ningaloo Canyons has identified up to 30 new deep-sea species, including a newly described bioluminescent shark, the West Australian lanternshark (Etmopterus westraliensis).
+🧬 Biology & Evolution: A 2026 study estimates Earth may harbor roughly twice as many vertebrate species as previously catalogued, as researchers continue describing new frogs, salamanders, and deep-sea creatures at an accelerating pace.
 
-🗺️ World Cultures & Languages: Roughly 3,226 of the world's 7,170 living languages are now considered endangered, though revival efforts are showing gains — conversational ability in Te reo Māori rose 15% in New Zealand's last census period.
+🗺️ World Cultures & Languages: About 3,226 of the world's 7,170 living languages — roughly 44% — are now considered endangered, with UNESCO estimating one language disappears every two weeks.
 
-➗ Mathematics: Researchers combining tensor decomposition with deep reinforcement learning pushed the matrix multiplication exponent below 2.3727 to 2.3719, a new record for how efficiently large matrices can theoretically be multiplied.
+➗ Mathematics: Teenager Hannah Cairo made waves by disproving the four-decade-old Mizohata-Takeuchi conjecture, while mathematicians Wang Hong and Deng Yu were awarded the 2026 Fields Medal for breakthroughs in geometric analysis and Hilbert's sixth problem.
 
-⚖️ Politics & Law: The U.S. Supreme Court is hearing oral arguments this week in a case that could decide the future of birthright citizenship, one of the term's most closely watched disputes.
+⚖️ Politics & Law: The U.S. Supreme Court opened its new term this week, hearing arguments in Suncor Energy v. Boulder County, a closely watched case over whether oil and gas companies can be sued in state court for damages tied to climate change.
 
-🎵 Music: New October releases include Lee Brice's "Sunriser," Miranda Lambert's genre-blending "Crisco," and upcoming albums from Greta Van Fleet, Fontaines D.C., and LISA.
+🎵 Music: Fresh off Bad Bunny's historic Album of the Year win for "DeBÍ TiRAR MáS FOToS" at the 2026 Grammys, the music industry is already looking ahead to new releases and next year's contenders.
